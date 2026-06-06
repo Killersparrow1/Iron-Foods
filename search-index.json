@@ -1,0 +1,7837 @@
+[
+  {
+    "id": "fish-curry-ani",
+    "search_terms": [
+      "andaman fish curry",
+      "coastal fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-prawn-curry",
+    "search_terms": [
+      "coconut prawn curry",
+      "prawns in coconut milk"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "grilled-fish",
+    "search_terms": [
+      "grilled fish",
+      "barbecued fish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "crab-masala",
+    "search_terms": [
+      "crab masala",
+      "spiced crab"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "seafood-platter",
+    "search_terms": [
+      "seafood platter",
+      "mix seafood"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-fry",
+    "search_terms": [
+      "fish fry",
+      "crispy fish"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "coconut-rice",
+    "search_terms": [
+      "coconut rice",
+      "rice with coconut"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "shellfish-curry",
+    "search_terms": [
+      "shellfish curry",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "prawn-fry",
+    "search_terms": [
+      "prawn fry",
+      "prawns"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "fish-curry-main",
+    "search_terms": [
+      "fish curry main",
+      "नूँस्त्या कडी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-prawn-curry-main",
+    "search_terms": [
+      "coconut prawn curry main",
+      "prawns",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "grilled-fish-main",
+    "search_terms": [
+      "grilled fish main",
+      "fish",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "crab-masala-main",
+    "search_terms": [
+      "crab masala main",
+      "crab",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "seafood-platter-main",
+    "search_terms": [
+      "seafood platter main",
+      "seafood",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-fry-snack",
+    "search_terms": [
+      "fish fry snack",
+      "fish",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "coconut-rice-main",
+    "search_terms": [
+      "coconut rice main",
+      "rice",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "shellfish-curry-main",
+    "search_terms": [
+      "shellfish curry main",
+      "shellfish",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "prawn-fry-snack",
+    "search_terms": [
+      "prawn fry snack",
+      "prawns",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "fish-curry-main2",
+    "search_terms": [
+      "fish curry main2",
+      "fish",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-prawn-curry-main2",
+    "search_terms": [
+      "coconut prawn curry main2",
+      "prawns",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pulihora",
+    "search_terms": [
+      "pulihora",
+      "పులిహోర",
+      "tamarind rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pappu",
+    "search_terms": [
+      "dal pappu",
+      "పప్పు",
+      "lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "avakkai-pickle",
+    "search_terms": [
+      "avakkai pickle",
+      "ఆవకాయ",
+      "mango pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pootharekulu",
+    "search_terms": [
+      "pootharekulu",
+      "పూతరేకులు",
+      "paper sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gunta-ponganalu",
+    "search_terms": [
+      "gunta ponganalu",
+      "గుంత పొంగనాలు",
+      "appe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "pesarattu",
+    "search_terms": [
+      "pesarattu",
+      "పెసరట్టు",
+      "moong dal crepe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "upma-pesarattu",
+    "search_terms": [
+      "mla pesarattu",
+      "పెసరట్టు ఉప్మా",
+      "pesarattu with upma"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gongura-pachadi",
+    "search_terms": [
+      "gongura chutney",
+      "గోంగూర పచ్చడి",
+      "sorrel leaves chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gongura-pappu",
+    "search_terms": [
+      "gongura dal",
+      "గోంగూర పప్పు",
+      "sorrel dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tomato-pappu",
+    "search_terms": [
+      "tomato dal",
+      "టొమాటో పప్పు"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "vankaya-kura",
+    "search_terms": [
+      "brinjal curry",
+      "వంకాయ కూర",
+      "eggplant curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pulusu",
+    "search_terms": [
+      "vegetable pulusu",
+      "పులుసు",
+      "tangy vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "rasam-ap",
+    "search_terms": [
+      "rasam",
+      "చారు",
+      "charu"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "papad",
+    "search_terms": [
+      "appadam",
+      "అప్పడం",
+      "papad"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jantikalu",
+    "search_terms": [
+      "jantikalu",
+      "జంతికలు",
+      "murukku"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bobbatlu",
+    "search_terms": [
+      "bobbatlu",
+      "బొబ్బట్లు",
+      "puran poli"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "laddu",
+    "search_terms": [
+      "laddu",
+      "లడ్డు",
+      "sweet ball"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kajikayalu",
+    "search_terms": [
+      "kajikayalu",
+      "కజ్జికాయలు",
+      "sweet dumpling"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "pappu-charu",
+    "search_terms": [
+      "pappu charu",
+      "పప్పు చారు",
+      "thick lentil soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vada-ap",
+    "search_terms": [
+      "vada",
+      "వడ",
+      "urad dal vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pachadi-tomato",
+    "search_terms": [
+      "tomato pachadi",
+      "టొమాటో పచ్చడి",
+      "tomato chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pachadi-kottimeera",
+    "search_terms": [
+      "coriander pachadi",
+      "కొత్తిమీర పచ్చడి",
+      "cilantro chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pachadi-kobbari",
+    "search_terms": [
+      "coconut pachadi",
+      "కొబ్బరి పచ్చడి",
+      "coconut chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pachadi-allam",
+    "search_terms": [
+      "ginger pachadi",
+      "అల్లం పచ్చడి",
+      "ginger chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "puli-hora",
+    "search_terms": [
+      "pulihora",
+      "పులిహోర",
+      "tamarind rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pesarattu-ap",
+    "search_terms": [
+      "pesarattu",
+      "పెసరట్టు",
+      "moong dal dosa"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vankaya-koora",
+    "search_terms": [
+      "brinjal curry",
+      "వంకాయ కూర",
+      "eggplant stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pappu-tomato",
+    "search_terms": [
+      "tomato dal",
+      "టొమాటో పప్పు"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pulusu-vegetable",
+    "search_terms": [
+      "vegetable pulusu",
+      "పులుసు",
+      "tangy stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pappu-charu-ap",
+    "search_terms": [
+      "pappu charu",
+      "పప్పు చారు",
+      "dal soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bobbatlu-ap",
+    "search_terms": [
+      "bobbatlu",
+      "బొబ్బట్లు",
+      "sweet poli"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "laddu-ap",
+    "search_terms": [
+      "laddu",
+      "లడ్డు",
+      "besan laddu"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kajikayalu-ap",
+    "search_terms": [
+      "kajikayalu",
+      "కజ్జికాయలు",
+      "somas"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jantikalu-ap",
+    "search_terms": [
+      "jantikalu",
+      "జంతికలు",
+      "fried snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pootharekulu-ap",
+    "search_terms": [
+      "pootharekulu",
+      "పూతరేకులు",
+      "paper sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gongura-pachadi-ap",
+    "search_terms": [
+      "gongura chutney",
+      "గోంగూర పచ్చడి",
+      "gongura"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "avakkai-pickle-ap",
+    "search_terms": [
+      "avakkai pickle",
+      "ఆవకాయ",
+      "mango pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gunta-ponganalu-ap",
+    "search_terms": [
+      "gunta ponganalu",
+      "గుంత పొంగనాలు",
+      "appe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "pappu-dal-ap",
+    "search_terms": [
+      "dal pappu",
+      "పప్పు",
+      "lentil"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vada-dal-ap",
+    "search_terms": [
+      "vada",
+      "వడ",
+      "dal vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "idli-ap",
+    "search_terms": [
+      "idli",
+      "ఇడ్లీ",
+      "idly"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dosa-ap",
+    "search_terms": [
+      "dosa",
+      "దోశ",
+      "dose"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sambar-ap",
+    "search_terms": [
+      "sambar",
+      "సాంబార్",
+      "lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "rasam-charu-ap",
+    "search_terms": [
+      "charu",
+      "చారు",
+      "rasam"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chitrannam-ap",
+    "search_terms": [
+      "lemon rice",
+      "చిత్రాన్నం",
+      "pulihora"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "papadum-ap",
+    "search_terms": [
+      "appadam",
+      "అప్పడం",
+      "papad"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gongura-dal-ap",
+    "search_terms": [
+      "gongura pappu",
+      "గోంగూర పప్పు",
+      "sorrel dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tomato-dal-ap",
+    "search_terms": [
+      "tomato pappu",
+      "టొమాటో పప్పు",
+      "tomato dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "eggplant-curry-ap",
+    "search_terms": [
+      "vankaya koora",
+      "వంకాయ కూర",
+      "brinjal curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "tangy-stew-ap",
+    "search_terms": [
+      "vegetable pulusu",
+      "పులుసు",
+      "pulusu"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thukpa",
+    "search_terms": [
+      "thukpa",
+      "millet noodle soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pika-pila",
+    "search_terms": [
+      "pika pila",
+      "bamboo shoot pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chura-sabji",
+    "search_terms": [
+      "chura sabji",
+      "cheese curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "lukter",
+    "search_terms": [
+      "lukter",
+      "dry meat dish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "peakok",
+    "search_terms": [
+      "peakok",
+      "fermented soybean dish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koat-pitha",
+    "search_terms": [
+      "koat pitha",
+      "rice flour fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "ngatok",
+    "search_terms": [
+      "ngatok",
+      "fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "wungwut-ngam",
+    "search_terms": [
+      "wungwut ngam",
+      "chicken with rice flour"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bamboo-shoot-fry",
+    "search_terms": [
+      "bamboo shoot fry",
+      "bamboo stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "khura",
+    "search_terms": [
+      "khura",
+      "buckwheat pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "smoked-pork",
+    "search_terms": [
+      "smoked pork",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "red-rice",
+    "search_terms": [
+      "red rice",
+      "rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "millet-porridge",
+    "search_terms": [
+      "millet porridge",
+      "millet"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dry-fish-chutney",
+    "search_terms": [
+      "dry fish chutney",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pork-bamboo",
+    "search_terms": [
+      "pork with bamboo shoot",
+      "pork bamboo"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "boiled-veg",
+    "search_terms": [
+      "boiled vegetables",
+      "veg"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "apong",
+    "search_terms": [
+      "apong",
+      "rice beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "smoked-chicken",
+    "search_terms": [
+      "smoked chicken",
+      "chicken"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fermented-bamboo-shoot",
+    "search_terms": [
+      "fermented bamboo shoot",
+      "bamboo"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "leaf-wrap",
+    "search_terms": [
+      "leaf wrap",
+      "veg"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "masor-tenga",
+    "search_terms": [
+      "masor tenga",
+      "মাছৰ টেঙা",
+      "sour fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "khar",
+    "search_terms": [
+      "khar",
+      "খাৰ",
+      "alkaline vegetable dish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pitha",
+    "search_terms": [
+      "pitha",
+      "পিঠা",
+      "rice cake"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "jolpan",
+    "search_terms": [
+      "jolpan",
+      "জলপান",
+      "flattened rice snack"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "duck-fry",
+    "search_terms": [
+      "duck fry",
+      "হাঁহৰ মাংস",
+      "duck meat"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poita-bhat",
+    "search_terms": [
+      "poita bhat",
+      "পইতা ভাত",
+      "fermented rice"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "aloo-pitika",
+    "search_terms": [
+      "aloo pitika",
+      "আলু পিটিকা",
+      "mashed potato"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koldil-baji",
+    "search_terms": [
+      "koldil baji",
+      "কলডিল ভাজি",
+      "banana flower fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "matti-mah",
+    "search_terms": [
+      "matti mah",
+      "মাটি মাহ",
+      "black gram dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "baanh-gajor-lagot-koni",
+    "search_terms": [
+      "bamboo shoot with egg",
+      "বাঁহগাজৰ লগত কণী",
+      "bamboo egg"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "xak",
+    "search_terms": [
+      "xak",
+      "শাক",
+      "greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "masor-tenga-tenga",
+    "search_terms": [
+      "sour fish curry",
+      "মাছৰ টেঙা",
+      "fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pitha-til",
+    "search_terms": [
+      "til pitha",
+      "তিল পিঠা",
+      "sesame rice cake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jolpan-curd",
+    "search_terms": [
+      "curd jolpan",
+      "দৈ জলপান",
+      "curd flat rice"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "duck-meat",
+    "search_terms": [
+      "duck meat",
+      "হাঁহ",
+      "duck"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poita-bhat-side",
+    "search_terms": [
+      "side with poita bhat",
+      "পইতা ভাতৰ লগত",
+      "side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "aloo-pitika-side",
+    "search_terms": [
+      "aloo pitika side",
+      "আলু পিটিকা",
+      "mashed aloo"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koldil-baji-side",
+    "search_terms": [
+      "koldil baji side",
+      "কলডিল ভাজি",
+      "banana flower"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "matti-mah-main",
+    "search_terms": [
+      "matti mah main",
+      "মাটি মাহ",
+      "dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "baanh-gajor",
+    "search_terms": [
+      "bamboo shoot",
+      "বাঁহগাজ",
+      "bamboo"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "litti-chokha",
+    "search_terms": [
+      "litti chokha",
+      "लिट्टी चोखा",
+      "roasted wheat balls with mash"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sattu-drink",
+    "search_terms": [
+      "sattu drink",
+      "सत्तू का शरबत",
+      "roasted gram flour drink"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dal-pitha",
+    "search_terms": [
+      "dal pitha",
+      "दाल पीठा",
+      "lentil filled rice dumplings"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "khaja",
+    "search_terms": [
+      "khaja",
+      "खाजा",
+      "sweet fried pastry"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "thekua",
+    "search_terms": [
+      "thekua",
+      "ठेकुआ",
+      "wheat flour cookie"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "malpua",
+    "search_terms": [
+      "malpua",
+      "मालपुआ",
+      "sweet pancake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kadhi-badi",
+    "search_terms": [
+      "kadhi badi",
+      "कढ़ी बड़ी",
+      "yogurt and gram flour curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chana-ghugni",
+    "search_terms": [
+      "chana ghugni",
+      "चना घुघनी",
+      "spiced chickpeas"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "til-kut",
+    "search_terms": [
+      "tilkut",
+      "तिलकुट",
+      "sesame and jaggery sweet"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "parwal-mithai",
+    "search_terms": [
+      "parwal ki mithai",
+      "परवल की मिठाई",
+      "pointed gourd sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sattu-paratha",
+    "search_terms": [
+      "sattu paratha",
+      "सत्तू पराठा",
+      "gram flour stuffed flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "aloo-chokha",
+    "search_terms": [
+      "aloo chokha",
+      "आलू चोखा",
+      "mashed potatoes with spices"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "baingan-chokha",
+    "search_terms": [
+      "baingan chokha",
+      "बैंगन चोखा",
+      "mashed eggplant"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "sattu-chokha",
+    "search_terms": [
+      "sattu chokha",
+      "सत्तू चोखा",
+      "gram flour mash"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pua",
+    "search_terms": [
+      "pua",
+      "पुआ",
+      "deep fried sweet flatbread"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "dal-puri",
+    "search_terms": [
+      "dal puri",
+      "दाल पूरी",
+      "lentil stuffed fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "ghugni-muri",
+    "search_terms": [
+      "ghugni muri",
+      "घुघनी मुड़ी",
+      "chickpea curry with puffed rice"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "baingan-bharta",
+    "search_terms": [
+      "baingan bharta",
+      "बैंगन भर्ता",
+      "mashed eggplant"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-dum",
+    "search_terms": [
+      "aloo dum",
+      "आलू दम",
+      "spiced potato curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "sattu-drink-sugar",
+    "search_terms": [
+      "sweet sattu drink",
+      "मीठा सत्तू",
+      "sattu"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chole-bhature-chd",
+    "search_terms": [
+      "chole bhature",
+      "ਛੋਲੇ ਭਟੂਰੇ",
+      "chickpea curry"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-chd",
+    "search_terms": [
+      "amritsari kulcha",
+      "ਅੰਮ੍ਰਿਤਸਰੀ ਕੁਲਚਾ",
+      "stuffed bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dal-makhani-chd",
+    "search_terms": [
+      "dal makhani",
+      "ਦਾਲ ਮੱਖਣੀ",
+      "creamy lentil"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "butter-chicken-chd",
+    "search_terms": [
+      "butter chicken",
+      "ਬਟਰ ਚਿਕਨ",
+      "chicken curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paneer-tikka-chd",
+    "search_terms": [
+      "paneer tikka",
+      "ਪਨੀਰ ਟਿੱਕਾ",
+      "grilled paneer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "lassi-chd",
+    "search_terms": [
+      "lassi",
+      "ਲੱਸੀ",
+      "yogurt drink"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "rajma-chawal-chd",
+    "search_terms": [
+      "rajma chawal",
+      "ਰਾਜਮਾ ਚੌਲ",
+      "kidney beans and rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paratha-chd",
+    "search_terms": [
+      "paratha",
+      "ਪਰਾਠਾ",
+      "stuffed bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gajar-halwa-chd",
+    "search_terms": [
+      "gajar halwa",
+      "ਗਾਜਰ ਹਲਵਾ",
+      "carrot dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chole-bhature-main-chd",
+    "search_terms": [
+      "chole bhature main",
+      "ਛੋਲੇ",
+      "main"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-side-chd",
+    "search_terms": [
+      "amritsari kulcha side",
+      "ਕੁਲਚਾ",
+      "side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dal-makhani-main-chd",
+    "search_terms": [
+      "dal makhani main",
+      "ਦਾਲ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "butter-chicken-main-chd",
+    "search_terms": [
+      "butter chicken main",
+      "ਚਿਕਨ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paneer-tikka-snack-chd",
+    "search_terms": [
+      "paneer tikka snack",
+      "ਪਨੀਰ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "lassi-drink-chd",
+    "search_terms": [
+      "lassi drink",
+      "ਲੱਸੀ",
+      "drink"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "rajma-chawal-main-chd",
+    "search_terms": [
+      "rajma chawal main",
+      "ਰਾਜਮਾ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paratha-breakfast-chd",
+    "search_terms": [
+      "paratha breakfast",
+      "ਪਰਾਠਾ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gajar-halwa-dessert-chd",
+    "search_terms": [
+      "gajar halwa dessert",
+      "ਗਾਜਰ ਹਲਵਾ",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chole-bhature-main2-chd",
+    "search_terms": [
+      "chole bhature main2",
+      "ਛੋਲੇ",
+      "main"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-side2-chd",
+    "search_terms": [
+      "amritsari kulcha side2",
+      "ਕੁਲਚਾ",
+      "side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chilla",
+    "search_terms": [
+      "chilla",
+      "चीला",
+      "besan chilla",
+      "gram flour pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "fara",
+    "search_terms": [
+      "fara",
+      "फरा",
+      "rice flour dumplings"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "angakar-roti",
+    "search_terms": [
+      "angakar roti",
+      "अंगाकर रोटी",
+      "wheat flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "muthiya",
+    "search_terms": [
+      "muthiya",
+      "मुठिया",
+      "steamed dumpling"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bafauri",
+    "search_terms": [
+      "bafauri",
+      "बफौरी",
+      "steamed gram flour cake"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "hat-phod",
+    "search_terms": [
+      "hat phod",
+      "हथफोड़",
+      "spiced vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chousela",
+    "search_terms": [
+      "chousela",
+      "चौसेला",
+      "rice flour fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amat",
+    "search_terms": [
+      "amat",
+      "अमत",
+      "bamboo shoot curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "til-gur",
+    "search_terms": [
+      "til gur",
+      "तिल गुड़",
+      "sesame jaggery sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "petha",
+    "search_terms": [
+      "petha",
+      "पेठा",
+      "ash gourd sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "khurma",
+    "search_terms": [
+      "khurma",
+      "खुरमा",
+      "sweet snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dudh-fara",
+    "search_terms": [
+      "dudh fara",
+      "दूध फरा",
+      "fara in milk"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "aamat",
+    "search_terms": [
+      "aamat",
+      "अमत",
+      "bamboo curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bidiya",
+    "search_terms": [
+      "bidiya",
+      "बिदिया",
+      "spiced vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kanda-bhaji",
+    "search_terms": [
+      "kanda bhaji",
+      "कांदा भाजी",
+      "onion greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "tikhur",
+    "search_terms": [
+      "tikhur",
+      "तिखुर",
+      "arrowroot sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "lal-bhaji",
+    "search_terms": [
+      "lal bhaji",
+      "लाल भाजी",
+      "red spinach"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chawal-roti",
+    "search_terms": [
+      "chawal roti",
+      "चावल रोटी",
+      "rice flour flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fara-chana",
+    "search_terms": [
+      "fara chana",
+      "फरा चना",
+      "fara side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "angakar-roti-side",
+    "search_terms": [
+      "angakar roti side",
+      "अंगाकर रोटी",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "udidhiya",
+    "search_terms": [
+      "udidhiya",
+      "ઉધિયા",
+      "mixed vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paapdi-no-lot",
+    "search_terms": [
+      "paapdi no lot",
+      "પાપડી નો લોટ",
+      "steamed lentil snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "surti-undhiyu",
+    "search_terms": [
+      "surti undhiyu",
+      "સુરતી ઉંધિયું",
+      "vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "patra",
+    "search_terms": [
+      "patra",
+      "પાત્રા",
+      "steamed taro leaf roll"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "khaman-dhokla",
+    "search_terms": [
+      "khaman dhokla",
+      "ખમણ ઢોકળા",
+      "spiced gram flour cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "handvo",
+    "search_terms": [
+      "handvo",
+      "હાંડવો",
+      "vegetable savory cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "farsan",
+    "search_terms": [
+      "farsan",
+      "ફરસણ",
+      "assorted snacks"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "kadhi-gujarati",
+    "search_terms": [
+      "gujarati kadhi",
+      "ગુજરાતી કઢી",
+      "yogurt soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thepla-dh",
+    "search_terms": [
+      "thepla",
+      "થેપલા",
+      "flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "udidhiya-main",
+    "search_terms": [
+      "udidhiya main",
+      "ઉધિયા",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paapdi-no-lot-snack",
+    "search_terms": [
+      "paapdi no lot snack",
+      "પાપડી નો લોટ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "surti-undhiyu-main",
+    "search_terms": [
+      "surti undhiyu main",
+      "સુરતી ઉંધિયું",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "patra-snack",
+    "search_terms": [
+      "patra snack",
+      "પાત્રા",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "khaman-dhokla-breakfast",
+    "search_terms": [
+      "khaman dhokla breakfast",
+      "ખમણ ઢોકળા",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "handvo-breakfast",
+    "search_terms": [
+      "handvo breakfast",
+      "હાંડવો",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "farsan-snack",
+    "search_terms": [
+      "farsan snack",
+      "ફરસણ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "kadhi-gujarati-side",
+    "search_terms": [
+      "gujarati kadhi side",
+      "ગુજરાતી કઢી",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thepla-dh-breakfast",
+    "search_terms": [
+      "thepla breakfast",
+      "થેપલા",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "udidhiya-main2",
+    "search_terms": [
+      "udidhiya main2",
+      "ઉધિયા",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paapdi-no-lot-snack2",
+    "search_terms": [
+      "paapdi no lot snack2",
+      "પાપડી નો લોટ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chole-bhature-dl",
+    "search_terms": [
+      "chole bhature",
+      "छोले भटूरे",
+      "chickpea curry"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "butter-chicken-dl",
+    "search_terms": [
+      "butter chicken",
+      "बटर चिकन",
+      "chicken curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paneer-tikka-dl",
+    "search_terms": [
+      "paneer tikka",
+      "पनीर टिक्का",
+      "grilled paneer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dal-makhani-dl",
+    "search_terms": [
+      "dal makhani",
+      "दाल मखनी",
+      "creamy lentil"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kebab-dl",
+    "search_terms": [
+      "seekh kebab",
+      "सीख कबाब",
+      "grilled meat"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "aloo-chaat",
+    "search_terms": [
+      "aloo chaat",
+      "आलू चाट",
+      "spiced potato"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dahi-bhalla",
+    "search_terms": [
+      "dahi bhalla",
+      "दही भल्ला",
+      "yogurt lentil snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "gol-gappa",
+    "search_terms": [
+      "gol gappa",
+      "गोल गप्पे",
+      "pani puri"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "paratha-delhi",
+    "search_terms": [
+      "paratha",
+      "पराठा",
+      "flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chole-bhature-main-del",
+    "search_terms": [
+      "chole bhature main",
+      "छोले भटूरे",
+      "main"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chole-bhature-main2-del",
+    "search_terms": [
+      "chole bhature main2",
+      "छोले भटूरे",
+      "main"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "butter-chicken-main2",
+    "search_terms": [
+      "butter chicken main2",
+      "बटर चिकन",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-curry-goa",
+    "search_terms": [
+      "goan fish curry",
+      "नूँस्त्या कडी",
+      "fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bebinca",
+    "search_terms": [
+      "bebinca",
+      "बेबिंका",
+      "layered cake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "poi",
+    "search_terms": [
+      "poi",
+      "पोई",
+      "goan bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "ross-omelette",
+    "search_terms": [
+      "ross omelette",
+      "रोस ऑमलेट",
+      "egg curry omelette"
+    ],
+    "category": "street-food"
+  },
+  {
+    "id": "pork-vindaloo",
+    "search_terms": [
+      "pork vindaloo",
+      "पोर्क विंदालू",
+      "spicy pork curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "xacuti",
+    "search_terms": [
+      "xacuti",
+      "शाकुती",
+      "coconut chicken curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sorpotel",
+    "search_terms": [
+      "sorpotel",
+      "सोरपोटेल",
+      "pork stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "patoleo",
+    "search_terms": [
+      "patoleo",
+      "पातोळ्यो",
+      "steamed rice cake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "fish-recheado",
+    "search_terms": [
+      "fish recheado",
+      "फिश रेचआडो",
+      "stuffed fish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "goan-sausage",
+    "search_terms": [
+      "goan sausage",
+      "चोरिस",
+      "choris"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sol-kadhi",
+    "search_terms": [
+      "sol kadhi",
+      "सोल कढी",
+      "kokum drink"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "poi-bread",
+    "search_terms": [
+      "poi bread",
+      "पोई",
+      "goan bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bebinca-layer",
+    "search_terms": [
+      "bebinca layer",
+      "बेबिंका",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ross-omelette-egg",
+    "search_terms": [
+      "ross omelette egg",
+      "रोस",
+      "side"
+    ],
+    "category": "street-food"
+  },
+  {
+    "id": "pork-vindaloo-main",
+    "search_terms": [
+      "pork vindaloo main",
+      "विंदालू",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "xacuti-curry",
+    "search_terms": [
+      "xacuti curry",
+      "शाकुती",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sorpotel-stew",
+    "search_terms": [
+      "sorpotel stew",
+      "सोरपोटेल",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "patoleo-cake",
+    "search_terms": [
+      "patoleo cake",
+      "पातोळ्यो",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "fish-recheado-main",
+    "search_terms": [
+      "fish recheado main",
+      "रेचआडो",
+      "fish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "goan-sausage-main",
+    "search_terms": [
+      "goan sausage main",
+      "चोरिस",
+      "sausage"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dhokla",
+    "search_terms": [
+      "dhokla",
+      "ઢોકળા",
+      "spiced steamed cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "fafda",
+    "search_terms": [
+      "fafda",
+      "ફાફડા",
+      "gram flour snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "khandvi",
+    "search_terms": [
+      "khandvi",
+      "ખાંડવી",
+      "gram flour rolls"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "undhiyu",
+    "search_terms": [
+      "undhiyu",
+      "ઉંધિયું",
+      "mixed vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thepla",
+    "search_terms": [
+      "thepla",
+      "થેપલા",
+      "spiced flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bajra-roti",
+    "search_terms": [
+      "bajra roti",
+      "बाजरा रोटी",
+      "pearl millet flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kachri-ki-sabzi",
+    "search_terms": [
+      "kachri ki sabzi",
+      "कचरी की सब्जी",
+      "wild cucumber vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "besan-masala-roti",
+    "search_terms": [
+      "besan masala roti",
+      "बेसन मसाला रोटी",
+      "gram flour flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "hara-cholia",
+    "search_terms": [
+      "hara cholia",
+      "हरा चोलिया",
+      "green chickpeas curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gajar-methi",
+    "search_terms": [
+      "gajar methi",
+      "गाजर मेथी",
+      "carrot and fenugreek stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-methi",
+    "search_terms": [
+      "aloo methi",
+      "आलू मेथी",
+      "potato fenugreek stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bathua-raita",
+    "search_terms": [
+      "bathua raita",
+      "बथुआ रायता",
+      "chenopodium yogurt dip"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "methi-kachori",
+    "search_terms": [
+      "methi kachori",
+      "मेथी कचौड़ी",
+      "fenugreek fried snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bajra-khichdi",
+    "search_terms": [
+      "bajra khichdi",
+      "बाजरा खिचड़ी",
+      "millet porridge"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dahi-chutney",
+    "search_terms": [
+      "dahi chutney",
+      "दही चटनी",
+      "yogurt chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bajra-roti-main",
+    "search_terms": [
+      "bajra roti main",
+      "बाजरा रोटी",
+      "roti"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kachri-ki-sabzi-side",
+    "search_terms": [
+      "kachri side",
+      "कचरी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "besan-masala-roti-main",
+    "search_terms": [
+      "besan roti main",
+      "बेसन रोटी",
+      "roti"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "hara-cholia-main",
+    "search_terms": [
+      "cholia main",
+      "चोलिया",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gajar-methi-side",
+    "search_terms": [
+      "gajar methi side",
+      "गाजर मेथी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-methi-side",
+    "search_terms": [
+      "aloo methi side",
+      "आलू मेथी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bathua-raita-side",
+    "search_terms": [
+      "bathua raita side",
+      "रायता",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "methi-kachori-snack",
+    "search_terms": [
+      "methi kachori snack",
+      "कचौड़ी",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bajra-khichdi-main",
+    "search_terms": [
+      "bajra khichdi main",
+      "खिचड़ी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dahi-chutney-side",
+    "search_terms": [
+      "dahi chutney side",
+      "चटनी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "siddu",
+    "search_terms": [
+      "siddu",
+      "सिड्डू",
+      "steamed stuffed wheat bun"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dham",
+    "search_terms": [
+      "dham",
+      "धाम",
+      "traditional feast meal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "babru",
+    "search_terms": [
+      "babru",
+      "बबरू",
+      "stuffed fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chana-madra",
+    "search_terms": [
+      "chana madra",
+      "चना मद्रा",
+      "chickpea yogurt curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tukpa",
+    "search_terms": [
+      "tukpa",
+      "तुकपा",
+      "noodle soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mittha",
+    "search_terms": [
+      "mittha",
+      "मिठ्ठा",
+      "sweetened rice"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "aktori",
+    "search_terms": [
+      "aktori",
+      "अक्तोरी",
+      "buckwheat cake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "bhey",
+    "search_terms": [
+      "bhey",
+      "भेय",
+      "lotus stem curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gulgule",
+    "search_terms": [
+      "gulgule",
+      "गुल्गुले",
+      "sweet fried balls"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "khatta",
+    "search_terms": [
+      "khatta",
+      "खट्टा",
+      "tangy pumpkin curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "siddu-stuffed",
+    "search_terms": [
+      "siddu stuffed",
+      "सिड्डू",
+      "bun"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dham-main",
+    "search_terms": [
+      "dham main",
+      "धाम",
+      "feast"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "babru-fried",
+    "search_terms": [
+      "babru fried",
+      "बबरू",
+      "fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chana-madra-curry",
+    "search_terms": [
+      "chana madra curry",
+      "चना मद्रा",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tukpa-soup",
+    "search_terms": [
+      "tukpa soup",
+      "तुकपा",
+      "soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mittha-rice",
+    "search_terms": [
+      "mittha rice",
+      "मिठ्ठा",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "aktori-cake",
+    "search_terms": [
+      "aktori cake",
+      "अक्तोरी",
+      "cake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "bhey-stem",
+    "search_terms": [
+      "bhey stem",
+      "भेय",
+      "stem"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gulgule-snack",
+    "search_terms": [
+      "gulgule snack",
+      "गुल्गुले",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "khatta-side",
+    "search_terms": [
+      "khatta side",
+      "खट्टा",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "rogan-josh",
+    "search_terms": [
+      "rogan josh",
+      "रोगन जोश",
+      "spiced mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dum-aloo-jk",
+    "search_terms": [
+      "kashmiri dum aloo",
+      "दम आलू",
+      "spiced potato curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kahwa",
+    "search_terms": [
+      "kahwa",
+      "कहवा",
+      "kashmiri tea"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gushtaba",
+    "search_terms": [
+      "gushtaba",
+      "गुश्ताबा",
+      "mutton meatball curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "yakhni",
+    "search_terms": [
+      "yakhni",
+      "यखनी",
+      "yogurt mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tabak-maz",
+    "search_terms": [
+      "tabak maz",
+      "तबाक माज",
+      "fried mutton ribs"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "modur-pulav",
+    "search_terms": [
+      "modur pulav",
+      "मोदुर पुलाव",
+      "sweetened rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "rogan-josh-main",
+    "search_terms": [
+      "rogan josh main",
+      "रोगन जोश",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dum-aloo-jk-side",
+    "search_terms": [
+      "dum aloo side",
+      "दम आलू",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kahwa-drink",
+    "search_terms": [
+      "kahwa drink",
+      "कहवा",
+      "drink"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gushtaba-main",
+    "search_terms": [
+      "gushtaba main",
+      "गुश्ताबा",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "yakhni-main",
+    "search_terms": [
+      "yakhni main",
+      "यखनी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tabak-maz-snack",
+    "search_terms": [
+      "tabak maz snack",
+      "तबाक माज",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "modur-pulav-main",
+    "search_terms": [
+      "modur pulav main",
+      "मोदुर पुलाव",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "rogan-josh-main2",
+    "search_terms": [
+      "rogan josh main2",
+      "रोगन जोश",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dum-aloo-jk-side2",
+    "search_terms": [
+      "dum aloo side2",
+      "दम आलू",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gushtaba-main2",
+    "search_terms": [
+      "gushtaba main2",
+      "गुश्ताबा",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "yakhni-main2",
+    "search_terms": [
+      "yakhni main2",
+      "यखनी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tabak-maz-snack2",
+    "search_terms": [
+      "tabak maz snack2",
+      "तबाक माज",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "modur-pulav-main2",
+    "search_terms": [
+      "modur pulav main2",
+      "मोदुर पुलाव",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dhuska",
+    "search_terms": [
+      "dhuska",
+      "धुस्का",
+      "rice and lentil fritter"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "handia",
+    "search_terms": [
+      "handia",
+      "हांडिया",
+      "fermented rice beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pittha-jh",
+    "search_terms": [
+      "pittha",
+      "पीठा",
+      "rice dumpling"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "rugda",
+    "search_terms": [
+      "rugda",
+      "रुगड़ा",
+      "mushroom curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "lal-saag",
+    "search_terms": [
+      "lal saag",
+      "लाल साग",
+      "red amaranth"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koinar-saag",
+    "search_terms": [
+      "koinar saag",
+      "कोइनार साग",
+      "bauhinia leaf curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "munga-saag",
+    "search_terms": [
+      "munga saag",
+      "मुंगा साग",
+      "drumstick leaves"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thekua-jh",
+    "search_terms": [
+      "thekua",
+      "ठेकुआ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "malpua-jh",
+    "search_terms": [
+      "malpua",
+      "मालपुआ",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "dhuska-side",
+    "search_terms": [
+      "dhuska side",
+      "धुस्का",
+      "fritter"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "handia-drink",
+    "search_terms": [
+      "handia drink",
+      "हांडिया",
+      "beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pittha-jh-main",
+    "search_terms": [
+      "pittha main",
+      "पीठा",
+      "dumpling"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "rugda-curry",
+    "search_terms": [
+      "rugda curry",
+      "रुगड़ा",
+      "mushroom"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "lal-saag-side",
+    "search_terms": [
+      "lal saag side",
+      "लाल साग",
+      "greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koinar-saag-side",
+    "search_terms": [
+      "koinar saag side",
+      "कोइनार साग",
+      "greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "munga-saag-side",
+    "search_terms": [
+      "munga saag side",
+      "मुंगा साग",
+      "greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thekua-snack",
+    "search_terms": [
+      "thekua snack",
+      "ठेकुआ",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "malpua-dessert",
+    "search_terms": [
+      "malpua dessert",
+      "मालपुआ",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "dhuska-breakfast",
+    "search_terms": [
+      "dhuska breakfast",
+      "धुस्का",
+      "fritter"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "handia-snack",
+    "search_terms": [
+      "handia snack",
+      "हांडिया",
+      "beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bisi-bele-bath-kn",
+    "search_terms": [
+      "bisi bele bath",
+      "ಬಿಸಿ ಬೇಳೆ ಬಾತ್",
+      "hot lentil rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "masala-dosa",
+    "search_terms": [
+      "masala dosa",
+      "ಮಸಾಲ ದೋಸೆ",
+      "potato stuffed dosa"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "ragi-mudde",
+    "search_terms": [
+      "ragi mudde",
+      "ರಾಗಿ ಮುದ್ದೆ",
+      "finger millet ball"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "jolada-rotti",
+    "search_terms": [
+      "jolada rotti",
+      "ಜೋಳದ ರೊಟ್ಟಿ",
+      "sorghum flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "puliogare",
+    "search_terms": [
+      "puliogare",
+      "ಪುಳಿಯೋಗರೆ",
+      "tamarind rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "akki-rotti",
+    "search_terms": [
+      "akki rotti",
+      "ಅಕ್ಕಿ ರೊಟ್ಟಿ",
+      "rice flour flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chitranna",
+    "search_terms": [
+      "chitranna",
+      "ಚಿತ್ರಾನ್ನ",
+      "lemon rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kesari-bath",
+    "search_terms": [
+      "kesari bath",
+      "ಕೇಸರಿ ಬಾತ್",
+      "semolina dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "mysore-pak",
+    "search_terms": [
+      "mysore pak",
+      "ಮೈಸೂರು ಪಾಕ್",
+      "gram flour dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "obbattu",
+    "search_terms": [
+      "obbattu",
+      "ಒಬ್ಬಟ್ಟು",
+      "holige",
+      "puran poli"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "vangi-bath",
+    "search_terms": [
+      "vangi bath",
+      "ವಾಂಗಿ ಬಾತ್",
+      "brinjal rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ragi-dosa",
+    "search_terms": [
+      "ragi dosa",
+      "ರಾಗಿ ದೋಸೆ",
+      "millet dosa"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "paddu",
+    "search_terms": [
+      "paddu",
+      "ಪಡ್ಡು",
+      "appe",
+      "kuzhi paniyaram"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "saaru",
+    "search_terms": [
+      "saaru",
+      "ಸಾರು",
+      "lentil soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "palya",
+    "search_terms": [
+      "beans palya",
+      "ಬೀನ್ಸ್ ಪಲ್ಯ",
+      "beans stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gojju",
+    "search_terms": [
+      "tomato gojju",
+      "ಟೊಮೆಟೊ ಗೊಜ್ಜು",
+      "tomato curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "huli",
+    "search_terms": [
+      "huli",
+      "ಹುಳಿ",
+      "vegetable lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thambuli",
+    "search_terms": [
+      "menthya thambuli",
+      "ಮೆಂತ್ಯ ತಂಬುಳಿ",
+      "fenugreek yogurt curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chutney-pudi",
+    "search_terms": [
+      "chutney pudi",
+      "ಚಟ್ನಿ ಪುಡಿ",
+      "chutney powder"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kunda",
+    "search_terms": [
+      "kunda",
+      "ಕುಂದಾ",
+      "milk dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kadubu",
+    "search_terms": [
+      "kadubu",
+      "ಕಡುಬು",
+      "steamed rice dumpling"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "idli-kn",
+    "search_terms": [
+      "idli",
+      "ಇಡ್ಲಿ",
+      "steamed rice cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dosa-kn",
+    "search_terms": [
+      "dosa",
+      "ದೋಸೆ",
+      "rice crepe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "uppittu",
+    "search_terms": [
+      "uppittu",
+      "ಉಪ್ಪಿಟ್ಟು",
+      "upma"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "khara-bath",
+    "search_terms": [
+      "khara bath",
+      "ಖಾರಾ ಬಾತ್",
+      "upma"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "puliogare-mix",
+    "search_terms": [
+      "puliogare mix",
+      "ಪುಳಿಯೋಗರೆ ಮಿಕ್ಸ್",
+      "tamarind rice mix"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "avarekalu-sambar",
+    "search_terms": [
+      "avarekalu sambar",
+      "ಅವರೆಕಾಳು ಸಾಂಬಾರ್",
+      "hyacinth bean sambar"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mavinakayi-chitranna",
+    "search_terms": [
+      "mango rice",
+      "ಮಾವಿನಕಾಯಿ ಚಿತ್ರಾನ್ನ",
+      "raw mango rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thottu-chutney",
+    "search_terms": [
+      "coconut chutney",
+      "ಕೊಬ್ಬರಿ ಚಟ್ನಿ",
+      "thengai chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ragi-rotti",
+    "search_terms": [
+      "ragi rotti",
+      "ರಾಗಿ ರೊಟ್ಟಿ",
+      "millet flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "jolada-dosa",
+    "search_terms": [
+      "jolada dosa",
+      "ಜೋಳದ ದೋಸೆ",
+      "sorghum dosa"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chitranna-rice",
+    "search_terms": [
+      "chitranna rice",
+      "ಚಿತ್ರಾನ್ನ",
+      "lemon rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "masala-puri",
+    "search_terms": [
+      "masala puri",
+      "ಮಸಾಲ ಪುರಿ",
+      "street food"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "girmit",
+    "search_terms": [
+      "girmit",
+      "ಗಿರ್ಮಿಟ್",
+      "spiced puffed rice"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "kunda-kn",
+    "search_terms": [
+      "kunda",
+      "ಕುಂದಾ",
+      "belgaum kunda"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "obbattu-kn",
+    "search_terms": [
+      "obbattu",
+      "ಒಬ್ಬಟ್ಟು",
+      "holige"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "paddu-kn",
+    "search_terms": [
+      "paddu",
+      "ಪಡ್ಡು",
+      "appe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "saaru-kn",
+    "search_terms": [
+      "saaru",
+      "ಸಾರು",
+      "rasam"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "palya-kn",
+    "search_terms": [
+      "beans palya",
+      "ಬೀನ್ಸ್ ಪಲ್ಯ",
+      "beans curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gojju-kn",
+    "search_terms": [
+      "tomato gojju",
+      "ಟೊಮೆಟೊ ಗೊಜ್ಜು",
+      "tomato curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "huli-kn",
+    "search_terms": [
+      "huli",
+      "ಹುಳಿ",
+      "sambar"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thambuli-kn",
+    "search_terms": [
+      "menthya thambuli",
+      "ಮೆಂತ್ಯ ತಂಬುಳಿ",
+      "yogurt curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chutney-pudi-kn",
+    "search_terms": [
+      "chutney pudi",
+      "ಚಟ್ನಿ ಪುಡಿ",
+      "gunpowder"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kadubu-kn",
+    "search_terms": [
+      "kadubu",
+      "ಕಡುಬು",
+      "steamed dumpling"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bisi-bele-bath-mixed",
+    "search_terms": [
+      "bisi bele bath mix",
+      "ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಮಿಕ್ಸ್",
+      "bisi bele bath"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ragi-mudde-kn",
+    "search_terms": [
+      "ragi mudde",
+      "ರಾಗಿ ಮುದ್ದೆ",
+      "millet ball"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "jolada-rotti-kn",
+    "search_terms": [
+      "jolada rotti",
+      "ಜೋಳದ ರೊಟ್ಟಿ",
+      "sorghum flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "puliogare-kn",
+    "search_terms": [
+      "puliogare",
+      "ಪುಳಿಯೋಗರೆ",
+      "tamarind rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "akki-rotti-kn",
+    "search_terms": [
+      "akki rotti",
+      "ಅಕ್ಕಿ ರೊಟ್ಟಿ",
+      "rice rotti"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kesari-bath-kn",
+    "search_terms": [
+      "kesari bath",
+      "ಕೇಸರಿ ಬಾತ್",
+      "semolina dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "puttu",
+    "search_terms": [
+      "puttu",
+      "പുട്ട്",
+      "rice puttu",
+      "kerala puttu"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "appam",
+    "search_terms": [
+      "appam",
+      "അപ്പം",
+      "rice pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "avial-kl",
+    "search_terms": [
+      "avial",
+      "അവിയൽ",
+      "mixed vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sadya-sambar",
+    "search_terms": [
+      "kerala sambar",
+      "കേരള സാമ്പാർ",
+      "sambar"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "thoran",
+    "search_terms": [
+      "cabbage thoran",
+      "മുട്ടക്കോസ് തോരൻ",
+      "stir-fried cabbage with coconut"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kalan",
+    "search_terms": [
+      "kalan",
+      "കാളൻ",
+      "yogurt based curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "olan",
+    "search_terms": [
+      "olan",
+      "ഓലൻ",
+      "ash gourd curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "erissery",
+    "search_terms": [
+      "pumpkin erissery",
+      "മത്തങ്ങ എരിശ്ശേരി",
+      "pumpkin curry with coconut"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kappa-puzhukku",
+    "search_terms": [
+      "tapioca mash",
+      "കപ്പ പുഴുക്ക്",
+      "kappa"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-curry-kerala",
+    "search_terms": [
+      "kerala fish curry",
+      "മീൻ കറി",
+      "meen curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "beef-fry",
+    "search_terms": [
+      "beef fry",
+      "ബീഫ് ഫ്രൈ",
+      "beef ularthiyathu"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "idi-appam",
+    "search_terms": [
+      "idiyappam",
+      "ഇടിയപ്പം",
+      "string hoppers"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "palada-payasam",
+    "search_terms": [
+      "palada payasam",
+      "പാലട പായസം",
+      "rice flake dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "parotta-kl",
+    "search_terms": [
+      "parotta",
+      "പൊറോട്ട",
+      "layered flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pazham-pori",
+    "search_terms": [
+      "banana fritter",
+      "പഴംപൊരി",
+      "ethakka appam"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "unni-appam",
+    "search_terms": [
+      "unni appam",
+      "ഉണ്ണിയപ്പം",
+      "sweet rice fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "meen-mulakittathu",
+    "search_terms": [
+      "spicy fish curry",
+      "മീൻ മുളകിട്ടത്",
+      "red fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kerala-chicken-stew",
+    "search_terms": [
+      "chicken stew",
+      "ചിക്കൻ സ്റ്റ്യൂ",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-stew",
+    "search_terms": [
+      "mutton stew",
+      "മട്ടൺ സ്റ്റ്യൂ"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "theeyal",
+    "search_terms": [
+      "theeyal",
+      "തീയാൽ",
+      "roasted coconut curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "injipuli",
+    "search_terms": [
+      "ginger tamarind chutney",
+      "ഇഞ്ചിപ്പുളി",
+      "puli inji"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "upperi",
+    "search_terms": [
+      "banana chips",
+      "നേന്ത്രക്കായ ഉപ്പേരി",
+      "ethakka upperi"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sharkara-varatty",
+    "search_terms": [
+      "jaggery banana chips",
+      "ശർക്കര വരട്ടി",
+      "sweet banana chips"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "avial-sadya",
+    "search_terms": [
+      "sadya avial",
+      "സദ്യ അവിയൽ",
+      "avial"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mathanga-kalan",
+    "search_terms": [
+      "pumpkin kalan",
+      "മത്തങ്ങ കാളൻ",
+      "pumpkin curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pulissery",
+    "search_terms": [
+      "mango pulissery",
+      "മാമ്പഴ പുളിശ്ശേരി",
+      "mango yogurt curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "olan-sadya",
+    "search_terms": [
+      "olan",
+      "ഓലൻ",
+      "sadya olan"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koottu-curry",
+    "search_terms": [
+      "koottu curry",
+      "കൂട്ടുക്കറി",
+      "black chickpea curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pazham-nirachathu",
+    "search_terms": [
+      "stuffed banana",
+      "പഴം നിറച്ചത്",
+      "banana dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ari-payasam",
+    "search_terms": [
+      "rice payasam",
+      "അരി പായസം",
+      "rice kheer"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ada-pradhaman",
+    "search_terms": [
+      "ada pradhaman",
+      "അട പ്രഥമൻ",
+      "jaggery payasam"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "pathiri",
+    "search_terms": [
+      "pathiri",
+      "പത്തിരി",
+      "rice flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "erachi-pathiri",
+    "search_terms": [
+      "meat pathiri",
+      "ഇറച്ചി പത്തിരി",
+      "stuffed pathiri"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chicken-ularthiyathu",
+    "search_terms": [
+      "chicken ularthiyathu",
+      "ചിക്കൻ ഉലർത്തിയത്",
+      "chicken fry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "beef-ularthiyathu",
+    "search_terms": [
+      "beef ularthiyathu",
+      "ബീഫ് ഉലർത്തിയത്",
+      "beef fry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "karimeen-pollichathu",
+    "search_terms": [
+      "karimeen pollichathu",
+      "കരിമീൻ പൊള്ളിച്ചത്",
+      "pearl spot fish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kerala-porotta",
+    "search_terms": [
+      "kerala porotta",
+      "പൊറോട്ട",
+      "layered parotta"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-curry",
+    "search_terms": [
+      "kerala mutton curry",
+      "മട്ടൺ കറി",
+      "mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "egg-curry",
+    "search_terms": [
+      "kerala egg curry",
+      "മുട്ട കറി",
+      "mutta curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kerala-appam",
+    "search_terms": [
+      "kerala appam",
+      "അപ്പം",
+      "palappam"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vattayappam",
+    "search_terms": [
+      "vattayappam",
+      "വട്ടയപ്പം",
+      "steamed rice cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kallappam",
+    "search_terms": [
+      "kallappam",
+      "കള്ളപ്പം",
+      "rice pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "fish-moilee",
+    "search_terms": [
+      "fish moilee",
+      "മീൻ മോളി",
+      "coconut fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-fry",
+    "search_terms": [
+      "mutton fry",
+      "മട്ടൺ ഫ്രൈ",
+      "mutton ularthiyathu"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chicken-roast",
+    "search_terms": [
+      "chicken roast",
+      "ചിക്കൻ റോസ്റ്റ്"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "beef-curry",
+    "search_terms": [
+      "beef curry",
+      "ബീഫ് കറി",
+      "nadan beef curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "puttu-kadala",
+    "search_terms": [
+      "puttu and kadala",
+      "പുട്ടും കടലയും",
+      "puttu kadala"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "appam-stew",
+    "search_terms": [
+      "appam and stew",
+      "അപ്പവും സ്റ്റ്യൂവും",
+      "appam stew"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "pazham-pozhi",
+    "search_terms": [
+      "banana fry",
+      "പഴം പൊരിച്ചത്",
+      "banana roast"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "puttu-chana",
+    "search_terms": [
+      "puttu with chickpeas",
+      "പുട്ടും ചനയും",
+      "puttu kadala curry"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "thukpa-ladakh",
+    "search_terms": [
+      "ladakhi thukpa",
+      "थुकपा",
+      "noodle soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "skyu",
+    "search_terms": [
+      "skyu",
+      "स्क्यू",
+      "wheat flour dumpling stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "khambir",
+    "search_terms": [
+      "khambir",
+      "खम्बिर",
+      "local bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "momos-ladakh",
+    "search_terms": [
+      "ladakhi momos",
+      "मम",
+      "dumplings"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chhutagi",
+    "search_terms": [
+      "chhutagi",
+      "छुटगी",
+      "bowtie shaped pasta"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "butter-tea",
+    "search_terms": [
+      "butter tea",
+      "गुर-गुर चाय",
+      "salted tea"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "tsampa",
+    "search_terms": [
+      "tsampa",
+      "त्सांपा",
+      "roasted barley flour"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "thukpa-soup-lad",
+    "search_terms": [
+      "thukpa soup",
+      "थुकपा",
+      "soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "skyu-stew2-lad",
+    "search_terms": [
+      "skyu stew2",
+      "स्क्यू",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "khambir-breakfast2-lad",
+    "search_terms": [
+      "khambir breakfast2",
+      "खम्बिर",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "momos-snack2-lad",
+    "search_terms": [
+      "ladakhi momos snack2",
+      "मम",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chhutagi-main2-lad",
+    "search_terms": [
+      "chhutagi main2",
+      "छुटगी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "butter-tea-drink2-lad",
+    "search_terms": [
+      "butter tea drink2",
+      "गुर-गुर चाय",
+      "drink"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "tsampa-breakfast-lad",
+    "search_terms": [
+      "tsampa breakfast",
+      "त्सांपा",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "mas-huni",
+    "search_terms": [
+      "mas huni",
+      "മസ് ഹുനി",
+      "tuna salad"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mus-kavaab",
+    "search_terms": [
+      "mus kavaab",
+      "മുസ് കവാബ്",
+      "spiced tuna"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ari-pathiri",
+    "search_terms": [
+      "ari pathiri",
+      "അരി പത്തിരി",
+      "rice flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "octopus-fry",
+    "search_terms": [
+      "octopus fry",
+      "ഒക്ടോപസ് ഫ്രൈ",
+      "fried octopus"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-rice-lak",
+    "search_terms": [
+      "coconut rice",
+      "തേങ്ങ ചോറ്",
+      "rice with coconut"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-curry-lak",
+    "search_terms": [
+      "fish curry",
+      "മീൻ കറി",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "banana-chips-lak",
+    "search_terms": [
+      "banana chips",
+      "നേന്ത്രക്കായ ചിപ്സ്",
+      "chips"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mas-huni-side",
+    "search_terms": [
+      "mas huni side",
+      "മസ് ഹുനി",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mus-kavaab-main",
+    "search_terms": [
+      "mus kavaab main",
+      "മുസ് കവാബ്",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ari-pathiri-breakfast",
+    "search_terms": [
+      "ari pathiri breakfast",
+      "അരി പത്തിരി",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "octopus-fry-main",
+    "search_terms": [
+      "octopus fry main",
+      "ഒക്ടോപസ് ഫ്രൈ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-rice-main-lak",
+    "search_terms": [
+      "coconut rice main",
+      "തേങ്ങ ചോറ്",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-curry-main-lak",
+    "search_terms": [
+      "fish curry main",
+      "മീൻ കറി",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "banana-chips-snack-lak",
+    "search_terms": [
+      "banana chips snack",
+      "നേന്ത്രക്കായ ചിപ്സ്",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mas-huni-side-lak2",
+    "search_terms": [
+      "mas huni side2",
+      "മസ് ഹുനി",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mus-kavaab-main2-lak",
+    "search_terms": [
+      "mus kavaab main2",
+      "മുസ് കവാബ്",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ari-pathiri-breakfast2-lak",
+    "search_terms": [
+      "ari pathiri breakfast2",
+      "അരി പത്തിരി",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "octopus-fry-main2-lak",
+    "search_terms": [
+      "octopus fry main2",
+      "ഒക്ടോപസ് ഫ്രൈ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "coconut-rice-main2-lak",
+    "search_terms": [
+      "coconut rice main2",
+      "തേങ്ങ ചോറ്",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-curry-main2-lak",
+    "search_terms": [
+      "fish curry main2",
+      "മീൻ കറി",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poha-mp",
+    "search_terms": [
+      "poha",
+      "पोहा",
+      "flattened rice snack"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bhutte-ki-kees",
+    "search_terms": [
+      "bhutte ki kees",
+      "भुट्टे की कीस",
+      "grated corn dish"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dal-bafla",
+    "search_terms": [
+      "dal bafla",
+      "दाल बाफला",
+      "wheat balls with lentil"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "seekh-kebab-mp",
+    "search_terms": [
+      "seekh kebab",
+      "सीख कबाब",
+      "grilled meat"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chakki-ki-shaak",
+    "search_terms": [
+      "chakki ki shaak",
+      "चक्की की शाक",
+      "steamed wheat vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mawa-bati",
+    "search_terms": [
+      "mawa bati",
+      "मावा बाटी",
+      "milk solids dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jalebi-poha",
+    "search_terms": [
+      "jalebi poha",
+      "जलेबी पोहा",
+      "sweet and savory snack"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bafla-balls",
+    "search_terms": [
+      "bafla balls",
+      "बाफला",
+      "wheat balls"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-for-bafla",
+    "search_terms": [
+      "dal for bafla",
+      "दाल",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "corn-kees",
+    "search_terms": [
+      "corn kees",
+      "भुट्टे की कीस",
+      "corn"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "seekh-kebab-main",
+    "search_terms": [
+      "seekh kebab main",
+      "सीख कबाब",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chakki-shaak",
+    "search_terms": [
+      "chakki shaak",
+      "चक्की की शाक",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mawa-bati-dessert",
+    "search_terms": [
+      "mawa bati dessert",
+      "मावा बाटी",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jalebi-poha-combo",
+    "search_terms": [
+      "jalebi poha combo",
+      "जलेबी पोहा",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bafla-balls-side",
+    "search_terms": [
+      "bafla balls side",
+      "बाफला",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-bafla-side",
+    "search_terms": [
+      "dal for bafla side",
+      "दाल",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "poha-snack",
+    "search_terms": [
+      "poha snack",
+      "पोहा",
+      "snack"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bhutte-ki-kees-side",
+    "search_terms": [
+      "bhutte kees side",
+      "भुट्टे की कीस",
+      "side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kanda-pohe-side",
+    "search_terms": [
+      "kanda pohe side",
+      "कांदा पोहे",
+      "side"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chilla-breakfast",
+    "search_terms": [
+      "chilla breakfast",
+      "चीला",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "misal-pav",
+    "search_terms": [
+      "misal pav",
+      "मिसळ पाव",
+      "spicy sprouts curry"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vada-pav",
+    "search_terms": [
+      "vada pav",
+      "वडा पाव",
+      "indian burger"
+    ],
+    "category": "street-food"
+  },
+  {
+    "id": "puran-poli",
+    "search_terms": [
+      "puran poli",
+      "पुरण पोळी",
+      "sweet flatbread"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kanda-pohe",
+    "search_terms": [
+      "kanda pohe",
+      "कांदा पोहे",
+      "flattened rice"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sabudana-khichdi",
+    "search_terms": [
+      "sabudana khichdi",
+      "साबुदाणा खिचडी",
+      "sago dish"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "eromba",
+    "search_terms": [
+      "eromba",
+      "ইরোম্বা",
+      "fermented fish and veggie mash"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "singju",
+    "search_terms": [
+      "singju",
+      "সিংজু",
+      "spicy salad"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chak-hao-kheer",
+    "search_terms": [
+      "chak hao kheer",
+      "চাক-হাও ক্ষীর",
+      "black rice pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ngari-chutney",
+    "search_terms": [
+      "ngari chutney",
+      "ঙারি চাটনি",
+      "fermented fish chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kabok",
+    "search_terms": [
+      "kabok",
+      "কবোত",
+      "puffed rice snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "kangshoi",
+    "search_terms": [
+      "kangshoi",
+      "কাংশোই",
+      "veg stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "morok-metpa",
+    "search_terms": [
+      "morok metpa",
+      "মোরোক মেটপা",
+      "spicy chili chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "paaknam",
+    "search_terms": [
+      "paaknam",
+      "পাকনাম",
+      "steamed cake"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "thoiding-metpa",
+    "search_terms": [
+      "thoiding metpa",
+      "থৈদিং মেটপা",
+      "perilla seed chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "soibum",
+    "search_terms": [
+      "soibum",
+      "সৈবুম",
+      "fermented bamboo"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "eromba-mash",
+    "search_terms": [
+      "eromba mash",
+      "ইরোম্বা",
+      "mash"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "singju-salad",
+    "search_terms": [
+      "singju salad",
+      "সিংজু",
+      "salad"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chak-hao-dessert",
+    "search_terms": [
+      "chak hao dessert",
+      "চাক-হাও",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ngari-side",
+    "search_terms": [
+      "ngari side",
+      "ঙারি",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kabok-snack",
+    "search_terms": [
+      "kabok snack",
+      "কবোত",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "kangshoi-stew",
+    "search_terms": [
+      "kangshoi stew",
+      "কাংশোই",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "morok-metpa-chutney",
+    "search_terms": [
+      "morok metpa chutney",
+      "মোরোক মেটপা",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "paaknam-cake",
+    "search_terms": [
+      "paaknam cake",
+      "পাকনাম",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "thoiding-chutney",
+    "search_terms": [
+      "thoiding chutney",
+      "থৈদিং মেটপা",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "soibum-side",
+    "search_terms": [
+      "soibum side",
+      "সৈবুম",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jadoh",
+    "search_terms": [
+      "jadoh",
+      "rice and meat"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "nakham-bitchi",
+    "search_terms": [
+      "nakham bitchi",
+      "dried fish soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "doh-nei-iong",
+    "search_terms": [
+      "doh nei iong",
+      "pork with sesame"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tungrymbai",
+    "search_terms": [
+      "tungrymbai",
+      "fermented soybean"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pukhlein",
+    "search_terms": [
+      "pukhlein",
+      "rice flour jaggery sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "doh-khlieh",
+    "search_terms": [
+      "doh khlieh",
+      "pork salad"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kyat",
+    "search_terms": [
+      "kyat",
+      "rice beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "jadoh-rice",
+    "search_terms": [
+      "jadoh rice",
+      "jadoh",
+      "rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "nakham-bitchi-soup",
+    "search_terms": [
+      "nakham bitchi soup",
+      "nakham bitchi",
+      "soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "doh-nei-iong-pork",
+    "search_terms": [
+      "doh nei iong pork",
+      "doh nei iong",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tungrymbai-soy",
+    "search_terms": [
+      "tungrymbai soy",
+      "tungrymbai",
+      "soy"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pukhlein-sweet",
+    "search_terms": [
+      "pukhlein sweet",
+      "pukhlein",
+      "sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "doh-khlieh-salad",
+    "search_terms": [
+      "doh khlieh salad",
+      "doh khlieh",
+      "salad"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kyat-drink",
+    "search_terms": [
+      "kyat drink",
+      "kyat",
+      "drink"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "jadoh-meat",
+    "search_terms": [
+      "jadoh meat",
+      "jadoh",
+      "meat"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "nakham-bitchi-fish",
+    "search_terms": [
+      "nakham bitchi fish",
+      "nakham bitchi",
+      "fish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "doh-nei-iong-sesame",
+    "search_terms": [
+      "doh nei iong sesame",
+      "doh nei iong",
+      "sesame"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tungrymbai-side",
+    "search_terms": [
+      "tungrymbai side",
+      "tungrymbai",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pukhlein-snack",
+    "search_terms": [
+      "pukhlein snack",
+      "pukhlein",
+      "snack"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "doh-khlieh-side",
+    "search_terms": [
+      "doh khlieh side",
+      "doh khlieh",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bai",
+    "search_terms": [
+      "bai",
+      "vegetable stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "zu",
+    "search_terms": [
+      "zu",
+      "rice beer"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sa-um",
+    "search_terms": [
+      "sa um",
+      "fermented pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhum-han",
+    "search_terms": [
+      "chhum han",
+      "steamed vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ar-sa-bu",
+    "search_terms": [
+      "ar sa bu",
+      "chicken and rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bai-stew",
+    "search_terms": [
+      "bai stew",
+      "bai",
+      "stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "zu-drink",
+    "search_terms": [
+      "zu drink",
+      "zu",
+      "drink"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sa-um-pork",
+    "search_terms": [
+      "sa um pork",
+      "sa um",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhum-han-veg",
+    "search_terms": [
+      "chhum han veg",
+      "chhum han",
+      "veg"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ar-sa-bu-main",
+    "search_terms": [
+      "ar sa bu main",
+      "ar sa bu",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bai-side",
+    "search_terms": [
+      "bai side",
+      "bai",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "zu-snack",
+    "search_terms": [
+      "zu snack",
+      "zu",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sa-um-side",
+    "search_terms": [
+      "sa um side",
+      "sa um",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhum-han-side",
+    "search_terms": [
+      "chhum han side",
+      "chhum han",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ar-sa-bu-side",
+    "search_terms": [
+      "ar sa bu side",
+      "ar sa bu",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bai-veg",
+    "search_terms": [
+      "bai veg",
+      "bai",
+      "veg"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "zu-drink-side",
+    "search_terms": [
+      "zu drink side",
+      "zu",
+      "side"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sa-um-main",
+    "search_terms": [
+      "sa um main",
+      "sa um",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhum-han-side2",
+    "search_terms": [
+      "chhum han side2",
+      "chhum han",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ar-sa-bu-main2",
+    "search_terms": [
+      "ar sa bu main2",
+      "ar sa bu",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "smokeds-pork-bamboo",
+    "search_terms": [
+      "smoked pork with bamboo shoot",
+      "smoked pork",
+      "nagaland pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "axone",
+    "search_terms": [
+      "axone",
+      "fermented soybean"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "galho",
+    "search_terms": [
+      "galho",
+      "naga khichdi"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fermented-fish-chutney",
+    "search_terms": [
+      "fermented fish chutney",
+      "fish chutney",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "boiled-vegetables-naga",
+    "search_terms": [
+      "boiled vegetables",
+      "boiled veg",
+      "veg"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "smoked-pork-main",
+    "search_terms": [
+      "smoked pork main",
+      "smoked pork",
+      "pork"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "axone-side",
+    "search_terms": [
+      "axone side",
+      "axone",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "galho-main",
+    "search_terms": [
+      "galho main",
+      "galho",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-chutney-side",
+    "search_terms": [
+      "fish chutney side",
+      "fish chutney",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "boiled-veg-side",
+    "search_terms": [
+      "boiled veg side",
+      "boiled veg",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "smokeds-pork-bamboo-side",
+    "search_terms": [
+      "smoked pork bamboo side",
+      "smoked pork",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "axone-soy-side",
+    "search_terms": [
+      "axone soy side",
+      "axone",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "galho-main-side",
+    "search_terms": [
+      "galho main side",
+      "galho",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-chutney-side2",
+    "search_terms": [
+      "fish chutney side2",
+      "fish chutney",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "boiled-veg-side2",
+    "search_terms": [
+      "boiled veg side2",
+      "boiled veg",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "smokeds-pork-bamboo-side2",
+    "search_terms": [
+      "smoked pork bamboo side2",
+      "smoked pork",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "axone-soy-side2",
+    "search_terms": [
+      "axone soy side2",
+      "axone",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "galho-main-side2",
+    "search_terms": [
+      "galho main side2",
+      "galho",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "fish-chutney-side3",
+    "search_terms": [
+      "fish chutney side3",
+      "fish chutney",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "boiled-veg-side3",
+    "search_terms": [
+      "boiled veg side3",
+      "boiled veg",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "dalma",
+    "search_terms": [
+      "dalma",
+      "ଡାଲମା",
+      "lentil and vegetable stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pakhala-bhata",
+    "search_terms": [
+      "pakhala bhata",
+      "ପଖାଳ ଭାତ",
+      "fermented rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhena-poda",
+    "search_terms": [
+      "chhena poda",
+      "ଛେନା ପୋଡ଼",
+      "baked cheese dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "santula",
+    "search_terms": [
+      "santula",
+      "ସନ୍ତୁଳା",
+      "mixed vegetable fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kanika",
+    "search_terms": [
+      "kanika",
+      "କନିକା",
+      "sweetened rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "machha-besara",
+    "search_terms": [
+      "machha besara",
+      "ମାଛ ବେସର",
+      "mustard fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "rasagola",
+    "search_terms": [
+      "rasagola",
+      "ରସଗୋଲା",
+      "cottage cheese dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "bara",
+    "search_terms": [
+      "bara",
+      "ବଡ଼ା",
+      "lentil fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dalma-stew",
+    "search_terms": [
+      "dalma stew",
+      "ଡାଲମା",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pakhala-bhata-main",
+    "search_terms": [
+      "pakhala bhata main",
+      "ପଖାଳ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhena-poda-dessert",
+    "search_terms": [
+      "chhena poda dessert",
+      "ଛେନା ପୋଡ଼",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "santula-side",
+    "search_terms": [
+      "santula side",
+      "ସନ୍ତୁଳା",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kanika-rice",
+    "search_terms": [
+      "kanika rice",
+      "କନିକା",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "machha-besara-main",
+    "search_terms": [
+      "machha besara main",
+      "ମାଛ ବେସର",
+      "fish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "rasagola-dessert",
+    "search_terms": [
+      "rasagola dessert",
+      "ରସଗୋଲା",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "bara-snack",
+    "search_terms": [
+      "bara snack",
+      "ବଡ଼ା",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dalma-stew2",
+    "search_terms": [
+      "dalma stew2",
+      "ଡାଲମା",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pakhala-bhata-main2",
+    "search_terms": [
+      "pakhala bhata main2",
+      "ପଖାଳ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhena-poda-dessert2",
+    "search_terms": [
+      "chhena poda dessert2",
+      "ଛେନା ପୋଡ଼",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "santula-side2",
+    "search_terms": [
+      "santula side2",
+      "ସନ୍ତୁଳା",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "dosa-py",
+    "search_terms": [
+      "dosa",
+      "தோசை",
+      "rice crepe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "idli-py",
+    "search_terms": [
+      "idli",
+      "இட்லி",
+      "steamed rice cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sambar-py",
+    "search_terms": [
+      "sambar",
+      "சாம்பார்",
+      "lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chutney-py",
+    "search_terms": [
+      "coconut chutney",
+      "தேங்காய் சட்னி"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "fish-curry-py",
+    "search_terms": [
+      "fish curry",
+      "மீன் குழம்பு",
+      "curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pongal-py",
+    "search_terms": [
+      "pongal",
+      "பொங்கல்",
+      "rice porridge"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vada-py",
+    "search_terms": [
+      "vada",
+      "வடை",
+      "lentil fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "rasam-py",
+    "search_terms": [
+      "rasam",
+      "ரசம்",
+      "soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "lemon-rice-py",
+    "search_terms": [
+      "lemon rice",
+      "எலுமிச்சை சாதம்",
+      "rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dosa-py-main",
+    "search_terms": [
+      "dosa main",
+      "தோசை",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "idli-py-breakfast",
+    "search_terms": [
+      "idli breakfast",
+      "இட்லி",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sambar-py-side",
+    "search_terms": [
+      "sambar side",
+      "சாம்பார்",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chutney-py-side",
+    "search_terms": [
+      "chutney side",
+      "தேங்காய் சட்னி",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "fish-curry-py-main",
+    "search_terms": [
+      "fish curry main",
+      "மீன் குழம்பு",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pongal-py-breakfast",
+    "search_terms": [
+      "pongal breakfast",
+      "பொங்கல்",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vada-py-snack",
+    "search_terms": [
+      "vada snack",
+      "வடை",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "rasam-py-side",
+    "search_terms": [
+      "rasam side",
+      "ரசம்",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "lemon-rice-py-main",
+    "search_terms": [
+      "lemon rice main",
+      "எலுமிச்சை சாதம்",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dosa-py-main2",
+    "search_terms": [
+      "dosa main2",
+      "தோசை",
+      "main"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "idli-py-breakfast2",
+    "search_terms": [
+      "idli breakfast2",
+      "இட்லி",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sarson-ka-saag",
+    "search_terms": [
+      "sarson ka saag",
+      "ਸਰ੍ਹੋਂ ਦਾ ਸਾਗ",
+      "mustard greens"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "makki-ki-roti",
+    "search_terms": [
+      "makki ki roti",
+      "ਮੱਕੀ ਦੀ ਰੋਟੀ",
+      "cornmeal flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-makhani",
+    "search_terms": [
+      "dal makhani",
+      "ਦਾਲ ਮੱਖਣੀ",
+      "creamy lentil curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chole-bhature",
+    "search_terms": [
+      "chole bhature",
+      "ਛੋਲੇ ਭਟੂਰੇ",
+      "chickpea curry with bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha",
+    "search_terms": [
+      "amritsari kulcha",
+      "ਅੰਮ੍ਰਿਤਸਰੀ ਕੁਲਚਾ",
+      "stuffed flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sarson-ka-saag-side",
+    "search_terms": [
+      "sarson ka saag side",
+      "ਸਾਗ",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "makki-roti-main",
+    "search_terms": [
+      "makki roti main",
+      "ਰੋਟੀ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-makhani-main",
+    "search_terms": [
+      "dal makhani main",
+      "ਦਾਲ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chole-bhature-main",
+    "search_terms": [
+      "chole bhature main",
+      "ਛੋਲੇ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-side",
+    "search_terms": [
+      "amritsari kulcha side",
+      "ਕੁਲਚਾ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sarson-ka-saag-side2",
+    "search_terms": [
+      "sarson ka saag side2",
+      "ਸਾਗ",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "makki-roti-main2",
+    "search_terms": [
+      "makki roti main2",
+      "ਰੋਟੀ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-makhani-main2",
+    "search_terms": [
+      "dal makhani main2",
+      "ਦਾਲ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chole-bhature-main2",
+    "search_terms": [
+      "chole bhature main2",
+      "ਛੋਲੇ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-side2",
+    "search_terms": [
+      "amritsari kulcha side2",
+      "ਕੁਲਚਾ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sarson-ka-saag-side3",
+    "search_terms": [
+      "sarson ka saag side3",
+      "ਸਾਗ",
+      "side"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "makki-roti-main3",
+    "search_terms": [
+      "makki roti main3",
+      "ਰੋਟੀ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dal-makhani-main3",
+    "search_terms": [
+      "dal makhani main3",
+      "ਦਾਲ",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chole-bhature-main3",
+    "search_terms": [
+      "chole bhature main3",
+      "ਛੋਲੇ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "amritsari-kulcha-side3",
+    "search_terms": [
+      "amritsari kulcha side3",
+      "ਕੁਲਚਾ",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dal-baati-churma",
+    "search_terms": [
+      "dal baati churma",
+      "दाल बाटी चूरमा",
+      "lentils with wheat balls"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ker-sangri",
+    "search_terms": [
+      "ker sangri",
+      "केर सांगरी",
+      "desert berry and bean vegetable"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gatte-ki-sabzi",
+    "search_terms": [
+      "gatte ki sabzi",
+      "गट्टे की सब्जी",
+      "gram flour dumpling curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bajra-roti-rj",
+    "search_terms": [
+      "bajra roti",
+      "बाजरा रोटी",
+      "millet flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "laal-maas",
+    "search_terms": [
+      "laal maas",
+      "लाल मांस",
+      "spicy red meat curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ghevar",
+    "search_terms": [
+      "ghevar",
+      "घेवर",
+      "disc shaped sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "pyaaz-kachori",
+    "search_terms": [
+      "pyaaz kachori",
+      "प्याज़ कचौड़ी",
+      "onion fried snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mirchi-vada",
+    "search_terms": [
+      "mirchi vada",
+      "मिर्ची वड़ा",
+      "stuffed chili fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dal-baati-main",
+    "search_terms": [
+      "dal baati main",
+      "दाल बाटी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ker-sangri-side",
+    "search_terms": [
+      "ker sangri side",
+      "केर सांगरी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gatte-ki-sabzi-main",
+    "search_terms": [
+      "gatte ki sabzi main",
+      "गट्टे की सब्जी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bajra-roti-main-rj",
+    "search_terms": [
+      "bajra roti main",
+      "बाजरा रोटी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "laal-maas-main",
+    "search_terms": [
+      "laal maas main",
+      "लाल मांस",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ghevar-dessert",
+    "search_terms": [
+      "ghevar dessert",
+      "घेवर",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "pyaaz-kachori-snack",
+    "search_terms": [
+      "pyaaz kachori snack",
+      "प्याज़ कचौड़ी",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mirchi-vada-snack",
+    "search_terms": [
+      "mirchi vada snack",
+      "मिर्ची वड़ा",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "dal-baati-main2",
+    "search_terms": [
+      "dal baati main2",
+      "दाल बाटी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ker-sangri-side2",
+    "search_terms": [
+      "ker sangri side2",
+      "केर सांगरी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gatte-ki-sabzi-main2",
+    "search_terms": [
+      "gatte ki sabzi main2",
+      "गट्टे की सब्जी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bajra-roti-main-rj2",
+    "search_terms": [
+      "bajra roti main2",
+      "बाजरा रोटी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gundruk",
+    "search_terms": [
+      "gundruk",
+      "गुन्द्रुक",
+      "fermented leafy greens"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "sel-roti",
+    "search_terms": [
+      "sel roti",
+      "सेल रोटी",
+      "ring shaped rice bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "thukpa-sk",
+    "search_terms": [
+      "thukpa",
+      "थुकपा",
+      "noodle soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "momos",
+    "search_terms": [
+      "momos",
+      "मम",
+      "dumplings"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "phagshapa",
+    "search_terms": [
+      "phagshapa",
+      "फगशापा",
+      "pork with radish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sha-phaley",
+    "search_terms": [
+      "sha phaley",
+      "शा फाले",
+      "meat stuffed bread"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sishnu-ko-soup",
+    "search_terms": [
+      "sishnu ko soup",
+      "सिस्नुको सुप",
+      "nettle soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kinema",
+    "search_terms": [
+      "kinema",
+      "किनेमा",
+      "fermented soybean"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gyathuk",
+    "search_terms": [
+      "gyathuk",
+      "ग्याथुक",
+      "noodle soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhurpi",
+    "search_terms": [
+      "chhurpi",
+      "छुर्पी",
+      "fermented cheese"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gundruk-side",
+    "search_terms": [
+      "gundruk side",
+      "गुन्द्रुक",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "sel-roti-breakfast",
+    "search_terms": [
+      "sel roti breakfast",
+      "सेल रोटी",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "thukpa-soup",
+    "search_terms": [
+      "thukpa soup",
+      "थुकपा",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "momos-snack",
+    "search_terms": [
+      "momos snack",
+      "मम",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "phagshapa-main",
+    "search_terms": [
+      "phagshapa main",
+      "फगशापा",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sha-phaley-snack",
+    "search_terms": [
+      "sha phaley snack",
+      "शा फाले",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "sishnu-ko-soup-side",
+    "search_terms": [
+      "sishnu ko soup side",
+      "सिस्नुको सुप",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kinema-side",
+    "search_terms": [
+      "kinema side",
+      "किनेमा",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gyathuk-main",
+    "search_terms": [
+      "gyathuk main",
+      "ग्याथुक",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chhurpi-side",
+    "search_terms": [
+      "chhurpi side",
+      "छुर्पी",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "idli",
+    "search_terms": [
+      "idli",
+      "இட்லி",
+      "steamed rice cake",
+      "rice idly",
+      "idlee"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dosa",
+    "search_terms": [
+      "dosa",
+      "தோசை",
+      "rice crepe",
+      "dose"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sambar",
+    "search_terms": [
+      "sambar",
+      "சாம்பார்",
+      "lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pongal",
+    "search_terms": [
+      "ven pongal",
+      "வெண் பொங்கல்",
+      "rice and lentil porridge"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "vada",
+    "search_terms": [
+      "medhu vada",
+      "மேது வடை",
+      "urad dal fritter",
+      "vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "podi",
+    "search_terms": [
+      "idli podi",
+      "இட்லி பொடி",
+      "gunpowder",
+      "chutney powder"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chutney-coconut",
+    "search_terms": [
+      "coconut chutney",
+      "தேங்காய் சட்னி",
+      "thengai chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "rasam",
+    "search_terms": [
+      "rasam",
+      "ரசம்",
+      "spiced lentil soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "avial-tn",
+    "search_terms": [
+      "avial",
+      "அவியல்",
+      "mixed vegetable curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "lemon-rice",
+    "search_terms": [
+      "lemon rice",
+      "எலுமிச்சை சாதம்",
+      "chitrannam"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "curd-rice",
+    "search_terms": [
+      "curd rice",
+      "தயிர் சாதம்",
+      "yogurt rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bisi-bele-bath",
+    "search_terms": [
+      "bisi bele bath",
+      "பிசி பேலே பாத்",
+      "hot lentil rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "upma",
+    "search_terms": [
+      "upma",
+      "உப்புமா",
+      "semolina porridge"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "appalam",
+    "search_terms": [
+      "appalam",
+      "அப்பளம்",
+      "papadum"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "murukku",
+    "search_terms": [
+      "murukku",
+      "முறுக்கு",
+      "rice snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "adai",
+    "search_terms": [
+      "adai",
+      "அடை",
+      "mixed lentil crepe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kuzhambu",
+    "search_terms": [
+      "vathal kuzhambu",
+      "வற்றல் குழம்பு",
+      "tangy tamarind curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poriyal",
+    "search_terms": [
+      "cabbage poriyal",
+      "முட்டைக்கோஸ் பொரியல்",
+      "stir-fried cabbage"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "koottu",
+    "search_terms": [
+      "vegetable koottu",
+      "காய்கறி கூட்டு",
+      "lentil and vegetable stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "payasam",
+    "search_terms": [
+      "payasam",
+      "பாயசம்",
+      "kheer",
+      "milk dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "paniyaram",
+    "search_terms": [
+      "kuzhi paniyaram",
+      "குழி பணியாரம்",
+      "appe"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "puliyogare",
+    "search_terms": [
+      "tamarind rice",
+      "புளியோதரை",
+      "puliyodarai"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thakkali-sadham",
+    "search_terms": [
+      "tomato rice",
+      "தக்காளி சாதம்",
+      "thakkali sadam"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sundal",
+    "search_terms": [
+      "chickpea sundal",
+      "சுண்டல்",
+      "spiced chickpeas"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "puttu-tn",
+    "search_terms": [
+      "puttu",
+      "புட்டு",
+      "rice puttu"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "appam-tn",
+    "search_terms": [
+      "appam",
+      "அப்பம்",
+      "rice pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "parotta",
+    "search_terms": [
+      "parotta",
+      "பரோட்டா",
+      "layered flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "salna",
+    "search_terms": [
+      "vegetable salna",
+      "சால்னா",
+      "spicy gravy"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "keerai-kootu",
+    "search_terms": [
+      "spinach koottu",
+      "கீரை கூட்டு",
+      "palak koottu"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "vadai-curry",
+    "search_terms": [
+      "vadai curry",
+      "வடை கறி",
+      "vada curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "idiyappam",
+    "search_terms": [
+      "idiyappam",
+      "இடியாப்பம்",
+      "string hoppers"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kothamalli-chutney",
+    "search_terms": [
+      "coriander chutney",
+      "கொத்தமல்லி சட்னி",
+      "cilantro chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pachadi",
+    "search_terms": [
+      "beetroot pachadi",
+      "பீட்ரூட் பச்சடி",
+      "yogurt raita"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "milagu-rasam",
+    "search_terms": [
+      "pepper rasam",
+      "மிளகு ரசம்",
+      "spicy pepper soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "tomato-rasam",
+    "search_terms": [
+      "tomato rasam",
+      "தக்காளி ரசம்",
+      "thakkali rasam"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kootu-cabbage",
+    "search_terms": [
+      "cabbage kootu",
+      "முட்டைக்கோஸ் கூட்டு",
+      "cabbage stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "avaraikkai-poriyal",
+    "search_terms": [
+      "broad beans poriyal",
+      "அவரைக்காய் பொரியல்",
+      "beans stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "karunai-kizangu",
+    "search_terms": [
+      "elephant yam fry",
+      "கருணைக்கிழங்கு வறுவல்",
+      "yam fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kathirikai-gothsu",
+    "search_terms": [
+      "brinjal gothsu",
+      "கத்தரிக்காய் கொத்சு",
+      "eggplant curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vendakkai-puli",
+    "search_terms": [
+      "okra tamarind curry",
+      "வெண்டைக்காய் புளிக்கறி",
+      "vendakkai puli kulambu"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "semia-upma",
+    "search_terms": [
+      "vermicelli upma",
+      "சேமியா உப்புமா",
+      "semia upma"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "javvarisi-pongal",
+    "search_terms": [
+      "sago pongal",
+      "ஜவ்வரிசி பொங்கல்",
+      "sabudana pongal"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "keerai-sadham",
+    "search_terms": [
+      "spinach rice",
+      "கீரை சாதம்",
+      "palak rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "milagu-sadham",
+    "search_terms": [
+      "pepper rice",
+      "மிளகு சாதம்",
+      "milagu sadam"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "puli-sadham",
+    "search_terms": [
+      "tamarind rice",
+      "புளி சாதம்",
+      "puliyogare"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thakkali-kuzhambu",
+    "search_terms": [
+      "tomato gravy",
+      "தக்காளி குழம்பு",
+      "tomato salna"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vengaya-kuzhambu",
+    "search_terms": [
+      "onion gravy",
+      "வெங்காய குழம்பு",
+      "small onion curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "kothamalli-sadham",
+    "search_terms": [
+      "coriander rice",
+      "கொத்தமல்லி சாதம்",
+      "cilantro rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "puli-rasam",
+    "search_terms": [
+      "tamarind rasam",
+      "புளி ரசம்",
+      "tamarind soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "poori",
+    "search_terms": [
+      "poori",
+      "பூரி",
+      "deep fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sarva-pindi",
+    "search_terms": [
+      "sarva pindi",
+      "సర్వ పిండి",
+      "rice flour savory pancake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sakinalu",
+    "search_terms": [
+      "sakinalu",
+      "సకినాలు",
+      "rice flour snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "garelu",
+    "search_terms": [
+      "garelu",
+      "గారెలు",
+      "urad dal vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "vankaya-pappu",
+    "search_terms": [
+      "brinjal dal",
+      "వంకాయ పప్పు",
+      "eggplant lentil"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mamidikaya-pappu",
+    "search_terms": [
+      "raw mango dal",
+      "మామిడికాయ పప్పు",
+      "mango dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pachi-pulusu",
+    "search_terms": [
+      "pachi pulusu",
+      "పచ్చి పులుసు",
+      "raw tamarind soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gongura-pachadi-ts",
+    "search_terms": [
+      "gongura chutney",
+      "గోంగూర పచ్చడి",
+      "sorrel chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jonna-rotte",
+    "search_terms": [
+      "jonna rotte",
+      "జొన్న రొట్టె",
+      "sorghum flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-curry-ts",
+    "search_terms": [
+      "telangana mutton curry",
+      "మటన్ కర్రీ",
+      "spicy mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chicken-curry-ts",
+    "search_terms": [
+      "telangana chicken curry",
+      "చికెన్ కర్రీ",
+      "spicy chicken curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pappu-charu-ts",
+    "search_terms": [
+      "pappu charu",
+      "పప్పు చారు",
+      "lentil soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "tomato-dal-ts",
+    "search_terms": [
+      "tomato pappu",
+      "టొమాటో పప్పు",
+      "tomato dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gongura-dal-ts",
+    "search_terms": [
+      "gongura pappu",
+      "గోంగూర పప్పు",
+      "sorrel dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "vankaya-koora-ts",
+    "search_terms": [
+      "brinjal curry",
+      "వంకాయ కూర",
+      "eggplant curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vada-ts",
+    "search_terms": [
+      "vada",
+      "వడ",
+      "garelu"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "idli-ts",
+    "search_terms": [
+      "idli",
+      "ఇడ్లీ",
+      "rice cake"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "dosa-ts",
+    "search_terms": [
+      "dosa",
+      "దోశ",
+      "rice crepe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "sambar-ts",
+    "search_terms": [
+      "sambar",
+      "సాంబార్",
+      "lentil stew"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "rasam-ts",
+    "search_terms": [
+      "charu",
+      "చారు",
+      "rasam"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "chitrannam-ts",
+    "search_terms": [
+      "lemon rice",
+      "చిత్రాన్నం",
+      "pulihora"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "papadum-ts",
+    "search_terms": [
+      "appadam",
+      "అప్పడం",
+      "papad"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "puli-hora-ts",
+    "search_terms": [
+      "pulihora",
+      "పులిహోర",
+      "tamarind rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pesarattu-ts",
+    "search_terms": [
+      "pesarattu",
+      "పెసరట్టు",
+      "moong dal dosa"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "pappu-tomato-ts",
+    "search_terms": [
+      "tomato pappu",
+      "టొమాటో పప్పు",
+      "tomato dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pappu-charu-ts-dal-soup",
+    "search_terms": [
+      "pappu charu dal soup",
+      "పప్పు చారు",
+      "dal soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "bobbatlu-ts",
+    "search_terms": [
+      "bobbatlu",
+      "బొబ్బట్లు",
+      "sweet poli"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "laddu-ts",
+    "search_terms": [
+      "laddu",
+      "లడ్డు",
+      "besan laddu"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kajikayalu-ts",
+    "search_terms": [
+      "kajikayalu",
+      "కజ్జికాయలు",
+      "somas"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jantikalu-ts",
+    "search_terms": [
+      "jantikalu",
+      "జంతికలు",
+      "fried snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pootharekulu-ts",
+    "search_terms": [
+      "pootharekulu",
+      "పూతరేకులు",
+      "paper sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "avakkai-pickle-ts",
+    "search_terms": [
+      "avakkai pickle",
+      "ఆవకాయ",
+      "mango pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gunta-ponganalu-ts",
+    "search_terms": [
+      "gunta ponganalu",
+      "గుంత పొంగనాలు",
+      "appe"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "pappu-dal-ts",
+    "search_terms": [
+      "dal pappu",
+      "పప్పు",
+      "lentil"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "vada-dal-ts",
+    "search_terms": [
+      "vada",
+      "వడ",
+      "dal vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chakhwi",
+    "search_terms": [
+      "chakhwi",
+      "rice and lentil dish"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "muya-awandru",
+    "search_terms": [
+      "muya awandru",
+      "bamboo shoot curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mosdeng-serma",
+    "search_terms": [
+      "mosdeng serma",
+      "spicy tomato chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "wahan-mosdeng",
+    "search_terms": [
+      "wahan mosdeng",
+      "pork salad"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gudok",
+    "search_terms": [
+      "gudok",
+      "vegetable mash"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "khundrupui",
+    "search_terms": [
+      "khundrupui",
+      "leafy vegetable dish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "batore",
+    "search_terms": [
+      "batore",
+      "rice flour bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chakhwi-stew",
+    "search_terms": [
+      "chakhwi stew",
+      "chakhwi",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "muya-awandru-curry",
+    "search_terms": [
+      "muya awandru curry",
+      "muya awandru",
+      "curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mosdeng-serma-side",
+    "search_terms": [
+      "mosdeng serma side",
+      "mosdeng serma",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "wahan-mosdeng-main",
+    "search_terms": [
+      "wahan mosdeng main",
+      "wahan mosdeng",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gudok-side",
+    "search_terms": [
+      "gudok side",
+      "gudok",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "khundrupui-side",
+    "search_terms": [
+      "khundrupui side",
+      "khundrupui",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "batore-breakfast",
+    "search_terms": [
+      "batore breakfast",
+      "batore",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "chakhwi-stew2",
+    "search_terms": [
+      "chakhwi stew2",
+      "chakhwi",
+      "stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "muya-awandru-curry2",
+    "search_terms": [
+      "muya awandru curry2",
+      "muya awandru",
+      "curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "mosdeng-serma-side2",
+    "search_terms": [
+      "mosdeng serma side2",
+      "mosdeng serma",
+      "chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "wahan-mosdeng-main2",
+    "search_terms": [
+      "wahan mosdeng main2",
+      "wahan mosdeng",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gudok-side2",
+    "search_terms": [
+      "gudok side2",
+      "gudok",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "khundrupui-side2",
+    "search_terms": [
+      "khundrupui side2",
+      "khundrupui",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-paratha",
+    "search_terms": [
+      "aloo paratha",
+      "आलू पराठा",
+      "potato stuffed flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "tunday-kebab",
+    "search_terms": [
+      "tunday kebab",
+      "टुंडे कबाब",
+      "spiced mutton kebab"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poori-sabzi",
+    "search_terms": [
+      "poori sabzi",
+      "पूरी सब्जी",
+      "fried bread with potato curry"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bedmi-puri",
+    "search_terms": [
+      "bedmi puri",
+      "बेड़मी पूरी",
+      "lentil stuffed fried bread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "petha-ag",
+    "search_terms": [
+      "agra petha",
+      "आगरा पेठा",
+      "ash gourd sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "banarasi-tamatar-chaat",
+    "search_terms": [
+      "banarasi tamatar chaat",
+      "बनारसी टमाटर चाट",
+      "spicy tomato snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mathura-pede",
+    "search_terms": [
+      "mathura pede",
+      "मथुरा के पेड़े",
+      "milk sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chaat",
+    "search_terms": [
+      "chaat",
+      "चाट",
+      "spiced street snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pulao",
+    "search_terms": [
+      "pulao",
+      "पुलाव",
+      "spiced rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "aloo-paratha-breakfast",
+    "search_terms": [
+      "aloo paratha breakfast",
+      "आलू पराठा",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "tunday-kebab-main",
+    "search_terms": [
+      "tunday kebab main",
+      "टुंडे कबाब",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "poori-sabzi-breakfast",
+    "search_terms": [
+      "poori sabzi breakfast",
+      "पूरी सब्जी",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bedmi-puri-breakfast",
+    "search_terms": [
+      "bedmi puri breakfast",
+      "बेड़मी पूरी",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "petha-ag-dessert",
+    "search_terms": [
+      "agra petha dessert",
+      "आगरा पेठा",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "banarasi-tamatar-chaat-snack",
+    "search_terms": [
+      "banarasi tamatar chaat snack",
+      "बनारसी टमाटर चाट",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mathura-pede-dessert",
+    "search_terms": [
+      "mathura pede dessert",
+      "मथुरा के पेड़े",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chaat-snack",
+    "search_terms": [
+      "chaat snack",
+      "चाट",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pulao-main",
+    "search_terms": [
+      "pulao main",
+      "पुलाव",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "aloo-paratha-breakfast2",
+    "search_terms": [
+      "aloo paratha breakfast2",
+      "आलू पराठा",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "tunday-kebab-main2",
+    "search_terms": [
+      "tunday kebab main2",
+      "टुंडे कबाब",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "baadi",
+    "search_terms": [
+      "baadi",
+      "बाड़ी",
+      "buckwheat dough balls"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chainsoo",
+    "search_terms": [
+      "chainsoo",
+      "चैनसू",
+      "black gram dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kaapa",
+    "search_terms": [
+      "kaapa",
+      "कापा",
+      "spinach curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-gutke",
+    "search_terms": [
+      "aloo gutke",
+      "आलू गुटके",
+      "spiced potato stir-fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jhangora-ki-kheer",
+    "search_terms": [
+      "jhangora ki kheer",
+      "झंगोरा की खीर",
+      "millet pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gahat-ka-soup",
+    "search_terms": [
+      "gahat ka soup",
+      "गहत का सूप",
+      "horse gram soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "fana",
+    "search_terms": [
+      "fana",
+      "फाना",
+      "lentil vegetable mix"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "baadi-main",
+    "search_terms": [
+      "baadi main",
+      "बाड़ी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chainsoo-main",
+    "search_terms": [
+      "chainsoo main",
+      "चैनसू",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kaapa-side",
+    "search_terms": [
+      "kaapa side",
+      "कापा",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-gutke-side",
+    "search_terms": [
+      "aloo gutke side",
+      "आलू गुटके",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jhangora-ki-kheer-dessert",
+    "search_terms": [
+      "jhangora ki kheer dessert",
+      "झंगोरा की खीर",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gahat-ka-soup-side",
+    "search_terms": [
+      "gahat ka soup side",
+      "गहत का सूप",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "fana-main",
+    "search_terms": [
+      "fana main",
+      "फाना",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "baadi-side",
+    "search_terms": [
+      "baadi side",
+      "बाड़ी",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chainsoo-main2",
+    "search_terms": [
+      "chainsoo main2",
+      "चैनसू",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kaapa-side2",
+    "search_terms": [
+      "kaapa side2",
+      "कापा",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "aloo-gutke-side2",
+    "search_terms": [
+      "aloo gutke side2",
+      "आलू गुटके",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "jhangora-ki-kheer-dessert2",
+    "search_terms": [
+      "jhangora ki kheer dessert2",
+      "झंगोरा की खीर",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gahat-ka-soup-side2",
+    "search_terms": [
+      "gahat ka soup side2",
+      "गहत का सूप",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "shukto",
+    "search_terms": [
+      "shukto",
+      "শুক্তো",
+      "mixed vegetable dish"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "macher-jhol",
+    "search_terms": [
+      "macher jhol",
+      "মাছের ঝোল",
+      "fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mishti-doi",
+    "search_terms": [
+      "mishti doi",
+      "মিষ্টি দই",
+      "sweet yogurt"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sandesh",
+    "search_terms": [
+      "sandesh",
+      "সন্দেশ",
+      "milk sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kosha-mangsho",
+    "search_terms": [
+      "kosha mangsho",
+      "কষা মাংস",
+      "spiced mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "aloo-posto",
+    "search_terms": [
+      "aloo posto",
+      "আলু পোস্ত",
+      "potato in poppy seed paste"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "beguni",
+    "search_terms": [
+      "beguni",
+      "বেগুনী",
+      "eggplant fritter"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "luchi",
+    "search_terms": [
+      "luchi",
+      "লুচি",
+      "deep fried flatbread"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "shukto-side",
+    "search_terms": [
+      "shukto side",
+      "শুক্তো",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "macher-jhol-main",
+    "search_terms": [
+      "macher jhol main",
+      "মাছের ঝোল",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mishti-doi-dessert",
+    "search_terms": [
+      "mishti doi dessert",
+      "মিষ্টি দই",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sandesh-dessert",
+    "search_terms": [
+      "sandesh dessert",
+      "সন্দেশ",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kosha-mangsho-main",
+    "search_terms": [
+      "kosha mangsho main",
+      "কষা মাংস",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "aloo-posto-side",
+    "search_terms": [
+      "aloo posto side",
+      "আলু পোস্ত",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "beguni-snack",
+    "search_terms": [
+      "beguni snack",
+      "বেগুনী",
+      "snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "luchi-breakfast",
+    "search_terms": [
+      "luchi breakfast",
+      "লুচি",
+      "breakfast"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "shukto-side2",
+    "search_terms": [
+      "shukto side2",
+      "শুক্তো",
+      "side"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "macher-jhol-main2",
+    "search_terms": [
+      "macher jhol main2",
+      "মাছের ঝোল",
+      "main"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mishti-doi-dessert2",
+    "search_terms": [
+      "mishti doi dessert2",
+      "মিষ্টি দই",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sandesh-dessert2",
+    "search_terms": [
+      "sandesh dessert2",
+      "সন্দেশ",
+      "dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "black-tea",
+    "search_terms": [
+      "black tea",
+      "chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "green-tea",
+    "search_terms": [
+      "green tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "coffee",
+    "search_terms": [
+      "coffee",
+      "black coffee"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "milk-coffee",
+    "search_terms": [
+      "milk coffee",
+      "coffee with milk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "lemon-juice",
+    "search_terms": [
+      "lemon juice",
+      "nimbu pani"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "buttermilk",
+    "search_terms": [
+      "buttermilk",
+      "chaas",
+      "moru"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "coconut-water",
+    "search_terms": [
+      "tender coconut water",
+      "nariyal pani"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "protein-shake",
+    "search_terms": [
+      "protein shake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "banana",
+    "search_terms": [
+      "banana",
+      "kela",
+      "vazhaipazham",
+      "ethapazham"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "apple",
+    "search_terms": [
+      "apple",
+      "seb"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "mango",
+    "search_terms": [
+      "mango",
+      "aam"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "orange",
+    "search_terms": [
+      "orange",
+      "santara",
+      "kamala"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "watermelon",
+    "search_terms": [
+      "watermelon",
+      "tarbooj"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "pineapple",
+    "search_terms": [
+      "pineapple",
+      "ananas"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "papaya",
+    "search_terms": [
+      "papaya",
+      "papita"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "guava",
+    "search_terms": [
+      "guava",
+      "amrood",
+      "peru"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "dragon-fruit",
+    "search_terms": [
+      "dragon fruit",
+      "pitaya"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "kiwi",
+    "search_terms": [
+      "kiwi",
+      "kiwifruit"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "grapes",
+    "search_terms": [
+      "grapes",
+      "angoor"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "pomegranate",
+    "search_terms": [
+      "pomegranate",
+      "anaar"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "dates",
+    "search_terms": [
+      "dates",
+      "khajoor"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "coconut",
+    "search_terms": [
+      "coconut",
+      "nariyal"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "strawberry",
+    "search_terms": [
+      "strawberry"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "blueberry",
+    "search_terms": [
+      "blueberry"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "pear",
+    "search_terms": [
+      "pear",
+      "nashpati"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "peach",
+    "search_terms": [
+      "peach",
+      "aadu"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "plum",
+    "search_terms": [
+      "plum",
+      "aloo bukhara"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "cherries",
+    "search_terms": [
+      "cherries",
+      "cherry"
+    ],
+    "category": "fruits"
+  },
+  {
+    "id": "oats-instant",
+    "search_terms": [
+      "instant oats",
+      "quick oats"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "quinoa-cooked",
+    "search_terms": [
+      "quinoa cooked",
+      "cooked quinoa"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "barley",
+    "search_terms": [
+      "barley",
+      "jau"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "millet-finger",
+    "search_terms": [
+      "finger millet",
+      "ragi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "wheat-flour",
+    "search_terms": [
+      "wheat flour",
+      "atta"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "chicken-breast-raw",
+    "search_terms": [
+      "chicken breast raw",
+      "chicken breast"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "chicken-breast-cooked",
+    "search_terms": [
+      "chicken breast cooked",
+      "cooked chicken"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "egg-whole-raw",
+    "search_terms": [
+      "whole egg raw",
+      "egg"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "egg-white-raw",
+    "search_terms": [
+      "egg white raw",
+      "egg white"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "whey-protein-isolate",
+    "search_terms": [
+      "whey protein isolate",
+      "whey isolate"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "paneer-raw",
+    "search_terms": [
+      "paneer raw",
+      "cottage cheese"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "tofu-firm",
+    "search_terms": [
+      "tofu firm",
+      "soy paneer"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "soya-chunks",
+    "search_terms": [
+      "soya chunks",
+      "soy nuggets"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "oats-rolled",
+    "search_terms": [
+      "oats rolled",
+      "rolled oats"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "brown-rice-raw",
+    "search_terms": [
+      "brown rice raw",
+      "whole grain rice"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "white-rice-raw",
+    "search_terms": [
+      "white rice raw",
+      "polished rice"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "peanut-butter",
+    "search_terms": [
+      "peanut butter",
+      "pb"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "almonds",
+    "search_terms": [
+      "almonds",
+      "badam"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "greek-yogurt",
+    "search_terms": [
+      "greek yogurt",
+      "hung curd"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "quinoa",
+    "search_terms": [
+      "quinoa"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "chia-seeds",
+    "search_terms": [
+      "chia seeds",
+      "chia"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "flax-seeds",
+    "search_terms": [
+      "flax seeds",
+      "alsi"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "pumpkin-seeds",
+    "search_terms": [
+      "pumpkin seeds"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "sunflower-seeds",
+    "search_terms": [
+      "sunflower seeds"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "lentils-red",
+    "search_terms": [
+      "red lentils",
+      "masoor dal"
+    ],
+    "category": "gym-staples"
+  },
+  {
+    "id": "potato",
+    "search_terms": [
+      "potato",
+      "aloo"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "onion",
+    "search_terms": [
+      "onion",
+      "pyaz",
+      "vengayam"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "tomato",
+    "search_terms": [
+      "tomato",
+      "tamatar",
+      "thakkali"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "carrot",
+    "search_terms": [
+      "carrot",
+      "gajar"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "beetroot",
+    "search_terms": [
+      "beetroot",
+      "chukandar"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "cabbage",
+    "search_terms": [
+      "cabbage",
+      "patta gobhi"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "cauliflower",
+    "search_terms": [
+      "cauliflower",
+      "phool gobhi"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "broccoli",
+    "search_terms": [
+      "broccoli"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "spinach",
+    "search_terms": [
+      "spinach",
+      "palak",
+      "keerai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "okra",
+    "search_terms": [
+      "okra",
+      "bhindi",
+      "vendakkai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "brinjal",
+    "search_terms": [
+      "brinjal",
+      "baingan",
+      "kathirikai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "pumpkin",
+    "search_terms": [
+      "pumpkin",
+      "kaddu"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "bitter-gourd",
+    "search_terms": [
+      "bitter gourd",
+      "karela",
+      "pavakkai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "bottle-gourd",
+    "search_terms": [
+      "bottle gourd",
+      "lauki",
+      "sorakkai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "cucumber",
+    "search_terms": [
+      "cucumber",
+      "kheera",
+      "vellarikai"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "beans",
+    "search_terms": [
+      "french beans",
+      "beans",
+      "pharasbi"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "capsicum",
+    "search_terms": [
+      "capsicum",
+      "shimla mirch"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "radish",
+    "search_terms": [
+      "radish",
+      "mooli"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "ginger",
+    "search_terms": [
+      "ginger",
+      "adrak"
+    ],
+    "category": "vegetables"
+  },
+  {
+    "id": "garlic",
+    "search_terms": [
+      "garlic",
+      "lehsun"
+    ],
+    "category": "vegetables"
+  }
+]

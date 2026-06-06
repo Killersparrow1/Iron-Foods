@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Search Index Schema",
+  "description": "Optimized, flattened index for client-side search functionality.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": { "type": "string" },
+      "search_terms": { "type": "array", "items": { "type": "string" }, "description": "Normalized, combined search terms (names + aliases + translations)." },
+      "category": { "type": "string" }
+    },
+    "required": ["id", "search_terms"]
+  }
+}

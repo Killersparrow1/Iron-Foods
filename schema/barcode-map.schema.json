@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Barcode Map Schema",
+  "description": "Mapping from product barcode to Iron Foods ID.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "barcode": { "type": "string" },
+      "food_id": { "type": "string" },
+      "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+    },
+    "required": ["barcode", "food_id", "confidence"]
+  }
+}

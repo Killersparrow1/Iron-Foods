@@ -1,0 +1,36 @@
+openapi: 3.0.0
+info:
+  title: Iron Foods API
+  version: 1.0.0
+  description: Public API for accessing Indian food nutrition data.
+paths:
+  /foods:
+    get:
+      summary: List all foods
+      responses:
+        '200':
+          description: A list of foods
+  /search:
+    get:
+      summary: Search foods
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Search results
+  /barcodes/{barcode}:
+    get:
+      summary: Get food by barcode
+      parameters:
+        - name: barcode
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Food details
