@@ -3634,6 +3634,64 @@
     "category": "breakfast"
   },
   {
+    "id": "ney-pathiri",
+    "search_terms": [
+      "ney pathiri",
+      "നെയ് പത്തിരി",
+      "ghee rice flatbread",
+      "fried pathiri"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "kadala-curry",
+    "search_terms": [
+      "kadala curry",
+      "കടല കറി",
+      "black chickpea curry",
+      "kadala"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kozhukatta",
+    "search_terms": [
+      "kozhukatta",
+      "കൊഴുകッタ",
+      "steamed rice dumpling",
+      "sweet dumpling"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "chakka-varatti",
+    "search_terms": [
+      "chakka varatti",
+      "ചക്ക വരട്ടി",
+      "jackfruit preserve",
+      "jackfruit halwa"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chakka-pradhaman",
+    "search_terms": [
+      "chakka pradhaman",
+      "ചക്ക പ്രഥമൻ",
+      "jackfruit payasam"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "chakka-ada",
+    "search_terms": [
+      "chakka ada",
+      "ചക്ക അട",
+      "jackfruit rice dumpling"
+    ],
+    "category": "snack"
+  },
+  {
     "id": "thukpa-ladakh",
     "search_terms": [
       "ladakhi thukpa",
@@ -6433,24 +6491,6 @@
     "category": "breakfast"
   },
   {
-    "id": "pappu-tomato-ts",
-    "search_terms": [
-      "tomato pappu",
-      "టొమాటో పప్పు",
-      "tomato dal"
-    ],
-    "category": "main"
-  },
-  {
-    "id": "pappu-charu-ts-dal-soup",
-    "search_terms": [
-      "pappu charu dal soup",
-      "పప్పు చారు",
-      "dal soup"
-    ],
-    "category": "side"
-  },
-  {
     "id": "bobbatlu-ts",
     "search_terms": [
       "bobbatlu",
@@ -6514,15 +6554,6 @@
     "category": "breakfast"
   },
   {
-    "id": "pappu-dal-ts",
-    "search_terms": [
-      "dal pappu",
-      "పప్పు",
-      "lentil"
-    ],
-    "category": "side"
-  },
-  {
     "id": "vada-dal-ts",
     "search_terms": [
       "vada",
@@ -6530,6 +6561,726 @@
       "dal vada"
     ],
     "category": "snack"
+  },
+  {
+    "id": "chegodilu",
+    "search_terms": [
+      "chegodilu",
+      "చెగోడిలు",
+      "ring-shaped rice snack"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "garijalu",
+    "search_terms": [
+      "garijalu",
+      "గరిజాలు",
+      "crescent-shaped fried pastry"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "malidalu",
+    "search_terms": [
+      "malidalu",
+      "మాలిడాలు",
+      "sweet roti balls"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "saaja-rotte",
+    "search_terms": [
+      "sajja rotte",
+      "సజ్జ రొట్టె",
+      "pearl millet flatbread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "korra-buvva",
+    "search_terms": [
+      "korra buvva",
+      "కొర్ర బువ్వ",
+      "foxtail millet rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ragi-sankati",
+    "search_terms": [
+      "ragi sangati",
+      "రాగి సంగటి",
+      "finger millet porridge"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "thotakura-pappu",
+    "search_terms": [
+      "thotakura pappu",
+      "తోటకూర పప్పు",
+      "amaranth dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bendakaya-fry",
+    "search_terms": [
+      "bendakaya fry",
+      "బెండకాయ ఫ్రై",
+      "okra stir fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "dondakaya-fry",
+    "search_terms": [
+      "dondakaya fry",
+      "దొండకాయ ఫ్రై",
+      "tindora stir fry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gutti-vankaya",
+    "search_terms": [
+      "gutti vankaya",
+      "గుట్టి వంకాయ",
+      "stuffed brinjal curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "aloo-dum-ts",
+    "search_terms": [
+      "hyderabadi dum aloo",
+      "హైదరాబాదీ దమ్ ఆలూ",
+      "spicy potato curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bagara-baingan",
+    "search_terms": [
+      "bagara baingan",
+      "బగారా బైంగన్",
+      "hyderabadi eggplant curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mirchi-ka-salan",
+    "search_terms": [
+      "mirchi ka salan",
+      "మిర్చి కా సాలన్",
+      "chili pepper curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "hyderabadi-biryani",
+    "search_terms": [
+      "hyderabadi biryani",
+      "హైదరాబాదీ బిర్యానీ",
+      "chicken/mutton biryani"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "hyderabadi-haleem",
+    "search_terms": [
+      "hyderabadi haleem",
+      "హైదరాబాదీ హలీమ్",
+      "mutton & wheat stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kaddu-ki-kheer",
+    "search_terms": [
+      "kaddu ki kheer",
+      "కడ్డూ కి ఖీర్",
+      "pumpkin pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "double-ka-meetha",
+    "search_terms": [
+      "double ka meetha",
+      "డబుల్ కా మీఠా",
+      "bread pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "qubani-ka-meetha",
+    "search_terms": [
+      "qubani ka meetha",
+      "ఖుబానీ కా మీఠా",
+      "apricot dessert"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "nalli-bokka-kura",
+    "search_terms": [
+      "nalli bokka kura",
+      "నల్లి బొక్క కూర",
+      "marrow bone curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "golichina-mamsam",
+    "search_terms": [
+      "golichina mamsam",
+      "గోలిచిన మాంసం",
+      "spicy mutton fry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gongura-mamsam",
+    "search_terms": [
+      "gongura mamsam",
+      "గోంగూర మాంసం",
+      "sorrel mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "ooru-kodi-pulusu",
+    "search_terms": [
+      "ooru kodi pulusu",
+      "ఊరు కోడి పులుసు",
+      "country chicken stew"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "tala-kaya-kura",
+    "search_terms": [
+      "tala kaya kura",
+      "తల కాయ కూర",
+      "goat head curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-liver-fry",
+    "search_terms": [
+      "mutton liver fry",
+      "మటన్ లివర్ ఫ్రై",
+      "kaleji fry"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "bommidala-pulusu",
+    "search_terms": [
+      "bommidala pulusu",
+      "బొమ్మిడాల పులుసు",
+      "fish curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "royyala-kura",
+    "search_terms": [
+      "royyala kura",
+      "రొయ్యల కూర",
+      "shrimp curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "sem-phalli-gosht",
+    "search_terms": [
+      "sem phalli gosht",
+      "సెమ్ ఫల్లీ గోష్ట్",
+      "broad bean mutton curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gongura-pachadi-ts2",
+    "search_terms": [
+      "gongura pachadi",
+      "గోంగూర పచ్చడి",
+      "sorrel chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "pallichutney",
+    "search_terms": [
+      "palli chutney",
+      "పల్లీ చట్నీ",
+      "peanut chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "ulava-charu",
+    "search_terms": [
+      "ulava charu",
+      "ఉలవ చారు",
+      "horse gram soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "nalla-miryala-shorba",
+    "search_terms": [
+      "nalla miryala shorba",
+      "నల్ల మిర్యాల షోర్బా",
+      "black pepper soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "gongura-dal",
+    "search_terms": [
+      "gongura pappu",
+      "గోంగూర పప్పు",
+      "sorrel lentil curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "pachimirchi-kaaram",
+    "search_terms": [
+      "pachi mirchi kaaram",
+      "పచ్చిమిర్చి కారం",
+      "green chili chutney"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "garelu-sambar",
+    "search_terms": [
+      "garelu",
+      "గారెలు",
+      "urad dal vada with sambar"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "punugulu",
+    "search_terms": [
+      "punugulu",
+      "పునుగులు",
+      "fried idli balls"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "pesara-punukulu",
+    "search_terms": [
+      "pesara punukulu",
+      "పెసర పునుకులు",
+      "moong dal fritters"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "makka-garelu",
+    "search_terms": [
+      "makka garelu",
+      "మక్క గారెలు",
+      "corn vada"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "mirchi-bajji",
+    "search_terms": [
+      "mirchi bajji",
+      "మిర్చి బజ్జీ",
+      "chili fritters"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "upma-ts",
+    "search_terms": [
+      "upma",
+      "ఉప్మా",
+      "savory semolina porridge"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "poornalu",
+    "search_terms": [
+      "poornalu",
+      "పూర్ణాలు",
+      "stuffed sweet dumplings"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ariselu",
+    "search_terms": [
+      "ariselu",
+      "అరిసెలు",
+      "rice & jaggery cookie"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "gavvalu",
+    "search_terms": [
+      "gavvalu",
+      "గవ్వలు",
+      "sweet shells"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "kobbari-lauju",
+    "search_terms": [
+      "kobbari lauju",
+      "కొబ్బరి లాంజు",
+      "coconut ladoo"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "bellam-pappu",
+    "search_terms": [
+      "bellam pappu",
+      "బెల్లం పప్పు",
+      "sweet dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "salla-charu",
+    "search_terms": [
+      "salla charu",
+      "సల్ల చారు",
+      "buttermilk soup"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "tomato-kura",
+    "search_terms": [
+      "tomato kura",
+      "టొమాటో కూర",
+      "tomato curry"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "dosakaya-pappu",
+    "search_terms": [
+      "dosakaya pappu",
+      "దోసకాయ పప్పు",
+      "cucumber dal"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kheema-ts",
+    "search_terms": [
+      "kheema",
+      "కీమా",
+      "spicy mincemeat"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "bhurji-ts",
+    "search_terms": [
+      "egg bhurji",
+      "ఎగ్ భుర్జీ",
+      "spiced scrambled eggs"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "bagara-rice",
+    "search_terms": [
+      "bagara rice",
+      "బగారా రైస్",
+      "spiced rice"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chicken-chettinad",
+    "search_terms": [
+      "chicken chettinad",
+      "చికెన్ చెట్టినాడ్",
+      "spicy chicken curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "mutton-paya",
+    "search_terms": [
+      "mutton paya",
+      "మటన్ పాయ",
+      "trotters soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "kodi-vepudu",
+    "search_terms": [
+      "kodi vepudu",
+      "కోడి వేపుడు",
+      "spicy chicken fry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "gongura-pickle",
+    "search_terms": [
+      "gongura pickle",
+      "గోంగూర పికల్",
+      "sorrel pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "avakaya-pickle",
+    "search_terms": [
+      "avakaya",
+      "ఆవకాయ",
+      "mango pickle"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "biryani-mirchi-ka-salan",
+    "search_terms": [
+      "mirchi ka salan",
+      "మిర్చి కా సాలన్",
+      "biryani gravy"
+    ],
+    "category": "side"
+  },
+  {
+    "id": "khatti-dal",
+    "search_terms": [
+      "khatti dal",
+      "ఖట్టీ దాల్",
+      "sour lentil soup"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "paneer-butter-masala-ts",
+    "search_terms": [
+      "paneer butter masala",
+      "పనీర్ బటర్ మసాలా",
+      "cottage cheese curry"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "chole-bhature-ts",
+    "search_terms": [
+      "chole bhature",
+      "చోలే భటూరే",
+      "chickpea curry with fried bread"
+    ],
+    "category": "main"
+  },
+  {
+    "id": "dahi-vada-ts",
+    "search_terms": [
+      "dahi vada",
+      "దహీ వడ",
+      "yogurt lentil fritters"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "uttapam-ts",
+    "search_terms": [
+      "uttapam",
+      "ఉత్తప్పం",
+      "indian pizza"
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": "gulab-jamun-ts",
+    "search_terms": [
+      "gulab jamun",
+      "గులాబ్ జామున్",
+      "milk dumplings in syrup"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "jalebi-ts",
+    "search_terms": [
+      "jalebi",
+      "జలేబీ",
+      "fried sweet spirals"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "malpua-ts",
+    "search_terms": [
+      "malpua",
+      "మాల్పువా",
+      "sweet pancake"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sheer-khurma-ts",
+    "search_terms": [
+      "sheer khurma",
+      "షీర్ ఖుర్మా",
+      "date & vermicelli pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "phirni-ts",
+    "search_terms": [
+      "phirni",
+      "ఫిర్నీ",
+      "ground rice pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "payasam-ts",
+    "search_terms": [
+      "payasam",
+      "పాయసం",
+      "rice & milk pudding"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "ravva-kesari",
+    "search_terms": [
+      "ravva kesari",
+      "రవ్వ కేసరి",
+      "semolina sweet"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "badam-ki-jaali",
+    "search_terms": [
+      "badam ki jaali",
+      "బాదం కీ జాలీ",
+      "almond pastry"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "badusha-ts",
+    "search_terms": [
+      "badusha",
+      "బాదుషా",
+      "glazed doughnut"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "osmania-biscuit",
+    "search_terms": [
+      "osmania biscuit",
+      "ఉస్మానియా బిస్కెట్",
+      "tea biscuit"
+    ],
+    "category": "snack"
+  },
+  {
+    "id": "irani-chai",
+    "search_terms": [
+      "irani chai",
+      "ఇరానీ చాయ్",
+      "sweet milky tea"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "palle-velugu",
+    "search_terms": [
+      "palle velugu",
+      "పల్లె వెలుగు",
+      "finger millet malt"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "panakam",
+    "search_terms": [
+      "panakam",
+      "పానకం",
+      "jaggery drink"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "chintapandu-charan",
+    "search_terms": [
+      "chintapandu charan",
+      "చింతపండు చారన్",
+      "tamarind juice"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "chai-ts",
+    "search_terms": [
+      "adrak chai",
+      "అద్రక్ చాయ్",
+      "ginger tea"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "jal-jeera",
+    "search_terms": [
+      "jal jeera",
+      "జల్ జీరా",
+      "spiced water"
+    ],
+    "category": "beverage"
+  },
+  {
+    "id": "kaju-katli-ts",
+    "search_terms": [
+      "kaju katli",
+      "కాజూ కత్లీ",
+      "cashew fudge"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "puran-poli-ts",
+    "search_terms": [
+      "puran poli",
+      "పూరణ్ పోళీ",
+      "sweet lentil flatbread"
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": "sunnundalu",
+    "search_terms": [
+      "sunnundalu",
+      "సున్నుండలు",
+      "urad dal ladoo"
+    ],
+    "category": "dessert"
   },
   {
     "id": "chakhwi",
@@ -7308,6 +8059,1010 @@
     "category": "beverages"
   },
   {
+    "id": "sweet-lassi",
+    "search_terms": [
+      "sweet lassi",
+      "मीठी लस्सी",
+      "ਮਿੱਠੀ ਲੱਸੀ",
+      "sweet yogurt drink",
+      "meethi lassi"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "salted-lassi",
+    "search_terms": [
+      "salted lassi",
+      "नमकीन लस्सी",
+      "ਨਮਕੀਨ ਲੱਸੀ",
+      "namkeen lassi"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mango-lassi",
+    "search_terms": [
+      "mango lassi",
+      "आम लस्सी",
+      "aam lassi"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "chaas-masala",
+    "search_terms": [
+      "masala chaas",
+      "मसाला छाछ",
+      "મસાલા છાશ",
+      "spiced buttermilk",
+      "masala moru"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "thandai",
+    "search_terms": [
+      "thandai",
+      "ठंडाई",
+      "sardai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "aam-panna",
+    "search_terms": [
+      "aam panna",
+      "आम पन्ना",
+      "raw mango drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "jaljeera",
+    "search_terms": [
+      "jaljeera",
+      "जलजीरा",
+      "cumin water",
+      "jal jira"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "neer-mor",
+    "search_terms": [
+      "neer mor",
+      "நீர் மோர்",
+      "നീർ മോര്",
+      "spiced buttermilk",
+      "south indian buttermilk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kokum-sherbet",
+    "search_terms": [
+      "kokum sherbet",
+      "कोकम शरबत",
+      "ಕೊಕಂ ಶರಬತ್ತು",
+      "kokum juice",
+      "kokum sharbat"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sugarcane-juice",
+    "search_terms": [
+      "sugarcane juice",
+      "गन्ने का रस",
+      "கரும்பு சாறு",
+      "ganne ka ras",
+      "ikshu rasa"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "badam-milk",
+    "search_terms": [
+      "badam milk",
+      "बादाम दूध",
+      "almond milk",
+      "indian almond milk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "rooh-afza",
+    "search_terms": [
+      "rooh afza",
+      "रूह अफ़्ज़ा",
+      "روح افزا",
+      "rooh afza sherbet"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "filter-coffee",
+    "search_terms": [
+      "south indian filter coffee",
+      "ஃபில்டர் காபி",
+      "ಫಿಲ್ಟರ್ ಕಾಫಿ",
+      "kaapi",
+      "south indian coffee",
+      "degree coffee"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "masala-chai",
+    "search_terms": [
+      "masala chai",
+      "मसाला चाय",
+      "spiced tea",
+      "indian chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "shikanji",
+    "search_terms": [
+      "shikanji",
+      "शिकंजी",
+      "north indian lemonade",
+      "spiced lemon water"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "panakam-bev",
+    "search_terms": [
+      "panakam",
+      "పనకం",
+      "jaggery water",
+      "panaka"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "bel-sherbet",
+    "search_terms": [
+      "bael sherbet",
+      "बेल का शरबत",
+      "வில்வம் ஷர்பத்",
+      "wood apple juice",
+      "bael juice",
+      "kavath sherbet"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sattu-sherbet",
+    "search_terms": [
+      "sattu drink",
+      "सत्तू का शरबत",
+      "सत्तू",
+      "sattu sherbet",
+      "roasted gram flour drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "nannari-sherbet",
+    "search_terms": [
+      "nannari sherbet",
+      "நன்னாரி ஷர்பத்",
+      "നന്നാരി ഷർബത്ത്",
+      "sarsaparilla drink",
+      "nannari sharbat"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kanji",
+    "search_terms": [
+      "kanji",
+      "कांजी",
+      "black carrot kanji",
+      "fermented carrot drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "faluda",
+    "search_terms": [
+      "faluda",
+      "फालूदा",
+      "فالودہ",
+      "falooda"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kullad-chai",
+    "search_terms": [
+      "kullad chai",
+      "कुल्हड़ चाय",
+      "clay pot tea",
+      "matka chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "tulsi-tea",
+    "search_terms": [
+      "tulsi tea",
+      "तुलसी चाय",
+      "holy basil tea",
+      "tulsi green tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "ambil",
+    "search_terms": [
+      "ambil",
+      "आंबिल",
+      "ಅಂಬಿಲಿ",
+      "fermented porridge drink",
+      "ragi ambil"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "phalsa-sherbet",
+    "search_terms": [
+      "phalsa sherbet",
+      "फालसा शरबत",
+      "phalsa juice",
+      "indian sherbet berry drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "rose-sherbet",
+    "search_terms": [
+      "rose sherbet",
+      "गुलाब शरबत",
+      "gulab sharbat",
+      "rose syrup drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "khas-sherbet",
+    "search_terms": [
+      "khas sherbet",
+      "खस शरबत",
+      "vetiver drink",
+      "khus sharbat"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "tamarind-drink",
+    "search_terms": [
+      "tamarind drink",
+      "புளி சாறு",
+      "చింతపండు పానకం",
+      "imli ka sherbet",
+      "puli sadam"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mattha",
+    "search_terms": [
+      "mattha",
+      "मट्ठा",
+      "whipped buttermilk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "chaang",
+    "search_terms": [
+      "chaang",
+      "चांग",
+      "himalayan millet beer",
+      "tibetan barley beer"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "toddy",
+    "search_terms": [
+      "coconut toddy",
+      "കള്ള്",
+      "கள்",
+      "palm wine",
+      "toddy",
+      "kallu"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "feni",
+    "search_terms": [
+      "feni",
+      "ಫೆಣಿ",
+      "फेणी",
+      "cashew feni",
+      "goan feni",
+      "coconut feni"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "cold-coffee",
+    "search_terms": [
+      "cold coffee",
+      "iced coffee",
+      "cold coffee with ice cream"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "green-smoothie",
+    "search_terms": [
+      "green smoothie",
+      "palak smoothie",
+      "spinach smoothie"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "butter-milk-salt",
+    "search_terms": [
+      "salted buttermilk",
+      "chaas",
+      "neer mor"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "aamras",
+    "search_terms": [
+      "aamras",
+      "आमरस",
+      "આમરસ",
+      "mango pulp",
+      "alphonso mango drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "noon-chai",
+    "search_terms": [
+      "kashmiri noon chai",
+      "نون چائے",
+      "pink tea",
+      "sheer chai",
+      "kashmiri chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kaawa",
+    "search_terms": [
+      "kashmiri kahwa",
+      "قہوہ",
+      "kashmiri green tea",
+      "saffron tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sol-kadhi-bev",
+    "search_terms": [
+      "sol kadhi",
+      "सोल कढी",
+      "ಸೋಲ್ ಕಡಿ",
+      "kokum kadhi",
+      "kokum milk drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mosambi-juice",
+    "search_terms": [
+      "mosambi juice",
+      "मोसम्बी जूस",
+      "मोसंबी रस",
+      "sweet lime juice",
+      "sweet lemon juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "watermelon-juice",
+    "search_terms": [
+      "watermelon juice",
+      "तरबूज जूस",
+      "தர்ப்பூசணி சாறு",
+      "tarbooj juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "pomegranate-juice",
+    "search_terms": [
+      "pomegranate juice",
+      "अनार का जूस",
+      "डाळिंब रस",
+      "anar juice",
+      "anardana juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "jamun-juice",
+    "search_terms": [
+      "jamun juice",
+      "जामुन का जूस",
+      "जांभूळ रस",
+      "java plum juice",
+      "black plum juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "litchi-juice",
+    "search_terms": [
+      "litchi juice",
+      "लीची जूस",
+      "লিচুর রস",
+      "lychee juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "pineapple-juice",
+    "search_terms": [
+      "pineapple juice",
+      "अनानास जूस",
+      "കൈതച്ചക്ക ജ്യൂസ്",
+      "ananas juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "muskmelon-juice",
+    "search_terms": [
+      "muskmelon juice",
+      "खरबूज जूस",
+      "முலாம்பழம் சாறு",
+      "cantaloupe juice",
+      "kharbuja juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "guava-juice",
+    "search_terms": [
+      "guava juice",
+      "अमरूद जूस",
+      "पेरू रस",
+      "amrood juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "orange-juice",
+    "search_terms": [
+      "fresh orange juice",
+      "संतरा जूस",
+      "संत्रा रस",
+      "santra juice",
+      "nagpur orange juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "apple-juice",
+    "search_terms": [
+      "apple juice",
+      "सेब का जूस",
+      "سیب کا رس",
+      "seb juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "papaya-juice",
+    "search_terms": [
+      "papaya juice",
+      "पपीता जूस",
+      "பப்பாளி சாறு",
+      "papaya shake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "carrot-juice",
+    "search_terms": [
+      "carrot juice",
+      "गाजर का जूस",
+      "கேரட் சாறு",
+      "gajar juice",
+      "gajar ka ras"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "beetroot-juice",
+    "search_terms": [
+      "beetroot juice",
+      "चुकंदर जूस",
+      "बीटरूट रस",
+      "chukandar juice",
+      "red juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kesar-doodh",
+    "search_terms": [
+      "kesar doodh",
+      "केसर दूध",
+      "saffron milk",
+      "zafrani doodh"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "haldi-doodh",
+    "search_terms": [
+      "haldi doodh",
+      "हल्दी दूध",
+      "மஞ்சள் பால்",
+      "turmeric milk",
+      "golden milk",
+      "turmeric latte"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "adrak-chai",
+    "search_terms": [
+      "adrak chai",
+      "अदरक चाय",
+      "आल्याचा चहा",
+      "ginger tea",
+      "ginger chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "elaichi-chai",
+    "search_terms": [
+      "elaichi chai",
+      "इलायची चाय",
+      "cardamom tea",
+      "cardamom chai"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "tulsi-kadha",
+    "search_terms": [
+      "tulsi kadha",
+      "तुलसी काढ़ा",
+      "holy basil decoction",
+      "herbal kadha"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kala-khatta",
+    "search_terms": [
+      "kala khatta",
+      "काला खट्टा",
+      "काळा खट्टा",
+      "black plum cooler",
+      "black currant drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "imli-ka-pani",
+    "search_terms": [
+      "imli ka pani",
+      "इमली का पानी",
+      "చింతపండు నీరు",
+      "tamarind water",
+      "imli drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "saunf-drink",
+    "search_terms": [
+      "saunf drink",
+      "सौंफ का शरबत",
+      "fennel seed cooler",
+      "fennel sherbet"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "pudina-drink",
+    "search_terms": [
+      "pudina drink",
+      "पुदीना शरबत",
+      "புதினா பானம்",
+      "mint cooler",
+      "mint lime water",
+      "pudina sharbat"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "butter-fruit-smoothie",
+    "search_terms": [
+      "butterfruit smoothie",
+      "வெண்ணெய்ப் பழம் ஸ்மூത്തி",
+      "ಬೆಣ್ಣೆ ಹಣ್ಣು ಸ್ಮೂತಿ",
+      "avocado smoothie",
+      "avocado milkshake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mango-shake",
+    "search_terms": [
+      "mango shake",
+      "आम शेक",
+      "आंबा शेक",
+      "mango milkshake",
+      "aam shake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "banana-shake",
+    "search_terms": [
+      "banana shake",
+      "केला शेक",
+      "வாழைப்பழ ஷேக்",
+      "banana milkshake",
+      "kela shake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "chikoo-shake",
+    "search_terms": [
+      "chikoo shake",
+      "चिक्कू शेक",
+      "ચીકુ શેક",
+      "sapota shake",
+      "sapodilla milkshake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sitaphal-shake",
+    "search_terms": [
+      "sitaphal shake",
+      "सीताफळ शेक",
+      "सीताफल शेक",
+      "custard apple shake",
+      "sugar apple milkshake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "dates-shake",
+    "search_terms": [
+      "dates shake",
+      "खजूर शेक",
+      "khajoor shake",
+      "date milkshake",
+      "dates and milk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "dry-fruit-shake",
+    "search_terms": [
+      "dry fruit shake",
+      "ड्राई फ्रूट शेक",
+      "dry fruit milk",
+      "nuts and milk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "pista-milk",
+    "search_terms": [
+      "pista milk",
+      "पिस्ता दूध",
+      "pistachio milk",
+      "pista doodh"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "rose-milk",
+    "search_terms": [
+      "rose milk",
+      "ரோஸ் மில்க்",
+      "റോസ് മിൽക്ക്",
+      "rose flavored milk",
+      "gulab doodh"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "badam-shake",
+    "search_terms": [
+      "badam shake",
+      "बादाम शेक",
+      "almond shake",
+      "almond milkshake"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "elaichi-milk",
+    "search_terms": [
+      "elaichi milk",
+      "इलायची दूध",
+      "cardamom milk",
+      "cardamom flavored milk"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "ragi-malt",
+    "search_terms": [
+      "ragi malt",
+      "ರಾಗಿ ಮಾಲ್ಟ್",
+      "கேழ்வரகு மால்ட்",
+      "finger millet malt",
+      "ragi porridge drink",
+      "ragi ganji"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sabja-drink",
+    "search_terms": [
+      "sabja drink",
+      "सब्जा ड्रिंक",
+      "சப்ஜா பானம்",
+      "basil seed drink",
+      "falooda seeds drink",
+      "tukmaria drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "soda-shikanji",
+    "search_terms": [
+      "soda shikanji",
+      "सोडा शिकंजी",
+      "lemon soda",
+      "nimbu soda",
+      "shikanji soda"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "masala-soda",
+    "search_terms": [
+      "masala soda",
+      "मसाला सोडा",
+      "spiced soda",
+      "indian spiced soda"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "neeragaram",
+    "search_terms": [
+      "neeragaram",
+      "நீர்காகரம்",
+      "നീരകാരം",
+      "pazhaya sadham",
+      "overnight rice water",
+      "fermented rice drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "tadgola-water",
+    "search_terms": [
+      "tadgola water",
+      "ताडगोळा",
+      "ತಾಟಿ ನೀರು",
+      "ताड़ का फल",
+      "ice apple water",
+      "palm fruit water",
+      "palmyra fruit drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "nimbu-pani-mint",
+    "search_terms": [
+      "nimbu pani",
+      "नींबू पानी",
+      "lemonade",
+      "fresh lime soda"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "bel-shake",
+    "search_terms": [
+      "bel shake",
+      "बेल शेक",
+      "wood apple shake",
+      "bael smoothie"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "lebu-cha",
+    "search_terms": [
+      "lebu cha",
+      "লেবু চা",
+      "লেবু চাহ",
+      "lemon tea",
+      "tangy tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "lao-cha",
+    "search_terms": [
+      "laal cha",
+      "লাল চা",
+      "red tea",
+      "assam red tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "jaggery-tea",
+    "search_terms": [
+      "jaggery tea",
+      "வெல்லம் டீ",
+      "ಬೆಲ್ಲದ ಚಹಾ",
+      "gur chai",
+      "vellam tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kairi-cha",
+    "search_terms": [
+      "kairi cha",
+      "कैरी चा",
+      "કેરી ચા",
+      "raw mango tea",
+      "green mango tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "sattu-lemon",
+    "search_terms": [
+      "sattu lemon drink",
+      "सत्तू नींबू पानी",
+      "sattu nimbu pani",
+      "roasted gram lemonade"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "chaas-rajasthani",
+    "search_terms": [
+      "rajasthani chaas",
+      "राजस्थानी छाछ",
+      "masala chaas",
+      "spiced buttermilk rajasthan"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "paneer-soda",
+    "search_terms": [
+      "panner soda",
+      "பன்னீர் சோடா",
+      "rose milk soda"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "kashmiri-kehwa",
+    "search_terms": [
+      "kashmiri kehwa",
+      "کہوہ",
+      "saffron kahwa",
+      "almond tea"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "gulkand-drink",
+    "search_terms": [
+      "gulkand drink",
+      "गुलकंद ड्रिंक",
+      "गुलकंद पेय",
+      "rose petal preserve drink",
+      "gulkand cooler"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "moringa-smoothie",
+    "search_terms": [
+      "moringa smoothie",
+      "முருங்கை ஸ்மூத்தி",
+      "మునగ స్మూతీ",
+      "drumstick leaves smoothie",
+      "moringa green drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "ginger-lemon-honey",
+    "search_terms": [
+      "ginger lemon honey drink",
+      "अदरक नींबू शहद",
+      "soothing tonic",
+      "immunity drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mango-smoothie",
+    "search_terms": [
+      "mango smoothie",
+      "आम स्मूथी",
+      "aam smoothie",
+      "mango yogurt smoothie"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "mixed-fruit-juice",
+    "search_terms": [
+      "mixed fruit juice",
+      "fruit juice mix",
+      "mixed juice"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "lassi-strawberry",
+    "search_terms": [
+      "strawberry lassi",
+      "strawberry yogurt drink"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "cold-coffee-icecream",
+    "search_terms": [
+      "cold coffee with ice cream",
+      "iced mocha",
+      "coffee float"
+    ],
+    "category": "beverages"
+  },
+  {
+    "id": "nimbu-soda",
+    "search_terms": [
+      "nimbu soda",
+      "नींबू सोडा",
+      "lime soda",
+      "fresh lime"
+    ],
+    "category": "beverages"
+  },
+  {
     "id": "banana",
     "search_terms": [
       "banana",
@@ -7506,6 +9261,139 @@
     "search_terms": [
       "wheat flour",
       "atta"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "khichdi",
+    "search_terms": [
+      "khichdi",
+      "खिचड़ी",
+      "rice lentil porridge",
+      "khichri"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "bajra-khichdi-common",
+    "search_terms": [
+      "bajra khichdi",
+      "बाजरा खिचड़ी",
+      "pearl millet khichdi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "jowar-khichdi",
+    "search_terms": [
+      "jowar khichdi",
+      "ज्वार खिचड़ी",
+      "sorghum khichdi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "ragi-khichdi",
+    "search_terms": [
+      "ragi khichdi",
+      "रागी खिचड़ी",
+      "finger millet khichdi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "dalia-khichdi",
+    "search_terms": [
+      "dalia khichdi",
+      "दलिया खिचड़ी",
+      "broken wheat khichdi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "moong-dal-khichdi",
+    "search_terms": [
+      "moong dal khichdi",
+      "मूंग दाल खिचड़ी",
+      "yellow lentil khichdi"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "bisibelebath-mix",
+    "search_terms": [
+      "bisi bele bath mix",
+      "ಬಿಸಿ ಬೇಳೆ ಬಾತ್ ಮಿಕ್ಸ್",
+      "hot lentil rice mix"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "ragi-mudde-common",
+    "search_terms": [
+      "ragi mudde",
+      "ರಾಗಿ ಮುದ್ದೆ",
+      "finger millet ball",
+      "ragi ball"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "akki-roti-common",
+    "search_terms": [
+      "akki roti",
+      "ಅಕ್ಕಿ ರೊಟ್ಟಿ",
+      "rice flour flatbread",
+      "rice roti"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "jolada-rotti-common",
+    "search_terms": [
+      "jolada rotti",
+      "ಜೋಳದ ರೊಟ್ಟಿ",
+      "sorghum flatbread",
+      "jowar roti"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "dal-baati-common",
+    "search_terms": [
+      "dal baati",
+      "दाल बाटी",
+      "lentils with wheat balls"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "poha-common",
+    "search_terms": [
+      "poha",
+      "पोहा",
+      "flattened rice",
+      "pohe"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "upma-common",
+    "search_terms": [
+      "upma",
+      "உப்புமா",
+      "semolina porridge",
+      "uppittu"
+    ],
+    "category": "grains-and-cereals"
+  },
+  {
+    "id": "sabudana-khichdi-common",
+    "search_terms": [
+      "sabudana khichdi",
+      "साबूदाना खिचड़ी",
+      "sago khichdi",
+      "tapioca khichdi"
     ],
     "category": "grains-and-cereals"
   },

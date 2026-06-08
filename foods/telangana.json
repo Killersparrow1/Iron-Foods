@@ -1,113 +1,3002 @@
 [
-  {"id": "sarva-pindi", "names": {"en": "Sarva Pindi", "te": "సర్వ పిండి"}, "aliases": ["Rice Flour Savory Pancake"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 250, "protein": 4.0, "carbs": 35.0, "fat": 9.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "sakinalu", "names": {"en": "Sakinalu", "te": "సకినాలు"}, "aliases": ["Rice Flour Snack"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 500, "protein": 6.0, "carbs": 55.0, "fat": 28.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "garelu", "names": {"en": "Garelu", "te": "గారెలు"}, "aliases": ["Urad Dal Vada"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 285, "protein": 8.0, "carbs": 26.0, "fat": 18.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "vankaya-pappu", "names": {"en": "Brinjal Dal", "te": "వంకాయ పప్పు"}, "aliases": ["Eggplant Lentil"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 75, "protein": 3.5, "carbs": 11.0, "fat": 1.5, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "mamidikaya-pappu", "names": {"en": "Raw Mango Dal", "te": "మామిడికాయ పప్పు"}, "aliases": ["Mango Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 80, "protein": 3.5, "carbs": 12.0, "fat": 1.5, "fiber": 2.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "pachi-pulusu", "names": {"en": "Pachi Pulusu", "te": "పచ్చి పులుసు"}, "aliases": ["Raw Tamarind Soup"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 40, "protein": 1.0, "carbs": 8.0, "fat": 0.5, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "gongura-pachadi-ts", "names": {"en": "Gongura Chutney", "te": "గోంగూర పచ్చడి"}, "aliases": ["Sorrel Chutney"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 95, "protein": 2.5, "carbs": 12.5, "fat": 3.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "jonna-rotte", "names": {"en": "Jonna Rotte", "te": "జొన్న రొట్టె"}, "aliases": ["Sorghum Flatbread"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 275, "protein": 8.0, "carbs": 54.0, "fat": 2.0, "fiber": 6.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "mutton-curry-ts", "names": {"en": "Telangana Mutton Curry", "te": "మటన్ కర్రీ"}, "aliases": ["Spicy Mutton Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 195, "protein": 14.0, "carbs": 5.0, "fat": 13.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "chicken-curry-ts", "names": {"en": "Telangana Chicken Curry", "te": "చికెన్ కర్రీ"}, "aliases": ["Spicy Chicken Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 160, "protein": 15.0, "carbs": 4.0, "fat": 9.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "pappu-charu-ts", "names": {"en": "Pappu Charu", "te": "పప్పు చారు"}, "aliases": ["Lentil Soup"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 85, "protein": 3.5, "carbs": 12.0, "fat": 2.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "tomato-dal-ts", "names": {"en": "Tomato Pappu", "te": "టొమాటో పప్పు"}, "aliases": ["Tomato Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 75, "protein": 3.5, "carbs": 10.5, "fat": 1.5, "fiber": 2.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "gongura-dal-ts", "names": {"en": "Gongura Pappu", "te": "గోంగూర పప్పు"}, "aliases": ["Sorrel Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 80, "protein": 4.0, "carbs": 11.0, "fat": 1.5, "fiber": 3.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "vankaya-koora-ts", "names": {"en": "Brinjal Curry", "te": "వంకాయ కూర"}, "aliases": ["Eggplant Curry"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 85, "protein": 1.5, "carbs": 12.0, "fat": 3.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "vada-ts", "names": {"en": "Vada", "te": "వడ"}, "aliases": ["Garelu"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 290, "protein": 8.0, "carbs": 26.0, "fat": 18.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "idli-ts", "names": {"en": "Idli", "te": "ఇడ్లీ"}, "aliases": ["Rice Cake"], "states": ["telangana", "tamil-nadu"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 87, "protein": 2.0, "carbs": 18.0, "fat": 0.5, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "dosa-ts", "names": {"en": "Dosa", "te": "దోశ"}, "aliases": ["Rice Crepe"], "states": ["telangana", "karnataka"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 168, "protein": 3.0, "carbs": 30.0, "fat": 4.0, "fiber": 1.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "sambar-ts", "names": {"en": "Sambar", "te": "సాంబార్"}, "aliases": ["Lentil Stew"], "states": ["telangana", "tamil-nadu"], "category": "side", "serving_g": 100, "nutrition": {"calories": 55, "protein": 2.5, "carbs": 8.0, "fat": 1.2, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "rasam-ts", "names": {"en": "Charu", "te": "చారు"}, "aliases": ["Rasam"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 35, "protein": 1.0, "carbs": 6.0, "fat": 0.5, "fiber": 0.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "chitrannam-ts", "names": {"en": "Lemon Rice", "te": "చిత్రాన్నం"}, "aliases": ["Pulihora"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 185, "protein": 2.5, "carbs": 32.5, "fat": 5.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "papadum-ts", "names": {"en": "Appadam", "te": "అప్పడం"}, "aliases": ["Papad"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 355, "protein": 12.0, "carbs": 60.5, "fat": 5.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "puli-hora-ts", "names": {"en": "Pulihora", "te": "పులిహోర"}, "aliases": ["Tamarind Rice"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 205, "protein": 3.0, "carbs": 35.5, "fat": 5.0, "fiber": 1.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "pesarattu-ts", "names": {"en": "Pesarattu", "te": "పెసరట్టు"}, "aliases": ["Moong Dal Dosa"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 175, "protein": 7.0, "carbs": 26.0, "fat": 5.0, "fiber": 4.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "bobbatlu-ts", "names": {"en": "Bobbatlu", "te": "బొబ్బట్లు"}, "aliases": ["Sweet Poli"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 320, "protein": 7.0, "carbs": 50.0, "fat": 9.0, "fiber": 3.5}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "laddu-ts", "names": {"en": "Laddu", "te": "లడ్డు"}, "aliases": ["Besan Laddu"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 455, "protein": 6.0, "carbs": 66.0, "fat": 20.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "kajikayalu-ts", "names": {"en": "Kajikayalu", "te": "కజ్జికాయలు"}, "aliases": ["Somas"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 405, "protein": 5.0, "carbs": 55.0, "fat": 18.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "jantikalu-ts", "names": {"en": "Jantikalu", "te": "జంతికలు"}, "aliases": ["Fried Snack"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 535, "protein": 7.5, "carbs": 50.0, "fat": 32.5, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "pootharekulu-ts", "names": {"en": "Pootharekulu", "te": "పూతరేకులు"}, "aliases": ["Paper Sweet"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 425, "protein": 3.0, "carbs": 60.5, "fat": 18.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "avakkai-pickle-ts", "names": {"en": "Avakkai Pickle", "te": "ఆవకాయ"}, "aliases": ["Mango Pickle"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 255, "protein": 2.0, "carbs": 15.0, "fat": 20.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "gunta-ponganalu-ts", "names": {"en": "Gunta Ponganalu", "te": "గుంత పొంగనాలు"}, "aliases": ["Appe"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 235, "protein": 4.5, "carbs": 32.5, "fat": 8.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "vada-dal-ts", "names": {"en": "Vada", "te": "వడ"}, "aliases": ["Dal Vada"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 295, "protein": 8.0, "carbs": 26.5, "fat": 19.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "chegodilu", "names": {"en": "Chegodilu", "te": "చెగోడిలు"}, "aliases": ["Ring-shaped Rice Snack"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 450, "protein": 5.0, "carbs": 60.0, "fat": 20.0, "fiber": 2.5}, "metadata": {"source": "Web", "source_reference": "Swiggy Blog", "source_reliability": "medium"}},
-  {"id": "garijalu", "names": {"en": "Garijalu", "te": "గరిజాలు"}, "aliases": ["Crescent-shaped Fried Pastry"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 400, "protein": 6.0, "carbs": 50.0, "fat": 20.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "News9 Live", "source_reliability": "medium"}},
-  {"id": "malidalu", "names": {"en": "Malidalu", "te": "మాలిడాలు"}, "aliases": ["Sweet Roti Balls"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 350, "protein": 4.0, "carbs": 45.0, "fat": 18.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "TravelSetu", "source_reliability": "low"}},
-  {"id": "saaja-rotte", "names": {"en": "Sajja Rotte", "te": "సజ్జ రొట్టె"}, "aliases": ["Pearl Millet Flatbread"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 320, "protein": 10.0, "carbs": 67.0, "fat": 2.0, "fiber": 8.0}, "metadata": {"source": "Institutional", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "korra-buvva", "names": {"en": "Korra Buvva", "te": "కొర్ర బువ్వ"}, "aliases": ["Foxtail Millet Rice"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 280, "protein": 9.0, "carbs": 58.0, "fat": 1.5, "fiber": 7.0}, "metadata": {"source": "Institutional", "source_reference": "PDF", "source_reliability": "institutional"}},
-  {"id": "ragi-sankati", "names": {"en": "Ragi Sangati", "te": "రాగి సంగటి"}, "aliases": ["Finger Millet Porridge"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 240, "protein": 6.0, "carbs": 55.0, "fat": 1.0, "fiber": 7.0}, "metadata": {"source": "Institutional", "source_reference": "PDF", "source_reliability": "institutional"}},
-  {"id": "thotakura-pappu", "names": {"en": "Thotakura Pappu", "te": "తోటకూర పప్పు"}, "aliases": ["Amaranth Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 120, "protein": 6.0, "carbs": 18.0, "fat": 3.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "Slurrp", "source_reliability": "medium"}},
-  {"id": "bendakaya-fry", "names": {"en": "Bendakaya Fry", "te": "బెండకాయ ఫ్రై"}, "aliases": ["Okra Stir Fry"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 110, "protein": 2.0, "carbs": 12.0, "fat": 7.0, "fiber": 3.5}, "metadata": {"source": "Institutional", "source_reference": "PDF", "source_reliability": "institutional"}},
-  {"id": "dondakaya-fry", "names": {"en": "Dondakaya Fry", "te": "దొండకాయ ఫ్రై"}, "aliases": ["Tindora Stir Fry"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 115, "protein": 1.5, "carbs": 10.0, "fat": 8.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "PDF", "source_reliability": "institutional"}},
-  {"id": "gutti-vankaya", "names": {"en": "Gutti Vankaya", "te": "గుట్టి వంకాయ"}, "aliases": ["Stuffed Brinjal Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 175, "protein": 3.0, "carbs": 15.0, "fat": 12.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "Slurrp", "source_reliability": "medium"}},
-  {"id": "aloo-dum-ts", "names": {"en": "Hyderabadi Dum Aloo", "te": "హైదరాబాదీ దమ్ ఆలూ"}, "aliases": ["Spicy Potato Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 180, "protein": 4.0, "carbs": 20.0, "fat": 10.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "bagara-baingan", "names": {"en": "Bagara Baingan", "te": "బగారా బైంగన్"}, "aliases": ["Hyderabadi Eggplant Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 190, "protein": 2.0, "carbs": 15.0, "fat": 14.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "TasteAtlas", "source_reliability": "medium"}},
-  {"id": "mirchi-ka-salan", "names": {"en": "Mirchi ka Salan", "te": "మిర్చి కా సాలన్"}, "aliases": ["Chili Pepper Curry"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 143, "protein": 6.1, "carbs": 9.9, "fat": 10.3, "fiber": 2.2}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "hyderabadi-biryani", "names": {"en": "Hyderabadi Biryani", "te": "హైదరాబాదీ బిర్యానీ"}, "aliases": ["Chicken/Mutton Biryani"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 350, "protein": 15.0, "carbs": 40.0, "fat": 15.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "hyderabadi-haleem", "names": {"en": "Hyderabadi Haleem", "te": "హైదరాబాదీ హలీమ్"}, "aliases": ["Mutton & Wheat Stew"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 145, "protein": 8.0, "carbs": 15.0, "fat": 6.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "kaddu-ki-kheer", "names": {"en": "Kaddu ki Kheer", "te": "కడ్డూ కి ఖీర్"}, "aliases": ["Pumpkin Pudding"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 175, "protein": 4.0, "carbs": 22.0, "fat": 8.0, "fiber": 1.5}, "metadata": {"source": "Web", "source_reference": "Hebbars Kitchen", "source_reliability": "medium"}},
-  {"id": "double-ka-meetha", "names": {"en": "Double ka Meetha", "te": "డబుల్ కా మీఠా"}, "aliases": ["Bread Pudding"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 260, "protein": 4.0, "carbs": 24.0, "fat": 4.5, "fiber": 0.5}, "metadata": {"source": "Web", "source_reference": "Apollo Sugar", "source_reliability": "medium"}},
-  {"id": "qubani-ka-meetha", "names": {"en": "Qubani ka Meetha", "te": "ఖుబానీ కా మీఠా"}, "aliases": ["Apricot Dessert"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 325, "protein": 3.0, "carbs": 67.0, "fat": 5.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Tarla Dalal", "source_reliability": "medium"}},
-  {"id": "nalli-bokka-kura", "names": {"en": "Nalli Bokka Kura", "te": "నల్లి బొక్క కూర"}, "aliases": ["Marrow Bone Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 220, "protein": 15.0, "carbs": 6.0, "fat": 15.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Travel Earth", "source_reliability": "medium"}},
-  {"id": "golichina-mamsam", "names": {"en": "Golichina Mamsam", "te": "గోలిచిన మాంసం"}, "aliases": ["Spicy Mutton Fry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 300, "protein": 20.0, "carbs": 8.0, "fat": 22.0, "fiber": 1.5}, "metadata": {"source": "Web", "source_reference": "Times Food", "source_reliability": "medium"}},
-  {"id": "gongura-mamsam", "names": {"en": "Gongura Mamsam", "te": "గోంగూర మాంసం"}, "aliases": ["Sorrel Mutton Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 240, "protein": 14.0, "carbs": 6.0, "fat": 18.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Slurrp", "source_reliability": "medium"}},
-  {"id": "ooru-kodi-pulusu", "names": {"en": "Ooru Kodi Pulusu", "te": "ఊరు కోడి పులుసు"}, "aliases": ["Country Chicken Stew"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 155, "protein": 15.0, "carbs": 5.0, "fat": 8.0, "fiber": 1.5}, "metadata": {"source": "Web", "source_reference": "IndianRecipeInfo", "source_reliability": "low"}},
-  {"id": "tala-kaya-kura", "names": {"en": "Tala Kaya Kura", "te": "తల కాయ కూర"}, "aliases": ["Goat Head Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 220, "protein": 18.0, "carbs": 4.0, "fat": 15.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "IndianRecipeInfo", "source_reliability": "low"}},
-  {"id": "mutton-liver-fry", "names": {"en": "Mutton Liver Fry", "te": "మటన్ లివర్ ఫ్రై"}, "aliases": ["Kaleji Fry"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 175, "protein": 17.5, "carbs": 5.0, "fat": 9.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "YummyIndianKitchen", "source_reliability": "low"}},
-  {"id": "bommidala-pulusu", "names": {"en": "Bommidala Pulusu", "te": "బొమ్మిడాల పులుసు"}, "aliases": ["Fish Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 120, "protein": 12.0, "carbs": 4.0, "fat": 6.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Slurrp", "source_reliability": "low"}},
-  {"id": "royyala-kura", "names": {"en": "Royyala Kura", "te": "రొయ్యల కూర"}, "aliases": ["Shrimp Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 125, "protein": 12.0, "carbs": 5.0, "fat": 7.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Clearcals", "source_reliability": "medium"}},
-  {"id": "sem-phalli-gosht", "names": {"en": "Sem Phalli Gosht", "te": "సెమ్ ఫల్లీ గోష్ట్"}, "aliases": ["Broad Bean Mutton Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 286, "protein": 15.0, "carbs": 11.0, "fat": 21.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "Kitchen Flavours", "source_reliability": "low"}},
-  {"id": "gongura-pachadi", "names": {"en": "Gongura Pachadi", "te": "గోంగూర పచ్చడి"}, "aliases": ["Sorrel Chutney"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 325, "protein": 2.0, "carbs": 8.0, "fat": 32.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "Clearcals", "source_reliability": "medium"}},
-  {"id": "pallichutney", "names": {"en": "Palli Chutney", "te": "పల్లీ చట్నీ"}, "aliases": ["Peanut Chutney"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 197, "protein": 5.0, "carbs": 10.0, "fat": 16.1, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "Samsung Food", "source_reliability": "medium"}},
-  {"id": "ulava-charu", "names": {"en": "Ulava Charu", "te": "ఉలవ చారు"}, "aliases": ["Horse Gram Soup"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 60, "protein": 4.0, "carbs": 10.0, "fat": 1.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Samsung Food", "source_reliability": "medium"}},
-  {"id": "nalla-miryala-shorba", "names": {"en": "Nalla Miryala Shorba", "te": "నల్ల మిర్యాల షోర్బా"}, "aliases": ["Black Pepper Soup"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 50, "protein": 2.0, "carbs": 6.0, "fat": 2.0, "fiber": 1.0}, "metadata": {"source": "Institutional", "source_reference": "Festival Menu", "source_reliability": "low"}},
-  {"id": "gongura-dal", "names": {"en": "Gongura Pappu", "te": "గోంగూర పప్పు"}, "aliases": ["Sorrel Lentil Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 150, "protein": 7.0, "carbs": 20.0, "fat": 5.0, "fiber": 5.0}, "metadata": {"source": "Web", "source_reference": "Tarla Dalal", "source_reliability": "medium"}},
-  {"id": "pachimirchi-kaaram", "names": {"en": "Pachi Mirchi Kaaram", "te": "పచ్చిమిర్చి కారం"}, "aliases": ["Green Chili Chutney"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 80, "protein": 2.0, "carbs": 6.0, "fat": 6.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "low"}},
-  {"id": "garelu-sambar", "names": {"en": "Garelu", "te": "గారెలు"}, "aliases": ["Urad Dal Vada with Sambar"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 290, "protein": 8.0, "carbs": 27.0, "fat": 18.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "General", "source_reliability": "institutional"}},
-  {"id": "punugulu", "names": {"en": "Punugulu", "te": "పునుగులు"}, "aliases": ["Fried Idli Balls"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 315, "protein": 6.0, "carbs": 41.0, "fat": 14.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "pesara-punukulu", "names": {"en": "Pesara Punukulu", "te": "పెసర పునుకులు"}, "aliases": ["Moong Dal Fritters"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 170, "protein": 12.0, "carbs": 27.0, "fat": 2.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "Slurrp", "source_reliability": "medium"}},
-  {"id": "makka-garelu", "names": {"en": "Makka Garelu", "te": "మక్క గారెలు"}, "aliases": ["Corn Vada"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 320, "protein": 8.0, "carbs": 38.0, "fat": 16.0, "fiber": 5.0}, "metadata": {"source": "Web", "source_reference": "Nutribit", "source_reliability": "medium"}},
-  {"id": "mirchi-bajji", "names": {"en": "Mirchi Bajji", "te": "మిర్చి బజ్జీ"}, "aliases": ["Chili Fritters"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 280, "protein": 6.0, "carbs": 30.0, "fat": 15.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "upma", "names": {"en": "Upma", "te": "ఉప్మా"}, "aliases": ["Savory Semolina Porridge"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 180, "protein": 4.0, "carbs": 30.0, "fat": 5.0, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "General", "source_reliability": "institutional"}},
-  {"id": "poornalu", "names": {"en": "Poornalu", "te": "పూర్ణాలు"}, "aliases": ["Stuffed Sweet Dumplings"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 338, "protein": 5.0, "carbs": 67.0, "fat": 5.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Nilagroceries", "source_reliability": "low"}},
-  {"id": "ariselu", "names": {"en": "Ariselu", "te": "అరిసెలు"}, "aliases": ["Rice & Jaggery Cookie"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 312, "protein": 2.0, "carbs": 45.0, "fat": 8.9, "fiber": 0.8}, "metadata": {"source": "Web", "source_reference": "Kandrafoods", "source_reliability": "low"}},
-  {"id": "gavvalu", "names": {"en": "Gavvalu", "te": "గవ్వలు"}, "aliases": ["Sweet Shells"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 480, "protein": 6.0, "carbs": 65.0, "fat": 22.0, "fiber": 1.5}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "low"}},
-  {"id": "kobbari-lauju", "names": {"en": "Kobbari Lauju", "te": "కొబ్బరి లాంజు"}, "aliases": ["Coconut Ladoo"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 119, "protein": 1.0, "carbs": 17.0, "fat": 5.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Indian Healthy Recipes", "source_reliability": "medium"}},
-  {"id": "bellam-pappu", "names": {"en": "Bellam Pappu", "te": "బెల్లం పప్పు"}, "aliases": ["Sweet Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 280, "protein": 8.0, "carbs": 50.0, "fat": 5.0, "fiber": 3.0}, "metadata": {"source": "Institutional", "source_reference": "Festival Menu", "source_reliability": "low"}},
-  {"id": "salla-charu", "names": {"en": "Salla Charu", "te": "సల్ల చారు"}, "aliases": ["Buttermilk Soup"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 40, "protein": 2.0, "carbs": 4.0, "fat": 2.0, "fiber": 0.5}, "metadata": {"source": "Institutional", "source_reference": "Festival Menu", "source_reliability": "low"}},
-  {"id": "tomato-kura", "names": {"en": "Tomato Kura", "te": "టొమాటో కూర"}, "aliases": ["Tomato Curry"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 70, "protein": 2.0, "carbs": 8.0, "fat": 4.0, "fiber": 1.5}, "metadata": {"source": "Institutional", "source_reference": "Festival Menu", "source_reliability": "low"}},
-  {"id": "dosakaya-pappu", "names": {"en": "Dosakaya Pappu", "te": "దోసకాయ పప్పు"}, "aliases": ["Cucumber Dal"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 70, "protein": 3.0, "carbs": 11.0, "fat": 1.5, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Nutribit", "source_reliability": "medium"}},
-  {"id": "kheema-ts", "names": {"en": "Kheema", "te": "కీమా"}, "aliases": ["Spicy Mincemeat"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 220, "protein": 14.0, "carbs": 7.0, "fat": 15.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "bhurji-ts", "names": {"en": "Egg Bhurji", "te": "ఎగ్ భుర్జీ"}, "aliases": ["Spiced Scrambled Eggs"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 180, "protein": 12.0, "carbs": 5.0, "fat": 13.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "bagara-rice", "names": {"en": "Bagara Rice", "te": "బగారా రైస్"}, "aliases": ["Spiced Rice"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 157, "protein": 3.0, "carbs": 31.2, "fat": 2.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "chicken-chettinad", "names": {"en": "Chicken Chettinad", "te": "చికెన్ చెట్టినాడ్"}, "aliases": ["Spicy Chicken Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 180, "protein": 16.2, "carbs": 7.2, "fat": 10.1, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "mutton-paya", "names": {"en": "Mutton Paya", "te": "మటన్ పాయ"}, "aliases": ["Trotters Soup"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 180, "protein": 18.0, "carbs": 4.0, "fat": 10.0, "fiber": 0.5}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "kodi-vepudu", "names": {"en": "Kodi Vepudu", "te": "కోడి వేపుడు"}, "aliases": ["Spicy Chicken Fry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 250, "protein": 20.0, "carbs": 8.0, "fat": 16.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "gongura-pickle", "names": {"en": "Gongura Pickle", "te": "గోంగూర పికల్"}, "aliases": ["Sorrel Pickle"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 140, "protein": 2.0, "carbs": 5.0, "fat": 12.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "avakaya-pickle", "names": {"en": "Avakaya", "te": "ఆవకాయ"}, "aliases": ["Mango Pickle"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 376, "protein": 7.0, "carbs": 16.0, "fat": 32.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Zepto", "source_reliability": "medium"}},
-  {"id": "biryani-mirchi-ka-salan", "names": {"en": "Mirchi ka Salan", "te": "మిర్చి కా సాలన్"}, "aliases": ["Biryani Gravy"], "states": ["telangana"], "category": "side", "serving_g": 100, "nutrition": {"calories": 143, "protein": 6.1, "carbs": 9.9, "fat": 10.3, "fiber": 2.2}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "khatti-dal", "names": {"en": "Khatti Dal", "te": "ఖట్టీ దాల్"}, "aliases": ["Sour Lentil Soup"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 90, "protein": 5.0, "carbs": 12.0, "fat": 2.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "paneer-butter-masala-ts", "names": {"en": "Paneer Butter Masala", "te": "పనీర్ బటర్ మసాలా"}, "aliases": ["Cottage Cheese Curry"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 220, "protein": 10.0, "carbs": 12.0, "fat": 16.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "chole-bhature-ts", "names": {"en": "Chole Bhature", "te": "చోలే భటూరే"}, "aliases": ["Chickpea Curry with Fried Bread"], "states": ["telangana"], "category": "main", "serving_g": 100, "nutrition": {"calories": 280, "protein": 9.0, "carbs": 35.0, "fat": 12.0, "fiber": 6.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "dahi-vada-ts", "names": {"en": "Dahi Vada", "te": "దహీ వడ"}, "aliases": ["Yogurt Lentil Fritters"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 210, "protein": 6.0, "carbs": 25.0, "fat": 10.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "uttapam-ts", "names": {"en": "Uttapam", "te": "ఉత్తప్పం"}, "aliases": ["Indian Pizza"], "states": ["telangana"], "category": "breakfast", "serving_g": 100, "nutrition": {"calories": 150, "protein": 4.0, "carbs": 28.0, "fat": 2.5, "fiber": 2.0}, "metadata": {"source": "Institutional", "source_reference": "General", "source_reliability": "institutional"}},
-  {"id": "gulab-jamun-ts", "names": {"en": "Gulab Jamun", "te": "గులాబ్ జామున్"}, "aliases": ["Milk Dumplings in Syrup"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 380, "protein": 6.0, "carbs": 50.0, "fat": 18.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "jalebi-ts", "names": {"en": "Jalebi", "te": "జలేబీ"}, "aliases": ["Fried Sweet Spirals"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 380, "protein": 3.0, "carbs": 55.0, "fat": 16.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "malpua-ts", "names": {"en": "Malpua", "te": "మాల్పువా"}, "aliases": ["Sweet Pancake"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 320, "protein": 5.0, "carbs": 45.0, "fat": 14.0, "fiber": 1.5}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "sheer-khurma-ts", "names": {"en": "Sheer Khurma", "te": "షీర్ ఖుర్మా"}, "aliases": ["Date & Vermicelli Pudding"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 250, "protein": 6.0, "carbs": 40.0, "fat": 8.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "phirni-ts", "names": {"en": "Phirni", "te": "ఫిర్నీ"}, "aliases": ["Ground Rice Pudding"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 210, "protein": 5.0, "carbs": 35.0, "fat": 6.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "payasam-ts", "names": {"en": "Payasam", "te": "పాయసం"}, "aliases": ["Rice & Milk Pudding"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 135, "protein": 2.5, "carbs": 20.0, "fat": 4.6, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Eat Right India", "source_reliability": "medium"}},
-  {"id": "ravva-kesari", "names": {"en": "Ravva Kesari", "te": "రవ్వ కేసరి"}, "aliases": ["Semolina Sweet"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 234, "protein": 4.0, "carbs": 50.6, "fat": 7.3, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "FatSecret", "source_reliability": "medium"}},
-  {"id": "badam-ki-jaali", "names": {"en": "Badam ki Jaali", "te": "బాదం కీ జాలీ"}, "aliases": ["Almond Pastry"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 450, "protein": 10.0, "carbs": 40.0, "fat": 28.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "low"}},
-  {"id": "badusha-ts", "names": {"en": "Badusha", "te": "బాదుషా"}, "aliases": ["Glazed Doughnut"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 412, "protein": 2.7, "carbs": 45.0, "fat": 24.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "Nephroplus", "source_reliability": "medium"}},
-  {"id": "osmania-biscuit", "names": {"en": "Osmania Biscuit", "te": "ఉస్మానియా బిస్కెట్"}, "aliases": ["Tea Biscuit"], "states": ["telangana"], "category": "snack", "serving_g": 100, "nutrition": {"calories": 420, "protein": 6.0, "carbs": 60.0, "fat": 18.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "irani-chai", "names": {"en": "Irani Chai", "te": "ఇరానీ చాయ్"}, "aliases": ["Sweet Milky Tea"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 80, "protein": 3.0, "carbs": 10.0, "fat": 3.0, "fiber": 0.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "palle-velugu", "names": {"en": "Palle Velugu", "te": "పల్లె వెలుగు"}, "aliases": ["Finger Millet Malt"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 120, "protein": 4.0, "carbs": 22.0, "fat": 2.0, "fiber": 3.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "low"}},
-  {"id": "panakam", "names": {"en": "Panakam", "te": "పానకం"}, "aliases": ["Jaggery Drink"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 90, "protein": 0.5, "carbs": 22.0, "fat": 0.0, "fiber": 0.5}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "chintapandu-charan", "names": {"en": "Chintapandu Charan", "te": "చింతపండు చారన్"}, "aliases": ["Tamarind Juice"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 55, "protein": 0.5, "carbs": 14.0, "fat": 0.0, "fiber": 1.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "low"}},
-  {"id": "chai-ts", "names": {"en": "Adrak Chai", "te": "అద్రక్ చాయ్"}, "aliases": ["Ginger Tea"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 50, "protein": 1.0, "carbs": 8.0, "fat": 2.0, "fiber": 0.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "jal-jeera", "names": {"en": "Jal Jeera", "te": "జల్ జీరా"}, "aliases": ["Spiced Water"], "states": ["telangana"], "category": "beverage", "serving_g": 100, "nutrition": {"calories": 20, "protein": 0.2, "carbs": 5.0, "fat": 0.1, "fiber": 0.5}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "kaju-katli-ts", "names": {"en": "Kaju Katli", "te": "కాజూ కత్లీ"}, "aliases": ["Cashew Fudge"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 480, "protein": 8.0, "carbs": 55.0, "fat": 25.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "puran-poli", "names": {"en": "Puran Poli", "te": "పూరణ్ పోళీ"}, "aliases": ["Sweet Lentil Flatbread"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 320, "protein": 8.0, "carbs": 55.0, "fat": 7.0, "fiber": 4.0}, "metadata": {"source": "Web", "source_reference": "General", "source_reliability": "medium"}},
-  {"id": "sunnundalu", "names": {"en": "Sunnundalu", "te": "సున్నుండలు"}, "aliases": ["Urad Dal Ladoo"], "states": ["telangana"], "category": "dessert", "serving_g": 100, "nutrition": {"calories": 150, "protein": 5.0, "carbs": 18.0, "fat": 6.0, "fiber": 2.0}, "metadata": {"source": "Web", "source_reference": "Blend with Spices", "source_reliability": "low"}}
+  {
+    "id": "sarva-pindi",
+    "names": {
+      "en": "Sarva Pindi",
+      "te": "సర్వ పిండి"
+    },
+    "aliases": [
+      "Rice Flour Savory Pancake"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 9,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sakinalu",
+    "names": {
+      "en": "Sakinalu",
+      "te": "సకినాలు"
+    },
+    "aliases": [
+      "Rice Flour Snack"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 500,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 28,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "garelu",
+    "names": {
+      "en": "Garelu",
+      "te": "గారెలు"
+    },
+    "aliases": [
+      "Urad Dal Vada"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 285,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 18,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "vankaya-pappu",
+    "names": {
+      "en": "Brinjal Dal",
+      "te": "వంకాయ పప్పు"
+    },
+    "aliases": [
+      "Eggplant Lentil"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 75,
+      "protein": 3.5,
+      "carbs": 11,
+      "fat": 1.5,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "mamidikaya-pappu",
+    "names": {
+      "en": "Raw Mango Dal",
+      "te": "మామిడికాయ పప్పు"
+    },
+    "aliases": [
+      "Mango Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 80,
+      "protein": 3.5,
+      "carbs": 12,
+      "fat": 1.5,
+      "fiber": 2.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pachi-pulusu",
+    "names": {
+      "en": "Pachi Pulusu",
+      "te": "పచ్చి పులుసు"
+    },
+    "aliases": [
+      "Raw Tamarind Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 40,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0.5,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gongura-pachadi-ts",
+    "names": {
+      "en": "Gongura Chutney",
+      "te": "గోంగూర పచ్చడి"
+    },
+    "aliases": [
+      "Sorrel Chutney"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 95,
+      "protein": 2.5,
+      "carbs": 12.5,
+      "fat": 3,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "jonna-rotte",
+    "names": {
+      "en": "Jonna Rotte",
+      "te": "జొన్న రొట్టె"
+    },
+    "aliases": [
+      "Sorghum Flatbread"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 275,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 2,
+      "fiber": 6
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "mutton-curry-ts",
+    "names": {
+      "en": "Telangana Mutton Curry",
+      "te": "మటన్ కర్రీ"
+    },
+    "aliases": [
+      "Spicy Mutton Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 195,
+      "protein": 14,
+      "carbs": 5,
+      "fat": 13,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "chicken-curry-ts",
+    "names": {
+      "en": "Telangana Chicken Curry",
+      "te": "చికెన్ కర్రీ"
+    },
+    "aliases": [
+      "Spicy Chicken Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 160,
+      "protein": 15,
+      "carbs": 4,
+      "fat": 9,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pappu-charu-ts",
+    "names": {
+      "en": "Pappu Charu",
+      "te": "పప్పు చారు"
+    },
+    "aliases": [
+      "Lentil Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 85,
+      "protein": 3.5,
+      "carbs": 12,
+      "fat": 2,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "tomato-dal-ts",
+    "names": {
+      "en": "Tomato Pappu",
+      "te": "టొమాటో పప్పు"
+    },
+    "aliases": [
+      "Tomato Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 75,
+      "protein": 3.5,
+      "carbs": 10.5,
+      "fat": 1.5,
+      "fiber": 2.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gongura-dal-ts",
+    "names": {
+      "en": "Gongura Pappu",
+      "te": "గోంగూర పప్పు"
+    },
+    "aliases": [
+      "Sorrel Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 80,
+      "protein": 4,
+      "carbs": 11,
+      "fat": 1.5,
+      "fiber": 3.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "vankaya-koora-ts",
+    "names": {
+      "en": "Brinjal Curry",
+      "te": "వంకాయ కూర"
+    },
+    "aliases": [
+      "Eggplant Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 85,
+      "protein": 1.5,
+      "carbs": 12,
+      "fat": 3,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "vada-ts",
+    "names": {
+      "en": "Vada",
+      "te": "వడ"
+    },
+    "aliases": [
+      "Garelu"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 290,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 18,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "idli-ts",
+    "names": {
+      "en": "Idli",
+      "te": "ఇడ్లీ"
+    },
+    "aliases": [
+      "Rice Cake"
+    ],
+    "states": [
+      "telangana",
+      "tamil-nadu"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 87,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0.5,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "dosa-ts",
+    "names": {
+      "en": "Dosa",
+      "te": "దోశ"
+    },
+    "aliases": [
+      "Rice Crepe"
+    ],
+    "states": [
+      "telangana",
+      "karnataka"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 168,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 4,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sambar-ts",
+    "names": {
+      "en": "Sambar",
+      "te": "సాంబార్"
+    },
+    "aliases": [
+      "Lentil Stew"
+    ],
+    "states": [
+      "telangana",
+      "tamil-nadu"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 55,
+      "protein": 2.5,
+      "carbs": 8,
+      "fat": 1.2,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "rasam-ts",
+    "names": {
+      "en": "Charu",
+      "te": "చారు"
+    },
+    "aliases": [
+      "Rasam"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0.5,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "chitrannam-ts",
+    "names": {
+      "en": "Lemon Rice",
+      "te": "చిత్రాన్నం"
+    },
+    "aliases": [
+      "Pulihora"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 185,
+      "protein": 2.5,
+      "carbs": 32.5,
+      "fat": 5,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "papadum-ts",
+    "names": {
+      "en": "Appadam",
+      "te": "అప్పడం"
+    },
+    "aliases": [
+      "Papad"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 355,
+      "protein": 12,
+      "carbs": 60.5,
+      "fat": 5,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "puli-hora-ts",
+    "names": {
+      "en": "Pulihora",
+      "te": "పులిహోర"
+    },
+    "aliases": [
+      "Tamarind Rice"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 205,
+      "protein": 3,
+      "carbs": 35.5,
+      "fat": 5,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pesarattu-ts",
+    "names": {
+      "en": "Pesarattu",
+      "te": "పెసరట్టు"
+    },
+    "aliases": [
+      "Moong Dal Dosa"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 175,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 5,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "bobbatlu-ts",
+    "names": {
+      "en": "Bobbatlu",
+      "te": "బొబ్బట్లు"
+    },
+    "aliases": [
+      "Sweet Poli"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 9,
+      "fiber": 3.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "laddu-ts",
+    "names": {
+      "en": "Laddu",
+      "te": "లడ్డు"
+    },
+    "aliases": [
+      "Besan Laddu"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 455,
+      "protein": 6,
+      "carbs": 66,
+      "fat": 20,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kajikayalu-ts",
+    "names": {
+      "en": "Kajikayalu",
+      "te": "కజ్జికాయలు"
+    },
+    "aliases": [
+      "Somas"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 405,
+      "protein": 5,
+      "carbs": 55,
+      "fat": 18,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "jantikalu-ts",
+    "names": {
+      "en": "Jantikalu",
+      "te": "జంతికలు"
+    },
+    "aliases": [
+      "Fried Snack"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 535,
+      "protein": 7.5,
+      "carbs": 50,
+      "fat": 32.5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pootharekulu-ts",
+    "names": {
+      "en": "Pootharekulu",
+      "te": "పూతరేకులు"
+    },
+    "aliases": [
+      "Paper Sweet"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 425,
+      "protein": 3,
+      "carbs": 60.5,
+      "fat": 18,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "avakkai-pickle-ts",
+    "names": {
+      "en": "Avakkai Pickle",
+      "te": "ఆవకాయ"
+    },
+    "aliases": [
+      "Mango Pickle"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 255,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 20,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gunta-ponganalu-ts",
+    "names": {
+      "en": "Gunta Ponganalu",
+      "te": "గుంత పొంగనాలు"
+    },
+    "aliases": [
+      "Appe"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 235,
+      "protein": 4.5,
+      "carbs": 32.5,
+      "fat": 8,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "vada-dal-ts",
+    "names": {
+      "en": "Vada",
+      "te": "వడ"
+    },
+    "aliases": [
+      "Dal Vada"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 295,
+      "protein": 8,
+      "carbs": 26.5,
+      "fat": 19,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "chegodilu",
+    "names": {
+      "en": "Chegodilu",
+      "te": "చెగోడిలు"
+    },
+    "aliases": [
+      "Ring-shaped Rice Snack"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 450,
+      "protein": 5,
+      "carbs": 60,
+      "fat": 20,
+      "fiber": 2.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Swiggy Blog",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "garijalu",
+    "names": {
+      "en": "Garijalu",
+      "te": "గరిజాలు"
+    },
+    "aliases": [
+      "Crescent-shaped Fried Pastry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 400,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 20,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "News9 Live",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "malidalu",
+    "names": {
+      "en": "Malidalu",
+      "te": "మాలిడాలు"
+    },
+    "aliases": [
+      "Sweet Roti Balls"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 350,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 18,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "TravelSetu",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "saaja-rotte",
+    "names": {
+      "en": "Sajja Rotte",
+      "te": "సజ్జ రొట్టె"
+    },
+    "aliases": [
+      "Pearl Millet Flatbread"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 67,
+      "fat": 2,
+      "fiber": 8
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "korra-buvva",
+    "names": {
+      "en": "Korra Buvva",
+      "te": "కొర్ర బువ్వ"
+    },
+    "aliases": [
+      "Foxtail Millet Rice"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 58,
+      "fat": 1.5,
+      "fiber": 7
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "PDF",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "ragi-sankati",
+    "names": {
+      "en": "Ragi Sangati",
+      "te": "రాగి సంగటి"
+    },
+    "aliases": [
+      "Finger Millet Porridge"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 1,
+      "fiber": 7
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "PDF",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "thotakura-pappu",
+    "names": {
+      "en": "Thotakura Pappu",
+      "te": "తోటకూర పప్పు"
+    },
+    "aliases": [
+      "Amaranth Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 120,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 3,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Slurrp",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "bendakaya-fry",
+    "names": {
+      "en": "Bendakaya Fry",
+      "te": "బెండకాయ ఫ్రై"
+    },
+    "aliases": [
+      "Okra Stir Fry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 7,
+      "fiber": 3.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "PDF",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "dondakaya-fry",
+    "names": {
+      "en": "Dondakaya Fry",
+      "te": "దొండకాయ ఫ్రై"
+    },
+    "aliases": [
+      "Tindora Stir Fry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 115,
+      "protein": 1.5,
+      "carbs": 10,
+      "fat": 8,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "PDF",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gutti-vankaya",
+    "names": {
+      "en": "Gutti Vankaya",
+      "te": "గుట్టి వంకాయ"
+    },
+    "aliases": [
+      "Stuffed Brinjal Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 175,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 12,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Slurrp",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "aloo-dum-ts",
+    "names": {
+      "en": "Hyderabadi Dum Aloo",
+      "te": "హైదరాబాదీ దమ్ ఆలూ"
+    },
+    "aliases": [
+      "Spicy Potato Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 10,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "bagara-baingan",
+    "names": {
+      "en": "Bagara Baingan",
+      "te": "బగారా బైంగన్"
+    },
+    "aliases": [
+      "Hyderabadi Eggplant Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 14,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "TasteAtlas",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "mirchi-ka-salan",
+    "names": {
+      "en": "Mirchi ka Salan",
+      "te": "మిర్చి కా సాలన్"
+    },
+    "aliases": [
+      "Chili Pepper Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 143,
+      "protein": 6.1,
+      "carbs": 9.9,
+      "fat": 10.3,
+      "fiber": 2.2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "hyderabadi-biryani",
+    "names": {
+      "en": "Hyderabadi Biryani",
+      "te": "హైదరాబాదీ బిర్యానీ"
+    },
+    "aliases": [
+      "Chicken/Mutton Biryani"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 350,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 15,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "hyderabadi-haleem",
+    "names": {
+      "en": "Hyderabadi Haleem",
+      "te": "హైదరాబాదీ హలీమ్"
+    },
+    "aliases": [
+      "Mutton & Wheat Stew"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 145,
+      "protein": 8,
+      "carbs": 15,
+      "fat": 6,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "kaddu-ki-kheer",
+    "names": {
+      "en": "Kaddu ki Kheer",
+      "te": "కడ్డూ కి ఖీర్"
+    },
+    "aliases": [
+      "Pumpkin Pudding"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 175,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 8,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Hebbars Kitchen",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "double-ka-meetha",
+    "names": {
+      "en": "Double ka Meetha",
+      "te": "డబుల్ కా మీఠా"
+    },
+    "aliases": [
+      "Bread Pudding"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 4.5,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Apollo Sugar",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "qubani-ka-meetha",
+    "names": {
+      "en": "Qubani ka Meetha",
+      "te": "ఖుబానీ కా మీఠా"
+    },
+    "aliases": [
+      "Apricot Dessert"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 325,
+      "protein": 3,
+      "carbs": 67,
+      "fat": 5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Tarla Dalal",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "nalli-bokka-kura",
+    "names": {
+      "en": "Nalli Bokka Kura",
+      "te": "నల్లి బొక్క కూర"
+    },
+    "aliases": [
+      "Marrow Bone Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 220,
+      "protein": 15,
+      "carbs": 6,
+      "fat": 15,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Travel Earth",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "golichina-mamsam",
+    "names": {
+      "en": "Golichina Mamsam",
+      "te": "గోలిచిన మాంసం"
+    },
+    "aliases": [
+      "Spicy Mutton Fry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 300,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 22,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Times Food",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "gongura-mamsam",
+    "names": {
+      "en": "Gongura Mamsam",
+      "te": "గోంగూర మాంసం"
+    },
+    "aliases": [
+      "Sorrel Mutton Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 6,
+      "fat": 18,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Slurrp",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "ooru-kodi-pulusu",
+    "names": {
+      "en": "Ooru Kodi Pulusu",
+      "te": "ఊరు కోడి పులుసు"
+    },
+    "aliases": [
+      "Country Chicken Stew"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 155,
+      "protein": 15,
+      "carbs": 5,
+      "fat": 8,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "IndianRecipeInfo",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "tala-kaya-kura",
+    "names": {
+      "en": "Tala Kaya Kura",
+      "te": "తల కాయ కూర"
+    },
+    "aliases": [
+      "Goat Head Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 15,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "IndianRecipeInfo",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "mutton-liver-fry",
+    "names": {
+      "en": "Mutton Liver Fry",
+      "te": "మటన్ లివర్ ఫ్రై"
+    },
+    "aliases": [
+      "Kaleji Fry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 175,
+      "protein": 17.5,
+      "carbs": 5,
+      "fat": 9,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "YummyIndianKitchen",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "bommidala-pulusu",
+    "names": {
+      "en": "Bommidala Pulusu",
+      "te": "బొమ్మిడాల పులుసు"
+    },
+    "aliases": [
+      "Fish Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 120,
+      "protein": 12,
+      "carbs": 4,
+      "fat": 6,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Slurrp",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "royyala-kura",
+    "names": {
+      "en": "Royyala Kura",
+      "te": "రొయ్యల కూర"
+    },
+    "aliases": [
+      "Shrimp Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 125,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 7,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Clearcals",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "sem-phalli-gosht",
+    "names": {
+      "en": "Sem Phalli Gosht",
+      "te": "సెమ్ ఫల్లీ గోష్ట్"
+    },
+    "aliases": [
+      "Broad Bean Mutton Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 286,
+      "protein": 15,
+      "carbs": 11,
+      "fat": 21,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Kitchen Flavours",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "gongura-pachadi-ts2",
+    "names": {
+      "en": "Gongura Pachadi",
+      "te": "గోంగూర పచ్చడి"
+    },
+    "aliases": [
+      "Sorrel Chutney"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 325,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 32,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Clearcals",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "pallichutney",
+    "names": {
+      "en": "Palli Chutney",
+      "te": "పల్లీ చట్నీ"
+    },
+    "aliases": [
+      "Peanut Chutney"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 197,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 16.1,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Samsung Food",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "ulava-charu",
+    "names": {
+      "en": "Ulava Charu",
+      "te": "ఉలవ చారు"
+    },
+    "aliases": [
+      "Horse Gram Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 60,
+      "protein": 4,
+      "carbs": 10,
+      "fat": 1,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Samsung Food",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "nalla-miryala-shorba",
+    "names": {
+      "en": "Nalla Miryala Shorba",
+      "te": "నల్ల మిర్యాల షోర్బా"
+    },
+    "aliases": [
+      "Black Pepper Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 50,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Festival Menu",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "gongura-dal",
+    "names": {
+      "en": "Gongura Pappu",
+      "te": "గోంగూర పప్పు"
+    },
+    "aliases": [
+      "Sorrel Lentil Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 150,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 5,
+      "fiber": 5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Tarla Dalal",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "pachimirchi-kaaram",
+    "names": {
+      "en": "Pachi Mirchi Kaaram",
+      "te": "పచ్చిమిర్చి కారం"
+    },
+    "aliases": [
+      "Green Chili Chutney"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 80,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 6,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "garelu-sambar",
+    "names": {
+      "en": "Garelu",
+      "te": "గారెలు"
+    },
+    "aliases": [
+      "Urad Dal Vada with Sambar"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 290,
+      "protein": 8,
+      "carbs": 27,
+      "fat": 18,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "General",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "punugulu",
+    "names": {
+      "en": "Punugulu",
+      "te": "పునుగులు"
+    },
+    "aliases": [
+      "Fried Idli Balls"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 315,
+      "protein": 6,
+      "carbs": 41,
+      "fat": 14,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "pesara-punukulu",
+    "names": {
+      "en": "Pesara Punukulu",
+      "te": "పెసర పునుకులు"
+    },
+    "aliases": [
+      "Moong Dal Fritters"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 170,
+      "protein": 12,
+      "carbs": 27,
+      "fat": 2,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Slurrp",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "makka-garelu",
+    "names": {
+      "en": "Makka Garelu",
+      "te": "మక్క గారెలు"
+    },
+    "aliases": [
+      "Corn Vada"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 16,
+      "fiber": 5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Nutribit",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "mirchi-bajji",
+    "names": {
+      "en": "Mirchi Bajji",
+      "te": "మిర్చి బజ్జీ"
+    },
+    "aliases": [
+      "Chili Fritters"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "upma-ts",
+    "names": {
+      "en": "Upma",
+      "te": "ఉప్మా"
+    },
+    "aliases": [
+      "Savory Semolina Porridge"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "General",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "poornalu",
+    "names": {
+      "en": "Poornalu",
+      "te": "పూర్ణాలు"
+    },
+    "aliases": [
+      "Stuffed Sweet Dumplings"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 338,
+      "protein": 5,
+      "carbs": 67,
+      "fat": 5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Nilagroceries",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "ariselu",
+    "names": {
+      "en": "Ariselu",
+      "te": "అరిసెలు"
+    },
+    "aliases": [
+      "Rice & Jaggery Cookie"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 312,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 8.9,
+      "fiber": 0.8
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Kandrafoods",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "gavvalu",
+    "names": {
+      "en": "Gavvalu",
+      "te": "గవ్వలు"
+    },
+    "aliases": [
+      "Sweet Shells"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 65,
+      "fat": 22,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "kobbari-lauju",
+    "names": {
+      "en": "Kobbari Lauju",
+      "te": "కొబ్బరి లాంజు"
+    },
+    "aliases": [
+      "Coconut Ladoo"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 119,
+      "protein": 1,
+      "carbs": 17,
+      "fat": 5,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Indian Healthy Recipes",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "bellam-pappu",
+    "names": {
+      "en": "Bellam Pappu",
+      "te": "బెల్లం పప్పు"
+    },
+    "aliases": [
+      "Sweet Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 5,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Festival Menu",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "salla-charu",
+    "names": {
+      "en": "Salla Charu",
+      "te": "సల్ల చారు"
+    },
+    "aliases": [
+      "Buttermilk Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 40,
+      "protein": 2,
+      "carbs": 4,
+      "fat": 2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Festival Menu",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "tomato-kura",
+    "names": {
+      "en": "Tomato Kura",
+      "te": "టొమాటో కూర"
+    },
+    "aliases": [
+      "Tomato Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 70,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 4,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "Festival Menu",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "dosakaya-pappu",
+    "names": {
+      "en": "Dosakaya Pappu",
+      "te": "దోసకాయ పప్పు"
+    },
+    "aliases": [
+      "Cucumber Dal"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 70,
+      "protein": 3,
+      "carbs": 11,
+      "fat": 1.5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Nutribit",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "kheema-ts",
+    "names": {
+      "en": "Kheema",
+      "te": "కీమా"
+    },
+    "aliases": [
+      "Spicy Mincemeat"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 7,
+      "fat": 15,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "bhurji-ts",
+    "names": {
+      "en": "Egg Bhurji",
+      "te": "ఎగ్ భుర్జీ"
+    },
+    "aliases": [
+      "Spiced Scrambled Eggs"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 5,
+      "fat": 13,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "bagara-rice",
+    "names": {
+      "en": "Bagara Rice",
+      "te": "బగారా రైస్"
+    },
+    "aliases": [
+      "Spiced Rice"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 157,
+      "protein": 3,
+      "carbs": 31.2,
+      "fat": 2,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "chicken-chettinad",
+    "names": {
+      "en": "Chicken Chettinad",
+      "te": "చికెన్ చెట్టినాడ్"
+    },
+    "aliases": [
+      "Spicy Chicken Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 180,
+      "protein": 16.2,
+      "carbs": 7.2,
+      "fat": 10.1,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "mutton-paya",
+    "names": {
+      "en": "Mutton Paya",
+      "te": "మటన్ పాయ"
+    },
+    "aliases": [
+      "Trotters Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 180,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 10,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "kodi-vepudu",
+    "names": {
+      "en": "Kodi Vepudu",
+      "te": "కోడి వేపుడు"
+    },
+    "aliases": [
+      "Spicy Chicken Fry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 250,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 16,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "gongura-pickle",
+    "names": {
+      "en": "Gongura Pickle",
+      "te": "గోంగూర పికల్"
+    },
+    "aliases": [
+      "Sorrel Pickle"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 12,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "avakaya-pickle",
+    "names": {
+      "en": "Avakaya",
+      "te": "ఆవకాయ"
+    },
+    "aliases": [
+      "Mango Pickle"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 376,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 32,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Zepto",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "biryani-mirchi-ka-salan",
+    "names": {
+      "en": "Mirchi ka Salan",
+      "te": "మిర్చి కా సాలన్"
+    },
+    "aliases": [
+      "Biryani Gravy"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "side",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 143,
+      "protein": 6.1,
+      "carbs": 9.9,
+      "fat": 10.3,
+      "fiber": 2.2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "khatti-dal",
+    "names": {
+      "en": "Khatti Dal",
+      "te": "ఖట్టీ దాల్"
+    },
+    "aliases": [
+      "Sour Lentil Soup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 90,
+      "protein": 5,
+      "carbs": 12,
+      "fat": 2,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "paneer-butter-masala-ts",
+    "names": {
+      "en": "Paneer Butter Masala",
+      "te": "పనీర్ బటర్ మసాలా"
+    },
+    "aliases": [
+      "Cottage Cheese Curry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 16,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "chole-bhature-ts",
+    "names": {
+      "en": "Chole Bhature",
+      "te": "చోలే భటూరే"
+    },
+    "aliases": [
+      "Chickpea Curry with Fried Bread"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "main",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 12,
+      "fiber": 6
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "dahi-vada-ts",
+    "names": {
+      "en": "Dahi Vada",
+      "te": "దహీ వడ"
+    },
+    "aliases": [
+      "Yogurt Lentil Fritters"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 10,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "uttapam-ts",
+    "names": {
+      "en": "Uttapam",
+      "te": "ఉత్తప్పం"
+    },
+    "aliases": [
+      "Indian Pizza"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "breakfast",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 2.5,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Institutional",
+      "source_reference": "General",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gulab-jamun-ts",
+    "names": {
+      "en": "Gulab Jamun",
+      "te": "గులాబ్ జామున్"
+    },
+    "aliases": [
+      "Milk Dumplings in Syrup"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 18,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "jalebi-ts",
+    "names": {
+      "en": "Jalebi",
+      "te": "జలేబీ"
+    },
+    "aliases": [
+      "Fried Sweet Spirals"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 380,
+      "protein": 3,
+      "carbs": 55,
+      "fat": 16,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "malpua-ts",
+    "names": {
+      "en": "Malpua",
+      "te": "మాల్పువా"
+    },
+    "aliases": [
+      "Sweet Pancake"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 14,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "sheer-khurma-ts",
+    "names": {
+      "en": "Sheer Khurma",
+      "te": "షీర్ ఖుర్మా"
+    },
+    "aliases": [
+      "Date & Vermicelli Pudding"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 250,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 8,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "phirni-ts",
+    "names": {
+      "en": "Phirni",
+      "te": "ఫిర్నీ"
+    },
+    "aliases": [
+      "Ground Rice Pudding"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 6,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "payasam-ts",
+    "names": {
+      "en": "Payasam",
+      "te": "పాయసం"
+    },
+    "aliases": [
+      "Rice & Milk Pudding"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 135,
+      "protein": 2.5,
+      "carbs": 20,
+      "fat": 4.6,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Eat Right India",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "ravva-kesari",
+    "names": {
+      "en": "Ravva Kesari",
+      "te": "రవ్వ కేసరి"
+    },
+    "aliases": [
+      "Semolina Sweet"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 234,
+      "protein": 4,
+      "carbs": 50.6,
+      "fat": 7.3,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "FatSecret",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "badam-ki-jaali",
+    "names": {
+      "en": "Badam ki Jaali",
+      "te": "బాదం కీ జాలీ"
+    },
+    "aliases": [
+      "Almond Pastry"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 450,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 28,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "badusha-ts",
+    "names": {
+      "en": "Badusha",
+      "te": "బాదుషా"
+    },
+    "aliases": [
+      "Glazed Doughnut"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 412,
+      "protein": 2.7,
+      "carbs": 45,
+      "fat": 24,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Nephroplus",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "osmania-biscuit",
+    "names": {
+      "en": "Osmania Biscuit",
+      "te": "ఉస్మానియా బిస్కెట్"
+    },
+    "aliases": [
+      "Tea Biscuit"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "snack",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 60,
+      "fat": 18,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "irani-chai",
+    "names": {
+      "en": "Irani Chai",
+      "te": "ఇరానీ చాయ్"
+    },
+    "aliases": [
+      "Sweet Milky Tea"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 80,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 3,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "palle-velugu",
+    "names": {
+      "en": "Palle Velugu",
+      "te": "పల్లె వెలుగు"
+    },
+    "aliases": [
+      "Finger Millet Malt"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 2,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "panakam",
+    "names": {
+      "en": "Panakam",
+      "te": "పానకం"
+    },
+    "aliases": [
+      "Jaggery Drink"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 90,
+      "protein": 0.5,
+      "carbs": 22,
+      "fat": 0,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "chintapandu-charan",
+    "names": {
+      "en": "Chintapandu Charan",
+      "te": "చింతపండు చారన్"
+    },
+    "aliases": [
+      "Tamarind Juice"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 55,
+      "protein": 0.5,
+      "carbs": 14,
+      "fat": 0,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "chai-ts",
+    "names": {
+      "en": "Adrak Chai",
+      "te": "అద్రక్ చాయ్"
+    },
+    "aliases": [
+      "Ginger Tea"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 2,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "jal-jeera",
+    "names": {
+      "en": "Jal Jeera",
+      "te": "జల్ జీరా"
+    },
+    "aliases": [
+      "Spiced Water"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "beverage",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 20,
+      "protein": 0.2,
+      "carbs": 5,
+      "fat": 0.1,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "kaju-katli-ts",
+    "names": {
+      "en": "Kaju Katli",
+      "te": "కాజూ కత్లీ"
+    },
+    "aliases": [
+      "Cashew Fudge"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 25,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "puran-poli-ts",
+    "names": {
+      "en": "Puran Poli",
+      "te": "పూరణ్ పోళీ"
+    },
+    "aliases": [
+      "Sweet Lentil Flatbread"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 7,
+      "fiber": 4
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "General",
+      "source_reliability": "cited"
+    }
+  },
+  {
+    "id": "sunnundalu",
+    "names": {
+      "en": "Sunnundalu",
+      "te": "సున్నుండలు"
+    },
+    "aliases": [
+      "Urad Dal Ladoo"
+    ],
+    "states": [
+      "telangana"
+    ],
+    "category": "dessert",
+    "serving_g": 100,
+    "nutrition": {
+      "calories": 150,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 6,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "Web",
+      "source_reference": "Blend with Spices",
+      "source_reliability": "community"
+    }
+  }
 ]

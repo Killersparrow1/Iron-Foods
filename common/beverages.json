@@ -1,10 +1,3189 @@
 [
-  {"id": "black-tea", "names": {"en": "Black Tea"}, "aliases": ["Chai"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 2, "protein": 0.1, "carbs": 0.5, "fat": 0.0, "fiber": 0.0}, "metadata": {"source": "USDA", "source_reference": "Database", "source_reliability": "community"}},
-  {"id": "green-tea", "names": {"en": "Green Tea"}, "aliases": ["Green Tea"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 2, "protein": 0.1, "carbs": 0.2, "fat": 0.0, "fiber": 0.0}, "metadata": {"source": "USDA", "source_reference": "Database", "source_reliability": "community"}},
-  {"id": "coffee", "names": {"en": "Coffee"}, "aliases": ["Black Coffee"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 2, "protein": 0.3, "carbs": 0.0, "fat": 0.0, "fiber": 0.0}, "metadata": {"source": "USDA", "source_reference": "Database", "source_reliability": "community"}},
-  {"id": "milk-coffee", "names": {"en": "Milk Coffee"}, "aliases": ["Coffee with milk"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 80, "protein": 3.0, "carbs": 10.0, "fat": 3.0, "fiber": 0.0}, "metadata": {"source": "Community", "source_reference": "Label", "source_reliability": "community"}},
-  {"id": "lemon-juice", "names": {"en": "Lemon Juice"}, "aliases": ["Nimbu Pani"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 60, "protein": 0.5, "carbs": 15.0, "fat": 0.1, "fiber": 0.5}, "metadata": {"source": "IFCT-2017", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "buttermilk", "names": {"en": "Buttermilk"}, "aliases": ["Chaas", "Moru"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 40, "protein": 2.0, "carbs": 3.0, "fat": 2.0, "fiber": 0.0}, "metadata": {"source": "IFCT-2017", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "coconut-water", "names": {"en": "Tender Coconut Water"}, "aliases": ["Nariyal Pani"], "category": "beverages", "serving_g": 200, "nutrition": {"calories": 38, "protein": 0.7, "carbs": 9.0, "fat": 0.2, "fiber": 1.1}, "metadata": {"source": "IFCT-2017", "source_reference": "Table 7.2", "source_reliability": "institutional"}},
-  {"id": "protein-shake", "names": {"en": "Protein Shake"}, "aliases": ["Protein Shake"], "category": "beverages", "serving_g": 250, "nutrition": {"calories": 150, "protein": 25.0, "carbs": 5.0, "fat": 3.0, "fiber": 0.5}, "metadata": {"source": "Community", "source_reference": "Label", "source_reliability": "community"}}
+  {
+    "id": "black-tea",
+    "names": {
+      "en": "Black Tea"
+    },
+    "aliases": [
+      "Chai"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "USDA",
+      "source_reference": "Database",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "green-tea",
+    "names": {
+      "en": "Green Tea"
+    },
+    "aliases": [
+      "Green Tea"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 2,
+      "protein": 0.1,
+      "carbs": 0.2,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "USDA",
+      "source_reference": "Database",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "coffee",
+    "names": {
+      "en": "Coffee"
+    },
+    "aliases": [
+      "Black Coffee"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 2,
+      "protein": 0.3,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "USDA",
+      "source_reference": "Database",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "milk-coffee",
+    "names": {
+      "en": "Milk Coffee"
+    },
+    "aliases": [
+      "Coffee with milk"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 3,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Label",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "lemon-juice",
+    "names": {
+      "en": "Lemon Juice"
+    },
+    "aliases": [
+      "Nimbu Pani"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.5,
+      "carbs": 15,
+      "fat": 0.1,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "buttermilk",
+    "names": {
+      "en": "Buttermilk"
+    },
+    "aliases": [
+      "Chaas",
+      "Moru"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 40,
+      "protein": 2,
+      "carbs": 3,
+      "fat": 2,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "coconut-water",
+    "names": {
+      "en": "Tender Coconut Water"
+    },
+    "aliases": [
+      "Nariyal Pani"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 38,
+      "protein": 0.7,
+      "carbs": 9,
+      "fat": 0.2,
+      "fiber": 1.1
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "protein-shake",
+    "names": {
+      "en": "Protein Shake"
+    },
+    "aliases": [
+      "Protein Shake"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 150,
+      "protein": 25,
+      "carbs": 5,
+      "fat": 3,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Label",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "sweet-lassi",
+    "names": {
+      "en": "Sweet Lassi",
+      "hi": "मीठी लस्सी",
+      "pa": "ਮਿੱਠੀ ਲੱਸੀ"
+    },
+    "aliases": [
+      "Sweet Yogurt Drink",
+      "Meethi Lassi"
+    ],
+    "states": [
+      "punjab",
+      "haryana",
+      "delhi"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "salted-lassi",
+    "names": {
+      "en": "Salted Lassi",
+      "hi": "नमकीन लस्सी",
+      "pa": "ਨਮਕੀਨ ਲੱਸੀ"
+    },
+    "aliases": [
+      "Namkeen Lassi"
+    ],
+    "states": [
+      "punjab",
+      "haryana",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 4,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "mango-lassi",
+    "names": {
+      "en": "Mango Lassi",
+      "hi": "आम लस्सी"
+    },
+    "aliases": [
+      "Aam Lassi"
+    ],
+    "states": [
+      "punjab",
+      "delhi",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 180,
+      "protein": 3.5,
+      "carbs": 30,
+      "fat": 5,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "chaas-masala",
+    "names": {
+      "en": "Masala Chaas",
+      "hi": "मसाला छाछ",
+      "gu": "મસાલા છાશ"
+    },
+    "aliases": [
+      "Spiced Buttermilk",
+      "Masala Moru"
+    ],
+    "states": [
+      "gujarat",
+      "rajasthan",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 50,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "thandai",
+    "names": {
+      "en": "Thandai",
+      "hi": "ठंडाई"
+    },
+    "aliases": [
+      "Sardai"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "bihar",
+      "rajasthan",
+      "delhi"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 6,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "aam-panna",
+    "names": {
+      "en": "Aam Panna",
+      "hi": "आम पन्ना"
+    },
+    "aliases": [
+      "Raw Mango Drink"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "rajasthan",
+      "gujarat",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0.5,
+      "carbs": 16,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "jaljeera",
+    "names": {
+      "en": "Jaljeera",
+      "hi": "जलजीरा"
+    },
+    "aliases": [
+      "Cumin Water",
+      "Jal Jira"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "punjab",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 30,
+      "protein": 0.5,
+      "carbs": 6,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "neer-mor",
+    "names": {
+      "en": "Neer Mor",
+      "ta": "நீர் மோர்",
+      "ml": "നീർ മോര്"
+    },
+    "aliases": [
+      "Spiced Buttermilk",
+      "South Indian Buttermilk"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka",
+      "andhra-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 35,
+      "protein": 1.5,
+      "carbs": 4,
+      "fat": 1.5,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kokum-sherbet",
+    "names": {
+      "en": "Kokum Sherbet",
+      "mr": "कोकम शरबत",
+      "kn": "ಕೊಕಂ ಶರಬತ್ತು"
+    },
+    "aliases": [
+      "Kokum Juice",
+      "Kokum Sharbat"
+    ],
+    "states": [
+      "maharashtra",
+      "goa",
+      "karnataka",
+      "gujarat"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 50,
+      "protein": 0.3,
+      "carbs": 12,
+      "fat": 0.1,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sugarcane-juice",
+    "names": {
+      "en": "Sugarcane Juice",
+      "hi": "गन्ने का रस",
+      "ta": "கரும்பு சாறு"
+    },
+    "aliases": [
+      "Ganne Ka Ras",
+      "Ikshu Rasa"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "maharashtra",
+      "tamil-nadu",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 120,
+      "protein": 0.4,
+      "carbs": 30,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "badam-milk",
+    "names": {
+      "en": "Badam Milk",
+      "hi": "बादाम दूध"
+    },
+    "aliases": [
+      "Almond Milk",
+      "Indian Almond Milk"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 8,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "rooh-afza",
+    "names": {
+      "en": "Rooh Afza",
+      "hi": "रूह अफ़्ज़ा",
+      "ur": "روح افزا"
+    },
+    "aliases": [
+      "Rooh Afza Sherbet"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "bihar",
+      "telangana",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Nutrition Label",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "filter-coffee",
+    "names": {
+      "en": "South Indian Filter Coffee",
+      "ta": "ஃபில்டர் காபி",
+      "kn": "ಫಿಲ್ಟರ್ ಕಾಫಿ"
+    },
+    "aliases": [
+      "Kaapi",
+      "South Indian Coffee",
+      "Degree Coffee"
+    ],
+    "states": [
+      "tamil-nadu",
+      "karnataka",
+      "kerala",
+      "andhra-pradesh",
+      "telangana"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 50,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "masala-chai",
+    "names": {
+      "en": "Masala Chai",
+      "hi": "मसाला चाय"
+    },
+    "aliases": [
+      "Spiced Tea",
+      "Indian Chai"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "maharashtra",
+      "west-bengal",
+      "gujarat"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 1.5,
+      "carbs": 8,
+      "fat": 2.5,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "shikanji",
+    "names": {
+      "en": "Shikanji",
+      "hi": "शिकंजी"
+    },
+    "aliases": [
+      "North Indian Lemonade",
+      "Spiced Lemon Water"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "punjab",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 50,
+      "protein": 0.3,
+      "carbs": 12,
+      "fat": 0.1,
+      "fiber": 0.2
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "panakam-bev",
+    "names": {
+      "en": "Panakam",
+      "te": "పనకం"
+    },
+    "aliases": [
+      "Jaggery Water",
+      "Panaka"
+    ],
+    "states": [
+      "telangana",
+      "andhra-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 0.2,
+      "carbs": 22,
+      "fat": 0.1,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "bel-sherbet",
+    "names": {
+      "en": "Bael Sherbet",
+      "hi": "बेल का शरबत",
+      "ta": "வில்வம் ஷர்பத்"
+    },
+    "aliases": [
+      "Wood Apple Juice",
+      "Bael Juice",
+      "Kavath Sherbet"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "bihar",
+      "tamil-nadu",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0.3,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sattu-sherbet",
+    "names": {
+      "en": "Sattu Drink",
+      "hi": "सत्तू का शरबत",
+      "bh": "सत्तू"
+    },
+    "aliases": [
+      "Sattu Sherbet",
+      "Roasted Gram Flour Drink"
+    ],
+    "states": [
+      "bihar",
+      "uttar-pradesh",
+      "jharkhand",
+      "punjab"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 130,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 1.5,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "nannari-sherbet",
+    "names": {
+      "en": "Nannari Sherbet",
+      "ta": "நன்னாரி ஷர்பத்",
+      "ml": "നന്നാരി ഷർബത്ത്"
+    },
+    "aliases": [
+      "Sarsaparilla Drink",
+      "Nannari Sharbat"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka",
+      "andhra-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.2,
+      "carbs": 15,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kanji",
+    "names": {
+      "en": "Kanji",
+      "hi": "कांजी"
+    },
+    "aliases": [
+      "Black Carrot Kanji",
+      "Fermented Carrot Drink"
+    ],
+    "states": [
+      "punjab",
+      "haryana",
+      "delhi",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 40,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0.2,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "faluda",
+    "names": {
+      "en": "Faluda",
+      "hi": "फालूदा",
+      "ur": "فالودہ"
+    },
+    "aliases": [
+      "Falooda"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "maharashtra",
+      "hyderabad",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 5,
+      "fiber": 1
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "kullad-chai",
+    "names": {
+      "en": "Kullad Chai",
+      "hi": "कुल्हड़ चाय"
+    },
+    "aliases": [
+      "Clay Pot Tea",
+      "Matka Chai"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 65,
+      "protein": 1.5,
+      "carbs": 9,
+      "fat": 2.5,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "tulsi-tea",
+    "names": {
+      "en": "Tulsi Tea",
+      "hi": "तुलसी चाय"
+    },
+    "aliases": [
+      "Holy Basil Tea",
+      "Tulsi Green Tea"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "delhi",
+      "maharashtra",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 5,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "ambil",
+    "names": {
+      "en": "Ambil",
+      "mr": "आंबिल",
+      "kn": "ಅಂಬಿಲಿ"
+    },
+    "aliases": [
+      "Fermented Porridge Drink",
+      "Ragi Ambil"
+    ],
+    "states": [
+      "maharashtra",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 2.5,
+      "carbs": 18,
+      "fat": 1,
+      "fiber": 2
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "phalsa-sherbet",
+    "names": {
+      "en": "Phalsa Sherbet",
+      "hi": "फालसा शरबत"
+    },
+    "aliases": [
+      "Phalsa Juice",
+      "Indian Sherbet Berry Drink"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "rajasthan",
+      "punjab",
+      "haryana"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0.5,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "rose-sherbet",
+    "names": {
+      "en": "Rose Sherbet",
+      "hi": "गुलाब शरबत"
+    },
+    "aliases": [
+      "Gulab Sharbat",
+      "Rose Syrup Drink"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "telangana",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "khas-sherbet",
+    "names": {
+      "en": "Khas Sherbet",
+      "hi": "खस शरबत"
+    },
+    "aliases": [
+      "Vetiver Drink",
+      "Khus Sharbat"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "rajasthan",
+      "punjab"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "tamarind-drink",
+    "names": {
+      "en": "Tamarind Drink",
+      "ta": "புளி சாறு",
+      "te": "చింతపండు పానకం"
+    },
+    "aliases": [
+      "Imli Ka Sherbet",
+      "Puli Sadam"
+    ],
+    "states": [
+      "tamil-nadu",
+      "andhra-pradesh",
+      "telangana",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 55,
+      "protein": 0.5,
+      "carbs": 13,
+      "fat": 0.1,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "mattha",
+    "names": {
+      "en": "Mattha",
+      "hi": "मट्ठा"
+    },
+    "aliases": [
+      "Whipped Buttermilk"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "bihar",
+      "punjab",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 2,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "chaang",
+    "names": {
+      "en": "Chaang",
+      "hi": "चांग"
+    },
+    "aliases": [
+      "Himalayan Millet Beer",
+      "Tibetan Barley Beer"
+    ],
+    "states": [
+      "ladakh",
+      "himachal-pradesh",
+      "sikkim",
+      "arunachal-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "toddy",
+    "names": {
+      "en": "Coconut Toddy",
+      "ml": "കള്ള്",
+      "ta": "கள்"
+    },
+    "aliases": [
+      "Palm Wine",
+      "Toddy",
+      "Kallu"
+    ],
+    "states": [
+      "kerala",
+      "tamil-nadu",
+      "karnataka",
+      "goa",
+      "andhra-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 0.3,
+      "carbs": 6,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "feni",
+    "names": {
+      "en": "Feni",
+      "kn": "ಫೆಣಿ",
+      "mr": "फेणी"
+    },
+    "aliases": [
+      "Cashew Feni",
+      "Goan Feni",
+      "Coconut Feni"
+    ],
+    "states": [
+      "goa",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 50,
+    "nutrition": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "cold-coffee",
+    "names": {
+      "en": "Cold Coffee"
+    },
+    "aliases": [
+      "Iced Coffee",
+      "Cold Coffee with Ice Cream"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "karnataka",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "green-smoothie",
+    "names": {
+      "en": "Green Smoothie"
+    },
+    "aliases": [
+      "Palak Smoothie",
+      "Spinach Smoothie"
+    ],
+    "states": [
+      "delhi",
+      "mumbai",
+      "bangalore",
+      "pune"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 2.5,
+      "fiber": 3
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Nutrition Label",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "butter-milk-salt",
+    "names": {
+      "en": "Salted Buttermilk"
+    },
+    "aliases": [
+      "Chaas",
+      "Neer Mor"
+    ],
+    "states": [
+      "gujarat",
+      "rajasthan",
+      "maharashtra",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 30,
+      "protein": 1.5,
+      "carbs": 4,
+      "fat": 1,
+      "fiber": 0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "aamras",
+    "names": {
+      "en": "Aamras",
+      "hi": "आमरस",
+      "gu": "આમરસ"
+    },
+    "aliases": [
+      "Mango Pulp",
+      "Alphonso Mango Drink"
+    ],
+    "states": [
+      "gujarat",
+      "maharashtra",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 130,
+      "protein": 0.8,
+      "carbs": 32.0,
+      "fat": 0.4,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "noon-chai",
+    "names": {
+      "en": "Kashmiri Noon Chai",
+      "ks": "نون چائے",
+      "ur": "نون چائے"
+    },
+    "aliases": [
+      "Pink Tea",
+      "Sheer Chai",
+      "Kashmiri Chai"
+    ],
+    "states": [
+      "jammu-kashmir",
+      "ladakh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 1.5,
+      "carbs": 8.0,
+      "fat": 3.5,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kaawa",
+    "names": {
+      "en": "Kashmiri Kahwa",
+      "ks": "قہوہ",
+      "ur": "قہوہ"
+    },
+    "aliases": [
+      "Kashmiri Green Tea",
+      "Saffron Tea"
+    ],
+    "states": [
+      "jammu-kashmir",
+      "ladakh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 20,
+      "protein": 0.2,
+      "carbs": 4.0,
+      "fat": 0.5,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sol-kadhi-bev",
+    "names": {
+      "en": "Sol Kadhi",
+      "mr": "सोल कढी",
+      "kn": "ಸೋಲ್ ಕಡಿ"
+    },
+    "aliases": [
+      "Kokum Kadhi",
+      "Kokum Milk Drink"
+    ],
+    "states": [
+      "maharashtra",
+      "goa",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 45,
+      "protein": 1.0,
+      "carbs": 5.0,
+      "fat": 2.5,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "mosambi-juice",
+    "names": {
+      "en": "Mosambi Juice",
+      "hi": "मोसम्बी जूस",
+      "mr": "मोसंबी रस"
+    },
+    "aliases": [
+      "Sweet Lime Juice",
+      "Sweet Lemon Juice"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 0.8,
+      "carbs": 18.0,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "watermelon-juice",
+    "names": {
+      "en": "Watermelon Juice",
+      "hi": "तरबूज जूस",
+      "ta": "தர்ப்பூசணி சாறு"
+    },
+    "aliases": [
+      "Tarbooj Juice"
+    ],
+    "states": [
+      "delhi",
+      "uttar-pradesh",
+      "punjab",
+      "rajasthan",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.8,
+      "carbs": 14.0,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pomegranate-juice",
+    "names": {
+      "en": "Pomegranate Juice",
+      "hi": "अनार का जूस",
+      "mr": "डाळिंब रस"
+    },
+    "aliases": [
+      "Anar Juice",
+      "Anardana Juice"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "rajasthan",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 100,
+      "protein": 0.8,
+      "carbs": 24.0,
+      "fat": 0.3,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "jamun-juice",
+    "names": {
+      "en": "Jamun Juice",
+      "hi": "जामुन का जूस",
+      "mr": "जांभूळ रस"
+    },
+    "aliases": [
+      "Java Plum Juice",
+      "Black Plum Juice"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "uttar-pradesh",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0.5,
+      "carbs": 16.0,
+      "fat": 0.2,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "litchi-juice",
+    "names": {
+      "en": "Litchi Juice",
+      "hi": "लीची जूस",
+      "bn": "লিচুর রস"
+    },
+    "aliases": [
+      "Lychee Juice"
+    ],
+    "states": [
+      "bihar",
+      "west-bengal",
+      "uttar-pradesh",
+      "punjab"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 100,
+      "protein": 0.6,
+      "carbs": 25.0,
+      "fat": 0.3,
+      "fiber": 0.8
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pineapple-juice",
+    "names": {
+      "en": "Pineapple Juice",
+      "hi": "अनानास जूस",
+      "ml": "കൈതച്ചക്ക ജ്യൂസ്"
+    },
+    "aliases": [
+      "Ananas Juice"
+    ],
+    "states": [
+      "kerala",
+      "karnataka",
+      "west-bengal",
+      "assam"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 0.6,
+      "carbs": 22.0,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "muskmelon-juice",
+    "names": {
+      "en": "Muskmelon Juice",
+      "hi": "खरबूज जूस",
+      "ta": "முலாம்பழம் சாறு"
+    },
+    "aliases": [
+      "Cantaloupe Juice",
+      "Kharbuja Juice"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "punjab",
+      "rajasthan",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 55,
+      "protein": 0.8,
+      "carbs": 13.0,
+      "fat": 0.2,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "guava-juice",
+    "names": {
+      "en": "Guava Juice",
+      "hi": "अमरूद जूस",
+      "mr": "पेरू रस"
+    },
+    "aliases": [
+      "Amrood Juice"
+    ],
+    "states": [
+      "maharashtra",
+      "uttar-pradesh",
+      "punjab",
+      "bihar"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 1.2,
+      "carbs": 20.0,
+      "fat": 0.4,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "orange-juice",
+    "names": {
+      "en": "Fresh Orange Juice",
+      "hi": "संतरा जूस",
+      "mr": "संत्रा रस"
+    },
+    "aliases": [
+      "Santra Juice",
+      "Nagpur Orange Juice"
+    ],
+    "states": [
+      "maharashtra",
+      "punjab",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 1.0,
+      "carbs": 21.0,
+      "fat": 0.3,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "apple-juice",
+    "names": {
+      "en": "Apple Juice",
+      "hi": "सेब का जूस",
+      "ur": "سیب کا رس"
+    },
+    "aliases": [
+      "Seb Juice"
+    ],
+    "states": [
+      "jammu-kashmir",
+      "himachal-pradesh",
+      "uttarakhand"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 85,
+      "protein": 0.3,
+      "carbs": 20.0,
+      "fat": 0.2,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "papaya-juice",
+    "names": {
+      "en": "Papaya Juice",
+      "hi": "पपीता जूस",
+      "ta": "பப்பாளி சாறு"
+    },
+    "aliases": [
+      "Papaya Shake"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka",
+      "gujarat"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0.5,
+      "carbs": 17.0,
+      "fat": 0.2,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "carrot-juice",
+    "names": {
+      "en": "Carrot Juice",
+      "hi": "गाजर का जूस",
+      "ta": "கேரட் சாறு"
+    },
+    "aliases": [
+      "Gajar Juice",
+      "Gajar Ka Ras"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 1.5,
+      "carbs": 16.0,
+      "fat": 0.3,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "beetroot-juice",
+    "names": {
+      "en": "Beetroot Juice",
+      "hi": "चुकंदर जूस",
+      "mr": "बीटरूट रस"
+    },
+    "aliases": [
+      "Chukandar Juice",
+      "Red Juice"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "punjab",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 1.2,
+      "carbs": 13.0,
+      "fat": 0.2,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kesar-doodh",
+    "names": {
+      "en": "Kesar Doodh",
+      "hi": "केसर दूध"
+    },
+    "aliases": [
+      "Saffron Milk",
+      "Zafrani Doodh"
+    ],
+    "states": [
+      "rajasthan",
+      "gujarat",
+      "delhi",
+      "punjab"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 160,
+      "protein": 5.0,
+      "carbs": 18.0,
+      "fat": 8.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "haldi-doodh",
+    "names": {
+      "en": "Haldi Doodh",
+      "hi": "हल्दी दूध",
+      "ta": "மஞ்சள் பால்"
+    },
+    "aliases": [
+      "Turmeric Milk",
+      "Golden Milk",
+      "Turmeric Latte"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "uttar-pradesh",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 120,
+      "protein": 4.0,
+      "carbs": 14.0,
+      "fat": 5.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "adrak-chai",
+    "names": {
+      "en": "Adrak Chai",
+      "hi": "अदरक चाय",
+      "mr": "आल्याचा चहा"
+    },
+    "aliases": [
+      "Ginger Tea",
+      "Ginger Chai"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "punjab",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 30,
+      "protein": 0.3,
+      "carbs": 6.0,
+      "fat": 0.5,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "elaichi-chai",
+    "names": {
+      "en": "Elaichi Chai",
+      "hi": "इलायची चाय"
+    },
+    "aliases": [
+      "Cardamom Tea",
+      "Cardamom Chai"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "gujarat"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 35,
+      "protein": 0.3,
+      "carbs": 7.0,
+      "fat": 0.5,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "tulsi-kadha",
+    "names": {
+      "en": "Tulsi Kadha",
+      "hi": "तुलसी काढ़ा"
+    },
+    "aliases": [
+      "Holy Basil Decoction",
+      "Herbal Kadha"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "delhi",
+      "maharashtra",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 15,
+      "protein": 0.2,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kala-khatta",
+    "names": {
+      "en": "Kala Khatta",
+      "hi": "काला खट्टा",
+      "mr": "काळा खट्टा"
+    },
+    "aliases": [
+      "Black Plum Cooler",
+      "Black Currant Drink"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "delhi",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0.2,
+      "carbs": 17.0,
+      "fat": 0.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "imli-ka-pani",
+    "names": {
+      "en": "Imli Ka Pani",
+      "hi": "इमली का पानी",
+      "te": "చింతపండు నీరు"
+    },
+    "aliases": [
+      "Tamarind Water",
+      "Imli Drink"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "delhi",
+      "rajasthan",
+      "telangana"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 45,
+      "protein": 0.3,
+      "carbs": 11.0,
+      "fat": 0.1,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "saunf-drink",
+    "names": {
+      "en": "Saunf Drink",
+      "hi": "सौंफ का शरबत"
+    },
+    "aliases": [
+      "Fennel Seed Cooler",
+      "Fennel Sherbet"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 40,
+      "protein": 0.5,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "pudina-drink",
+    "names": {
+      "en": "Pudina Drink",
+      "hi": "पुदीना शरबत",
+      "ta": "புதினா பானம்"
+    },
+    "aliases": [
+      "Mint Cooler",
+      "Mint Lime Water",
+      "Pudina Sharbat"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 25,
+      "protein": 0.3,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "butter-fruit-smoothie",
+    "names": {
+      "en": "Butterfruit Smoothie",
+      "ta": "வெண்ணெய்ப் பழம் ஸ்மூത്തி",
+      "kn": "ಬೆಣ್ಣೆ ಹಣ್ಣು ಸ್ಮೂತಿ"
+    },
+    "aliases": [
+      "Avocado Smoothie",
+      "Avocado Milkshake"
+    ],
+    "states": [
+      "tamil-nadu",
+      "karnataka",
+      "kerala",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 200,
+      "protein": 3.0,
+      "carbs": 25.0,
+      "fat": 10.0,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "mango-shake",
+    "names": {
+      "en": "Mango Shake",
+      "hi": "आम शेक",
+      "mr": "आंबा शेक"
+    },
+    "aliases": [
+      "Mango Milkshake",
+      "Aam Shake"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "uttar-pradesh",
+      "delhi"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 210,
+      "protein": 4.0,
+      "carbs": 36.0,
+      "fat": 6.0,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "banana-shake",
+    "names": {
+      "en": "Banana Shake",
+      "hi": "केला शेक",
+      "ta": "வாழைப்பழ ஷேக்"
+    },
+    "aliases": [
+      "Banana Milkshake",
+      "Kela Shake"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "tamil-nadu",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 190,
+      "protein": 4.5,
+      "carbs": 32.0,
+      "fat": 5.0,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "chikoo-shake",
+    "names": {
+      "en": "Chikoo Shake",
+      "mr": "चिक्कू शेक",
+      "gu": "ચીકુ શેક"
+    },
+    "aliases": [
+      "Sapota Shake",
+      "Sapodilla Milkshake"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "karnataka",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 200,
+      "protein": 3.0,
+      "carbs": 38.0,
+      "fat": 5.0,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "sitaphal-shake",
+    "names": {
+      "en": "Sitaphal Shake",
+      "mr": "सीताफळ शेक",
+      "hi": "सीताफल शेक"
+    },
+    "aliases": [
+      "Custard Apple Shake",
+      "Sugar Apple Milkshake"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "karnataka",
+      "bihar"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 180,
+      "protein": 3.5,
+      "carbs": 30.0,
+      "fat": 6.0,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "dates-shake",
+    "names": {
+      "en": "Dates Shake",
+      "hi": "खजूर शेक",
+      "mr": "खजूर शेक"
+    },
+    "aliases": [
+      "Khajoor Shake",
+      "Date Milkshake",
+      "Dates and Milk"
+    ],
+    "states": [
+      "rajasthan",
+      "gujarat",
+      "maharashtra",
+      "delhi"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 250,
+      "protein": 5.0,
+      "carbs": 45.0,
+      "fat": 6.0,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "dry-fruit-shake",
+    "names": {
+      "en": "Dry Fruit Shake",
+      "hi": "ड्राई फ्रूट शेक"
+    },
+    "aliases": [
+      "Dry Fruit Milk",
+      "Nuts and Milk"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 280,
+      "protein": 7.0,
+      "carbs": 35.0,
+      "fat": 12.0,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "pista-milk",
+    "names": {
+      "en": "Pista Milk",
+      "hi": "पिस्ता दूध"
+    },
+    "aliases": [
+      "Pistachio Milk",
+      "Pista Doodh"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 180,
+      "protein": 5.0,
+      "carbs": 22.0,
+      "fat": 8.0,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "rose-milk",
+    "names": {
+      "en": "Rose Milk",
+      "ta": "ரோஸ் மில்க்",
+      "ml": "റോസ് മിൽക്ക്"
+    },
+    "aliases": [
+      "Rose Flavored Milk",
+      "Gulab Doodh"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka",
+      "delhi"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 130,
+      "protein": 3.5,
+      "carbs": 20.0,
+      "fat": 4.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "badam-shake",
+    "names": {
+      "en": "Badam Shake",
+      "hi": "बादाम शेक"
+    },
+    "aliases": [
+      "Almond Shake",
+      "Almond Milkshake"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 230,
+      "protein": 6.0,
+      "carbs": 28.0,
+      "fat": 10.0,
+      "fiber": 1.5
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "elaichi-milk",
+    "names": {
+      "en": "Elaichi Milk",
+      "hi": "इलायची दूध"
+    },
+    "aliases": [
+      "Cardamom Milk",
+      "Cardamom Flavored Milk"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "rajasthan",
+      "uttar-pradesh"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 140,
+      "protein": 4.5,
+      "carbs": 16.0,
+      "fat": 6.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "ragi-malt",
+    "names": {
+      "en": "Ragi Malt",
+      "kn": "ರಾಗಿ ಮಾಲ್ಟ್",
+      "ta": "கேழ்வரகு மால்ட்"
+    },
+    "aliases": [
+      "Finger Millet Malt",
+      "Ragi Porridge Drink",
+      "Ragi Ganji"
+    ],
+    "states": [
+      "karnataka",
+      "tamil-nadu",
+      "andhra-pradesh",
+      "kerala"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 140,
+      "protein": 3.0,
+      "carbs": 28.0,
+      "fat": 1.5,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sabja-drink",
+    "names": {
+      "en": "Sabja Drink",
+      "hi": "सब्जा ड्रिंक",
+      "ta": "சப்ஜா பானம்"
+    },
+    "aliases": [
+      "Basil Seed Drink",
+      "Falooda Seeds Drink",
+      "Tukmaria Drink"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "delhi",
+      "maharashtra"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.5,
+      "carbs": 14.0,
+      "fat": 0.2,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "soda-shikanji",
+    "names": {
+      "en": "Soda Shikanji",
+      "hi": "सोडा शिकंजी"
+    },
+    "aliases": [
+      "Lemon Soda",
+      "Nimbu Soda",
+      "Shikanji Soda"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 70,
+      "protein": 0.3,
+      "carbs": 16.0,
+      "fat": 0.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "masala-soda",
+    "names": {
+      "en": "Masala Soda",
+      "hi": "मसाला सोडा"
+    },
+    "aliases": [
+      "Spiced Soda",
+      "Indian Spiced Soda"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "delhi",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 40,
+      "protein": 0.2,
+      "carbs": 9.0,
+      "fat": 0.1,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "neeragaram",
+    "names": {
+      "en": "Neeragaram",
+      "ta": "நீர்காகரம்",
+      "ml": "നീരകാരം"
+    },
+    "aliases": [
+      "Pazhaya Sadham",
+      "Overnight Rice Water",
+      "Fermented Rice Drink"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 35,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 0.3,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "tadgola-water",
+    "names": {
+      "en": "Tadgola Water",
+      "mr": "ताडगोळा",
+      "kn": "ತಾಟಿ ನೀರು",
+      "hi": "ताड़ का फल"
+    },
+    "aliases": [
+      "Ice Apple Water",
+      "Palm Fruit Water",
+      "Palmyra Fruit Drink"
+    ],
+    "states": [
+      "maharashtra",
+      "goa",
+      "karnataka",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 40,
+      "protein": 0.5,
+      "carbs": 9.0,
+      "fat": 0.1,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "nimbu-pani-mint",
+    "names": {
+      "en": "Nimbu Pani",
+      "hi": "नींबू पानी"
+    },
+    "aliases": [
+      "Lemonade",
+      "Fresh Lime Soda"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 45,
+      "protein": 0.3,
+      "carbs": 11.0,
+      "fat": 0.1,
+      "fiber": 0.2
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "bel-shake",
+    "names": {
+      "en": "Bel Shake",
+      "hi": "बेल शेक"
+    },
+    "aliases": [
+      "Wood Apple Shake",
+      "Bael Smoothie"
+    ],
+    "states": [
+      "uttar-pradesh",
+      "bihar",
+      "rajasthan",
+      "tamil-nadu"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 160,
+      "protein": 3.0,
+      "carbs": 32.0,
+      "fat": 3.0,
+      "fiber": 4.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "lebu-cha",
+    "names": {
+      "en": "Lebu Cha",
+      "bn": "লেবু চা",
+      "as": "লেবু চাহ"
+    },
+    "aliases": [
+      "Lemon Tea",
+      "Tangy Tea"
+    ],
+    "states": [
+      "west-bengal",
+      "assam",
+      "tripura"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 20,
+      "protein": 0.2,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "lao-cha",
+    "names": {
+      "en": "Laal Cha",
+      "bn": "লাল চা"
+    },
+    "aliases": [
+      "Red Tea",
+      "Assam Red Tea"
+    ],
+    "states": [
+      "west-bengal",
+      "assam",
+      "tripura"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "jaggery-tea",
+    "names": {
+      "en": "Jaggery Tea",
+      "ta": "வெல்லம் டீ",
+      "kn": "ಬೆಲ್ಲದ ಚಹಾ"
+    },
+    "aliases": [
+      "Gur Chai",
+      "Vellam Tea"
+    ],
+    "states": [
+      "tamil-nadu",
+      "karnataka",
+      "gujarat",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 60,
+      "protein": 0.3,
+      "carbs": 14.0,
+      "fat": 0.5,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "kairi-cha",
+    "names": {
+      "en": "Kairi Cha",
+      "mr": "कैरी चा",
+      "gu": "કેરી ચા"
+    },
+    "aliases": [
+      "Raw Mango Tea",
+      "Green Mango Tea"
+    ],
+    "states": [
+      "gujarat",
+      "maharashtra",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 25,
+      "protein": 0.2,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "sattu-lemon",
+    "names": {
+      "en": "Sattu Lemon Drink",
+      "hi": "सत्तू नींबू पानी"
+    },
+    "aliases": [
+      "Sattu Nimbu Pani",
+      "Roasted Gram Lemonade"
+    ],
+    "states": [
+      "bihar",
+      "uttar-pradesh",
+      "jharkhand",
+      "punjab"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 110,
+      "protein": 5.0,
+      "carbs": 20.0,
+      "fat": 1.0,
+      "fiber": 2.5
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "chaas-rajasthani",
+    "names": {
+      "en": "Rajasthani Chaas",
+      "hi": "राजस्थानी छाछ"
+    },
+    "aliases": [
+      "Masala Chaas",
+      "Spiced Buttermilk Rajasthan"
+    ],
+    "states": [
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 40,
+      "protein": 2.0,
+      "carbs": 4.0,
+      "fat": 2.0,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "paneer-soda",
+    "names": {
+      "en": "Panner Soda",
+      "ta": "பன்னீர் சோடா"
+    },
+    "aliases": [
+      "Rose Milk Soda",
+      "Panner Soda"
+    ],
+    "states": [
+      "tamil-nadu",
+      "kerala",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 90,
+      "protein": 1.0,
+      "carbs": 20.0,
+      "fat": 1.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "kashmiri-kehwa",
+    "names": {
+      "en": "Kashmiri Kehwa",
+      "ks": "کہوہ"
+    },
+    "aliases": [
+      "Saffron Kahwa",
+      "Almond Tea"
+    ],
+    "states": [
+      "jammu-kashmir"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 25,
+      "protein": 0.5,
+      "carbs": 4.0,
+      "fat": 1.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "IFCT-2017",
+      "source_reference": "Table 7.2",
+      "source_reliability": "institutional"
+    }
+  },
+  {
+    "id": "gulkand-drink",
+    "names": {
+      "en": "Gulkand Drink",
+      "hi": "गुलकंद ड्रिंक",
+      "mr": "गुलकंद पेय"
+    },
+    "aliases": [
+      "Rose Petal Preserve Drink",
+      "Gulkand Cooler"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "uttar-pradesh",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 50,
+      "protein": 0.2,
+      "carbs": 12.0,
+      "fat": 0.1,
+      "fiber": 0.3
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "moringa-smoothie",
+    "names": {
+      "en": "Moringa Smoothie",
+      "ta": "முருங்கை ஸ்மூத்தி",
+      "te": "మునగ స్మూతీ"
+    },
+    "aliases": [
+      "Drumstick Leaves Smoothie",
+      "Moringa Green Drink"
+    ],
+    "states": [
+      "tamil-nadu",
+      "andhra-pradesh",
+      "telangana",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 90,
+      "protein": 4.0,
+      "carbs": 14.0,
+      "fat": 2.0,
+      "fiber": 3.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "ginger-lemon-honey",
+    "names": {
+      "en": "Ginger Lemon Honey Drink",
+      "hi": "अदरक नींबू शहद"
+    },
+    "aliases": [
+      "Soothing Tonic",
+      "Immunity Drink"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "punjab",
+      "west-bengal"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 35,
+      "protein": 0.2,
+      "carbs": 8.0,
+      "fat": 0.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "mango-smoothie",
+    "names": {
+      "en": "Mango Smoothie",
+      "hi": "आम स्मूथी"
+    },
+    "aliases": [
+      "Aam Smoothie",
+      "Mango Yogurt Smoothie"
+    ],
+    "states": [
+      "maharashtra",
+      "gujarat",
+      "delhi",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 180,
+      "protein": 3.0,
+      "carbs": 35.0,
+      "fat": 4.0,
+      "fiber": 2.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "mixed-fruit-juice",
+    "names": {
+      "en": "Mixed Fruit Juice"
+    },
+    "aliases": [
+      "Fruit Juice Mix",
+      "Mixed Juice"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "punjab",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 80,
+      "protein": 0.5,
+      "carbs": 19.0,
+      "fat": 0.2,
+      "fiber": 1.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "lassi-strawberry",
+    "names": {
+      "en": "Strawberry Lassi"
+    },
+    "aliases": [
+      "Strawberry Yogurt Drink"
+    ],
+    "states": [
+      "maharashtra",
+      "delhi",
+      "punjab",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 200,
+    "nutrition": {
+      "calories": 130,
+      "protein": 3.0,
+      "carbs": 22.0,
+      "fat": 3.5,
+      "fiber": 0.5
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "cold-coffee-icecream",
+    "names": {
+      "en": "Cold Coffee with Ice Cream"
+    },
+    "aliases": [
+      "Iced Mocha",
+      "Coffee Float"
+    ],
+    "states": [
+      "delhi",
+      "maharashtra",
+      "punjab",
+      "karnataka"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 220,
+      "protein": 5.0,
+      "carbs": 30.0,
+      "fat": 9.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  },
+  {
+    "id": "nimbu-soda",
+    "names": {
+      "en": "Nimbu Soda",
+      "hi": "नींबू सोडा"
+    },
+    "aliases": [
+      "Lime Soda",
+      "Fresh Lime"
+    ],
+    "states": [
+      "delhi",
+      "punjab",
+      "maharashtra",
+      "rajasthan"
+    ],
+    "category": "beverages",
+    "serving_g": 250,
+    "nutrition": {
+      "calories": 55,
+      "protein": 0.2,
+      "carbs": 13.0,
+      "fat": 0.0,
+      "fiber": 0.0
+    },
+    "metadata": {
+      "source": "Community",
+      "source_reference": "Standard Recipe",
+      "source_reliability": "community"
+    }
+  }
 ]
