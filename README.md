@@ -28,10 +28,26 @@ If you discover a security vulnerability in Iron Foods, please report it private
     - All data submissions are validated against a strict schema.
     - We do not store any user-sensitive information.
     - All contributions are reviewed by maintainers to prevent malicious data injection.
+## License
 
-### License
-Iron Foods data is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
-- You are free to share and adapt the data, provided you give appropriate credit.
+Iron Foods is released under The Unlicense.
+
+This project is dedicated to the public domain.
+
+Anyone is free to:
+
+* Use
+* Copy
+* Modify
+* Publish
+* Distribute
+* Compile
+* Sell
+
+the software for any purpose, commercial or non-commercial.
+
+See LICENSE for details.
+
 
 ### Disclaimer
 The Iron Foods database is provided for **educational and informational purposes only**.

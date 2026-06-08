@@ -1,0 +1,96 @@
+{
+  "communities": {
+    "0": [
+      "validate_data",
+      "validate_data_addformats",
+      "validate_data_ajv",
+      "validate_data_allfoods",
+      "validate_data_checkduplicates",
+      "validate_data_directories",
+      "validate_data_fs",
+      "validate_data_path",
+      "validate_data_schema"
+    ],
+    "1": [
+      "generate_index",
+      "generate_index_allfoods",
+      "generate_index_commondir",
+      "generate_index_foodsdir",
+      "generate_index_fs",
+      "generate_index_loaddir",
+      "generate_index_outputfile",
+      "generate_index_path"
+    ],
+    "2": [
+      "index_engine",
+      "index_engine_commondir",
+      "index_engine_foodsdir",
+      "index_engine_fs",
+      "index_engine_normalize",
+      "index_engine_outputfile",
+      "index_engine_path"
+    ]
+  },
+  "cohesion": {
+    "0": 0.2222222222222222,
+    "1": 0.25,
+    "2": 0.2857142857142857
+  },
+  "gods": [
+    {
+      "id": "generate_index_fs",
+      "label": "fs",
+      "degree": 1
+    },
+    {
+      "id": "generate_index_path",
+      "label": "path",
+      "degree": 1
+    },
+    {
+      "id": "generate_index_foodsdir",
+      "label": "foodsDir",
+      "degree": 1
+    },
+    {
+      "id": "generate_index_commondir",
+      "label": "commonDir",
+      "degree": 1
+    },
+    {
+      "id": "generate_index_outputfile",
+      "label": "outputFile",
+      "degree": 1
+    },
+    {
+      "id": "generate_index_allfoods",
+      "label": "allFoods",
+      "degree": 1
+    },
+    {
+      "id": "index_engine_fs",
+      "label": "fs",
+      "degree": 1
+    },
+    {
+      "id": "index_engine_path",
+      "label": "path",
+      "degree": 1
+    },
+    {
+      "id": "index_engine_foodsdir",
+      "label": "foodsDir",
+      "degree": 1
+    },
+    {
+      "id": "index_engine_commondir",
+      "label": "commonDir",
+      "degree": 1
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "generate-index.js",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L1",
+      "community": 1,
+      "norm_label": "generate-index.js",
+      "id": "generate_index"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L1",
+      "community": 1,
+      "norm_label": "fs",
+      "id": "generate_index_fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L2",
+      "community": 1,
+      "norm_label": "path",
+      "id": "generate_index_path"
+    },
+    {
+      "label": "foodsDir",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L4",
+      "community": 1,
+      "norm_label": "foodsdir",
+      "id": "generate_index_foodsdir"
+    },
+    {
+      "label": "commonDir",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L5",
+      "community": 1,
+      "norm_label": "commondir",
+      "id": "generate_index_commondir"
+    },
+    {
+      "label": "outputFile",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L6",
+      "community": 1,
+      "norm_label": "outputfile",
+      "id": "generate_index_outputfile"
+    },
+    {
+      "label": "allFoods",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L8",
+      "community": 1,
+      "norm_label": "allfoods",
+      "id": "generate_index_allfoods"
+    },
+    {
+      "label": "loadDir()",
+      "file_type": "code",
+      "source_file": "generate-index.js",
+      "source_location": "L10",
+      "community": 1,
+      "norm_label": "loaddir()",
+      "id": "generate_index_loaddir"
+    },
+    {
+      "label": "index-engine.js",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L1",
+      "community": 2,
+      "norm_label": "index-engine.js",
+      "id": "index_engine"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L1",
+      "community": 2,
+      "norm_label": "fs",
+      "id": "index_engine_fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L2",
+      "community": 2,
+      "norm_label": "path",
+      "id": "index_engine_path"
+    },
+    {
+      "label": "foodsDir",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L4",
+      "community": 2,
+      "norm_label": "foodsdir",
+      "id": "index_engine_foodsdir"
+    },
+    {
+      "label": "commonDir",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L5",
+      "community": 2,
+      "norm_label": "commondir",
+      "id": "index_engine_commondir"
+    },
+    {
+      "label": "outputFile",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L6",
+      "community": 2,
+      "norm_label": "outputfile",
+      "id": "index_engine_outputfile"
+    },
+    {
+      "label": "normalize()",
+      "file_type": "code",
+      "source_file": "index-engine.js",
+      "source_location": "L8",
+      "community": 2,
+      "norm_label": "normalize()",
+      "id": "index_engine_normalize"
+    },
+    {
+      "label": "validate-data.js",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L1",
+      "community": 0,
+      "norm_label": "validate-data.js",
+      "id": "validate_data"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L1",
+      "community": 0,
+      "norm_label": "fs",
+      "id": "validate_data_fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L2",
+      "community": 0,
+      "norm_label": "path",
+      "id": "validate_data_path"
+    },
+    {
+      "label": "Ajv",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L3",
+      "community": 0,
+      "norm_label": "ajv",
+      "id": "validate_data_ajv"
+    },
+    {
+      "label": "addFormats",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L4",
+      "community": 0,
+      "norm_label": "addformats",
+      "id": "validate_data_addformats"
+    },
+    {
+      "label": "schema",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L9",
+      "community": 0,
+      "norm_label": "schema",
+      "id": "validate_data_schema"
+    },
+    {
+      "label": "allFoods",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L12",
+      "community": 0,
+      "norm_label": "allfoods",
+      "id": "validate_data_allfoods"
+    },
+    {
+      "label": "checkDuplicates()",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L33",
+      "community": 0,
+      "norm_label": "checkduplicates()",
+      "id": "validate_data_checkduplicates"
+    },
+    {
+      "label": "directories",
+      "file_type": "code",
+      "source_file": "validate-data.js",
+      "source_location": "L45",
+      "community": 0,
+      "norm_label": "directories",
+      "id": "validate_data_directories"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_allfoods"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_commondir"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_foodsdir"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_fs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_loaddir"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_outputfile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "generate-index.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "generate_index",
+      "target": "generate_index_path"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "generate_index"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_commondir"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_foodsdir"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_fs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_normalize"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_outputfile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "index-engine.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "index_engine",
+      "target": "index_engine_path"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_addformats"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_ajv"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_allfoods"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_checkduplicates"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_directories"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_fs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_path"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "validate-data.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "validate_data",
+      "target": "validate_data_schema"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "d2f1c561b22b9855b25a82f50ab93711f70d4a3e"
+}

@@ -1,0 +1,597 @@
+{
+  "communities": {
+    "0": [
+      "schema_food_schema",
+      "schema_food_schema_aliases_description",
+      "schema_food_schema_aliases_items",
+      "schema_food_schema_aliases_type",
+      "schema_food_schema_category_description",
+      "schema_food_schema_category_type",
+      "schema_food_schema_description",
+      "schema_food_schema_id_description",
+      "schema_food_schema_id_type",
+      "schema_food_schema_items_type",
+      "schema_food_schema_properties",
+      "schema_food_schema_properties_aliases",
+      "schema_food_schema_properties_category",
+      "schema_food_schema_properties_id",
+      "schema_food_schema_properties_serving_g",
+      "schema_food_schema_properties_states",
+      "schema_food_schema_required",
+      "schema_food_schema_schema",
+      "schema_food_schema_serving_g_description",
+      "schema_food_schema_serving_g_type",
+      "schema_food_schema_states_description",
+      "schema_food_schema_states_items",
+      "schema_food_schema_states_type",
+      "schema_food_schema_title",
+      "schema_food_schema_type"
+    ],
+    "1": [
+      "schema_food_schema_en_description",
+      "schema_food_schema_en_type",
+      "schema_food_schema_kn_description",
+      "schema_food_schema_kn_type",
+      "schema_food_schema_ml_description",
+      "schema_food_schema_ml_type",
+      "schema_food_schema_names_description",
+      "schema_food_schema_names_properties",
+      "schema_food_schema_names_required",
+      "schema_food_schema_names_type",
+      "schema_food_schema_properties_en",
+      "schema_food_schema_properties_kn",
+      "schema_food_schema_properties_ml",
+      "schema_food_schema_properties_names",
+      "schema_food_schema_properties_ta",
+      "schema_food_schema_properties_te",
+      "schema_food_schema_ta_description",
+      "schema_food_schema_ta_type",
+      "schema_food_schema_te_description",
+      "schema_food_schema_te_type"
+    ],
+    "2": [
+      "schema_barcode_map_schema",
+      "schema_barcode_map_schema_barcode_type",
+      "schema_barcode_map_schema_confidence_maximum",
+      "schema_barcode_map_schema_confidence_minimum",
+      "schema_barcode_map_schema_confidence_type",
+      "schema_barcode_map_schema_description",
+      "schema_barcode_map_schema_food_id_type",
+      "schema_barcode_map_schema_items",
+      "schema_barcode_map_schema_items_properties",
+      "schema_barcode_map_schema_items_required",
+      "schema_barcode_map_schema_items_type",
+      "schema_barcode_map_schema_properties_barcode",
+      "schema_barcode_map_schema_properties_confidence",
+      "schema_barcode_map_schema_properties_food_id",
+      "schema_barcode_map_schema_schema",
+      "schema_barcode_map_schema_title",
+      "schema_barcode_map_schema_type"
+    ],
+    "3": [
+      "schema_manifest_schema",
+      "schema_manifest_schema_description",
+      "schema_manifest_schema_description_type",
+      "schema_manifest_schema_last_updated_format",
+      "schema_manifest_schema_last_updated_type",
+      "schema_manifest_schema_name_type",
+      "schema_manifest_schema_properties",
+      "schema_manifest_schema_properties_description",
+      "schema_manifest_schema_properties_last_updated",
+      "schema_manifest_schema_properties_name",
+      "schema_manifest_schema_properties_version",
+      "schema_manifest_schema_required",
+      "schema_manifest_schema_schema",
+      "schema_manifest_schema_title",
+      "schema_manifest_schema_type",
+      "schema_manifest_schema_version_description",
+      "schema_manifest_schema_version_type"
+    ],
+    "4": [
+      "schema_search_index_schema",
+      "schema_search_index_schema_category_type",
+      "schema_search_index_schema_description",
+      "schema_search_index_schema_id_type",
+      "schema_search_index_schema_items",
+      "schema_search_index_schema_items_properties",
+      "schema_search_index_schema_items_required",
+      "schema_search_index_schema_items_type",
+      "schema_search_index_schema_properties_category",
+      "schema_search_index_schema_properties_id",
+      "schema_search_index_schema_properties_search_terms",
+      "schema_search_index_schema_schema",
+      "schema_search_index_schema_search_terms_description",
+      "schema_search_index_schema_search_terms_items",
+      "schema_search_index_schema_search_terms_type",
+      "schema_search_index_schema_title",
+      "schema_search_index_schema_type"
+    ],
+    "5": [
+      "scripts_generate_index",
+      "scripts_generate_index_allfoods",
+      "scripts_generate_index_commondir",
+      "scripts_generate_index_foodsdir",
+      "scripts_generate_index_fs",
+      "scripts_generate_index_loaddir",
+      "scripts_generate_index_outputfile",
+      "scripts_generate_index_path",
+      "scripts_index_engine",
+      "scripts_index_engine_commondir",
+      "scripts_index_engine_foodsdir",
+      "scripts_index_engine_fs",
+      "scripts_index_engine_generateindex",
+      "scripts_index_engine_normalize",
+      "scripts_index_engine_outputfile",
+      "scripts_index_engine_path",
+      "search_index"
+    ],
+    "6": [
+      "foods_telangana",
+      "manifest",
+      "manifest_description",
+      "manifest_last_updated",
+      "manifest_license",
+      "manifest_name",
+      "manifest_version",
+      "scripts_verify_all",
+      "scripts_verify_all_commonfiles",
+      "scripts_verify_all_fs",
+      "scripts_verify_all_indexdata",
+      "scripts_verify_all_path",
+      "scripts_verify_all_processfile",
+      "scripts_verify_all_results",
+      "scripts_verify_all_shuffledstates",
+      "scripts_verify_all_statefiles"
+    ],
+    "7": [
+      "schema_food_schema_calories_type",
+      "schema_food_schema_carbs_type",
+      "schema_food_schema_fat_type",
+      "schema_food_schema_fiber_type",
+      "schema_food_schema_nutrition_properties",
+      "schema_food_schema_nutrition_required",
+      "schema_food_schema_nutrition_type",
+      "schema_food_schema_properties_calories",
+      "schema_food_schema_properties_carbs",
+      "schema_food_schema_properties_fat",
+      "schema_food_schema_properties_fiber",
+      "schema_food_schema_properties_nutrition",
+      "schema_food_schema_properties_protein",
+      "schema_food_schema_protein_type"
+    ],
+    "8": [
+      "scripts_audit",
+      "scripts_audit_addformats",
+      "scripts_audit_ajv",
+      "scripts_audit_aliasmap",
+      "scripts_audit_allfoods",
+      "scripts_audit_auditreport",
+      "scripts_audit_directories",
+      "scripts_audit_fs",
+      "scripts_audit_idmap",
+      "scripts_audit_issues",
+      "scripts_audit_logissue",
+      "scripts_audit_path",
+      "scripts_audit_schema",
+      "scripts_audit_validate"
+    ],
+    "9": [
+      "schema_food_schema_metadata_properties",
+      "schema_food_schema_metadata_required",
+      "schema_food_schema_metadata_type",
+      "schema_food_schema_properties_metadata",
+      "schema_food_schema_properties_source",
+      "schema_food_schema_properties_source_reference",
+      "schema_food_schema_properties_source_reliability",
+      "schema_food_schema_source_reference_type",
+      "schema_food_schema_source_reliability_enum",
+      "schema_food_schema_source_reliability_type",
+      "schema_food_schema_source_type"
+    ],
+    "10": [
+      "scripts_validate_data",
+      "scripts_validate_data_addformats",
+      "scripts_validate_data_ajv",
+      "scripts_validate_data_allfoods",
+      "scripts_validate_data_checkduplicates",
+      "scripts_validate_data_directories",
+      "scripts_validate_data_fs",
+      "scripts_validate_data_path",
+      "scripts_validate_data_schema",
+      "scripts_validate_data_validate",
+      "scripts_validate_data_validatedata"
+    ],
+    "11": [
+      "docs_contributing",
+      "docs_contributors",
+      "docs_dataset_guidelines",
+      "docs_source_policy",
+      "rationale_source_reliability"
+    ],
+    "12": [
+      "docs_data_quality_policy",
+      "docs_governance",
+      "docs_maintainers",
+      "docs_multilingual_policy",
+      "docs_review_process"
+    ],
+    "13": [
+      "common_vegetables",
+      "common_vegetables_potato",
+      "foods_andaman_nicobar",
+      "foods_andaman_nicobar_fish_curry_ani"
+    ],
+    "14": [
+      "package",
+      "package_dependencies",
+      "package_dependencies_ajv",
+      "package_dependencies_ajv_formats"
+    ],
+    "15": [
+      "gemini_settings",
+      "gemini_settings_hooks",
+      "gemini_settings_hooks_beforetool"
+    ],
+    "16": [
+      "foods_himachal_pradesh",
+      "foods_himachal_pradesh_siddu"
+    ],
+    "17": [
+      "foods_jammu_kashmir",
+      "foods_jammu_kashmir_rogan_josh"
+    ],
+    "18": [
+      "foods_jharkhand",
+      "foods_jharkhand_dhuska"
+    ],
+    "19": [
+      "foods_karnataka",
+      "foods_karnataka_masala_dosa"
+    ],
+    "20": [
+      "foods_kerala",
+      "foods_kerala_puttu"
+    ],
+    "21": [
+      "api_openapi"
+    ],
+    "22": [
+      "barcode_map"
+    ],
+    "23": [
+      "common_beverages"
+    ],
+    "24": [
+      "common_fruits"
+    ],
+    "25": [
+      "common_grains_and_cereals"
+    ],
+    "26": [
+      "common_gym_staples"
+    ],
+    "27": [
+      "docs_changelog"
+    ],
+    "28": [
+      "docs_code_of_conduct"
+    ],
+    "29": [
+      "docs_nutrition_methodology"
+    ],
+    "30": [
+      "docs_roadmap"
+    ],
+    "31": [
+      "docs_schema_documentation"
+    ],
+    "32": [
+      "docs_search_documentation"
+    ],
+    "33": [
+      "foods_andhra_pradesh"
+    ],
+    "34": [
+      "foods_arunachal_pradesh"
+    ],
+    "35": [
+      "foods_assam"
+    ],
+    "36": [
+      "foods_bihar"
+    ],
+    "37": [
+      "foods_chandigarh"
+    ],
+    "38": [
+      "foods_chhattisgarh"
+    ],
+    "39": [
+      "foods_dadra_nagar_haveli_daman_diu"
+    ],
+    "40": [
+      "foods_delhi"
+    ],
+    "41": [
+      "foods_goa"
+    ],
+    "42": [
+      "foods_gujarat"
+    ],
+    "43": [
+      "foods_haryana"
+    ],
+    "44": [
+      "foods_ladakh"
+    ],
+    "45": [
+      "foods_lakshadweep"
+    ],
+    "46": [
+      "foods_madhya_pradesh"
+    ],
+    "47": [
+      "foods_maharashtra"
+    ],
+    "48": [
+      "foods_manipur"
+    ],
+    "49": [
+      "foods_meghalaya"
+    ],
+    "50": [
+      "foods_mizoram"
+    ],
+    "51": [
+      "foods_nagaland"
+    ],
+    "52": [
+      "foods_odisha"
+    ],
+    "53": [
+      "foods_puducherry"
+    ],
+    "54": [
+      "foods_punjab"
+    ],
+    "55": [
+      "foods_rajasthan"
+    ],
+    "56": [
+      "foods_sikkim"
+    ],
+    "57": [
+      "foods_tamil_nadu"
+    ],
+    "58": [
+      "foods_tripura"
+    ],
+    "59": [
+      "foods_uttar_pradesh"
+    ],
+    "60": [
+      "foods_uttarakhand"
+    ],
+    "61": [
+      "foods_west_bengal"
+    ],
+    "62": [
+      "gemini_doc"
+    ],
+    "63": [
+      "readme_doc"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08333333333333333,
+    "1": 0.1,
+    "2": 0.11764705882352941,
+    "3": 0.11764705882352941,
+    "4": 0.125,
+    "5": 0.11764705882352941,
+    "6": 0.125,
+    "7": 0.14285714285714285,
+    "8": 0.14285714285714285,
+    "9": 0.18181818181818182,
+    "10": 0.18181818181818182,
+    "11": 0.4,
+    "12": 0.4,
+    "13": 0.5,
+    "14": 0.5,
+    "15": 0.6666666666666666,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0
+  },
+  "gods": [
+    {
+      "id": "schema_food_schema_properties_names",
+      "label": "names",
+      "degree": 5
+    },
+    {
+      "id": "schema_barcode_map_schema_properties_confidence",
+      "label": "confidence",
+      "degree": 4
+    },
+    {
+      "id": "schema_food_schema_properties_aliases",
+      "label": "aliases",
+      "degree": 4
+    },
+    {
+      "id": "schema_food_schema_properties_states",
+      "label": "states",
+      "degree": 4
+    },
+    {
+      "id": "schema_food_schema_properties_nutrition",
+      "label": "nutrition",
+      "degree": 4
+    },
+    {
+      "id": "schema_food_schema_properties_metadata",
+      "label": "metadata",
+      "degree": 4
+    },
+    {
+      "id": "schema_search_index_schema_properties_search_terms",
+      "label": "search_terms",
+      "degree": 4
+    },
+    {
+      "id": "schema_food_schema_properties_en",
+      "label": "en",
+      "degree": 3
+    },
+    {
+      "id": "schema_food_schema_properties_ta",
+      "label": "ta",
+      "degree": 3
+    },
+    {
+      "id": "schema_food_schema_properties_ml",
+      "label": "ml",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Dataset Guidelines",
+      "target": "Source Reliability Hierarchy",
+      "source_files": [
+        "docs/DATASET_GUIDELINES.md",
+        "docs/SOURCE_POLICY.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "Contributing Guide",
+      "target": "Contributors",
+      "source_files": [
+        "docs/CONTRIBUTING.md",
+        "docs/CONTRIBUTORS.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "Contributing Guide",
+      "target": "Dataset Guidelines",
+      "source_files": [
+        "docs/CONTRIBUTING.md",
+        "docs/DATASET_GUIDELINES.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "Data Quality Policy",
+      "target": "Maintainers",
+      "source_files": [
+        "docs/DATA_QUALITY_POLICY.md",
+        "docs/MAINTAINERS.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "Data Quality Policy",
+      "target": "Review Process",
+      "source_files": [
+        "docs/DATA_QUALITY_POLICY.md",
+        "docs/REVIEW_PROCESS.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `properties` connect `Community 0` to `Community 9`, `Community 1`, `Community 7`?",
+      "why": "High betweenness centrality (0.090) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `names` connect `Community 1` to `Community 0`?",
+      "why": "High betweenness centrality (0.040) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `BeforeTool`, `fs`, `path` to the rest of the system?",
+      "why": "137 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 3` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

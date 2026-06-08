@@ -1,0 +1,570 @@
+{
+  "nodes": [
+    {
+      "id": "common_vegetables",
+      "label": "Common Vegetables",
+      "file_type": "concept",
+      "source_file": "common/vegetables.json"
+    },
+    {
+      "id": "common_vegetables_potato",
+      "label": "Potato",
+      "file_type": "concept",
+      "source_file": "common/vegetables.json"
+    },
+    {
+      "id": "foods_andaman_nicobar",
+      "label": "Andaman and Nicobar Foods",
+      "file_type": "concept",
+      "source_file": "foods/andaman-nicobar.json"
+    },
+    {
+      "id": "foods_andaman_nicobar_fish_curry_ani",
+      "label": "Andaman Fish Curry",
+      "file_type": "concept",
+      "source_file": "foods/andaman-nicobar.json"
+    },
+    {
+      "id": "foods_himachal_pradesh",
+      "label": "Himachal Pradesh Foods",
+      "file_type": "document",
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_himachal_pradesh_siddu",
+      "label": "Siddu",
+      "file_type": "concept",
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_jammu_kashmir",
+      "label": "Jammu Kashmir Foods",
+      "file_type": "document",
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_jammu_kashmir_rogan_josh",
+      "label": "Rogan Josh",
+      "file_type": "concept",
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_jharkhand",
+      "label": "Jharkhand Foods",
+      "file_type": "document",
+      "source_file": "foods/jharkhand.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_jharkhand_dhuska",
+      "label": "Dhuska",
+      "file_type": "concept",
+      "source_file": "foods/jharkhand.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_karnataka",
+      "label": "Karnataka Foods",
+      "file_type": "document",
+      "source_file": "foods/karnataka.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_karnataka_masala_dosa",
+      "label": "Masala Dosa",
+      "file_type": "concept",
+      "source_file": "foods/karnataka.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_kerala",
+      "label": "Kerala Foods",
+      "file_type": "document",
+      "source_file": "foods/kerala.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_kerala_puttu",
+      "label": "Puttu",
+      "file_type": "concept",
+      "source_file": "foods/kerala.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foods_telangana_data",
+      "label": "telangana.json",
+      "file_type": "concept",
+      "source_file": "foods/telangana.json"
+    },
+    {
+      "id": "foods_tripura_data",
+      "label": "tripura.json",
+      "file_type": "concept",
+      "source_file": "foods/tripura.json"
+    },
+    {
+      "id": "foods_uttar_pradesh_data",
+      "label": "uttar-pradesh.json",
+      "file_type": "concept",
+      "source_file": "foods/uttar-pradesh.json"
+    },
+    {
+      "id": "foods_uttarakhand_data",
+      "label": "uttarakhand.json",
+      "file_type": "concept",
+      "source_file": "foods/uttarakhand.json"
+    },
+    {
+      "id": "foods_west_bengal_data",
+      "label": "west-bengal.json",
+      "file_type": "concept",
+      "source_file": "foods/west-bengal.json"
+    },
+    {
+      "id": "scripts_audit_main",
+      "label": "audit.js",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js"
+    },
+    {
+      "id": "scripts_verify_all_main",
+      "label": "verify-all.js",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js"
+    },
+    {
+      "id": "scripts_generate_index_main",
+      "label": "generate-index.js",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js"
+    },
+    {
+      "id": "scripts_index_engine_main",
+      "label": "index-engine.js",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js"
+    },
+    {
+      "id": "scripts_validate_data_main",
+      "label": "validate-data.js",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js"
+    },
+    {
+      "id": "schema_food_schema",
+      "label": "food.schema.json",
+      "file_type": "concept",
+      "source_file": "schema/food.schema.json"
+    },
+    {
+      "id": "schema_barcode_map_schema",
+      "label": "barcode-map.schema.json",
+      "file_type": "concept",
+      "source_file": "schema/barcode-map.schema.json"
+    },
+    {
+      "id": "schema_manifest_schema",
+      "label": "manifest.schema.json",
+      "file_type": "concept",
+      "source_file": "schema/manifest.schema.json"
+    },
+    {
+      "id": "schema_search_index_schema",
+      "label": "search-index.schema.json",
+      "file_type": "concept",
+      "source_file": "schema/search-index.schema.json"
+    },
+    {
+      "id": "manifest_data",
+      "label": "manifest.json",
+      "file_type": "code",
+      "source_file": "manifest.json"
+    },
+    {
+      "id": "package_data",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json"
+    },
+    {
+      "id": "search_index_data",
+      "label": "search-index.json",
+      "file_type": "code",
+      "source_file": "search-index.json"
+    },
+    {
+      "id": "gemini_doc",
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md"
+    },
+    {
+      "id": "readme_doc",
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md"
+    },
+    {
+      "id": "api_openapi",
+      "label": "Iron Foods API",
+      "file_type": "document",
+      "source_file": "api/openapi.yaml"
+    },
+    {
+      "id": "docs_changelog",
+      "label": "Changelog",
+      "file_type": "document",
+      "source_file": "docs/CHANGELOG.md"
+    },
+    {
+      "id": "docs_code_of_conduct",
+      "label": "Code of Conduct",
+      "file_type": "document",
+      "source_file": "docs/CODE_OF_CONDUCT.md"
+    },
+    {
+      "id": "docs_contributing",
+      "label": "Contributing Guide",
+      "file_type": "document",
+      "source_file": "docs/CONTRIBUTING.md"
+    },
+    {
+      "id": "docs_contributors",
+      "label": "Contributors",
+      "file_type": "document",
+      "source_file": "docs/CONTRIBUTORS.md"
+    },
+    {
+      "id": "docs_dataset_guidelines",
+      "label": "Dataset Guidelines",
+      "file_type": "document",
+      "source_file": "docs/DATASET_GUIDELINES.md"
+    },
+    {
+      "id": "docs_data_quality_policy",
+      "label": "Data Quality Policy",
+      "file_type": "document",
+      "source_file": "docs/DATA_QUALITY_POLICY.md"
+    },
+    {
+      "id": "docs_governance",
+      "label": "Governance",
+      "file_type": "document",
+      "source_file": "docs/GOVERNANCE.md"
+    },
+    {
+      "id": "docs_maintainers",
+      "label": "Maintainers",
+      "file_type": "document",
+      "source_file": "docs/MAINTAINERS.md"
+    },
+    {
+      "id": "docs_multilingual_policy",
+      "label": "Multilingual Policy",
+      "file_type": "document",
+      "source_file": "docs/MULTILINGUAL_POLICY.md"
+    },
+    {
+      "id": "docs_nutrition_methodology",
+      "label": "Nutrition Methodology",
+      "file_type": "document",
+      "source_file": "docs/NUTRITION_METHODOLOGY.md"
+    },
+    {
+      "id": "docs_review_process",
+      "label": "Review Process",
+      "file_type": "document",
+      "source_file": "docs/REVIEW_PROCESS.md"
+    },
+    {
+      "id": "docs_roadmap",
+      "label": "Roadmap",
+      "file_type": "document",
+      "source_file": "docs/ROADMAP.md"
+    },
+    {
+      "id": "docs_schema_documentation",
+      "label": "Schema Documentation",
+      "file_type": "document",
+      "source_file": "docs/SCHEMA_DOCUMENTATION.md"
+    },
+    {
+      "id": "docs_search_documentation",
+      "label": "Search Documentation",
+      "file_type": "document",
+      "source_file": "docs/SEARCH_DOCUMENTATION.md"
+    },
+    {
+      "id": "docs_source_policy",
+      "label": "Source Policy",
+      "file_type": "document",
+      "source_file": "docs/SOURCE_POLICY.md"
+    },
+    {
+      "id": "rationale_source_reliability",
+      "label": "Source Reliability Hierarchy",
+      "file_type": "rationale",
+      "source_file": "docs/SOURCE_POLICY.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "common_vegetables_potato",
+      "target": "common_vegetables",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "common/vegetables.json",
+      "weight": 1.0
+    },
+    {
+      "source": "foods_andaman_nicobar_fish_curry_ani",
+      "target": "foods_andaman_nicobar",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/andaman-nicobar.json",
+      "weight": 1.0
+    },
+    {
+      "source": "common_vegetables",
+      "target": "foods_andaman_nicobar",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "common/vegetables.json",
+      "weight": 1.0
+    },
+    {
+      "source": "foods_himachal_pradesh_siddu",
+      "target": "foods_himachal_pradesh",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foods_jammu_kashmir_rogan_josh",
+      "target": "foods_jammu_kashmir",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foods_jharkhand_dhuska",
+      "target": "foods_jharkhand",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/jharkhand.json",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foods_karnataka_masala_dosa",
+      "target": "foods_karnataka",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/karnataka.json",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foods_kerala_puttu",
+      "target": "foods_kerala",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/kerala.json",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_audit_main",
+      "target": "schema_food_schema",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "iron-foods/scripts/audit.js"
+    },
+    {
+      "source": "scripts_verify_all_main",
+      "target": "foods_telangana_data",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "iron-foods/scripts/verify-all.js"
+    },
+    {
+      "source": "scripts_generate_index_main",
+      "target": "search_index_data",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/generate-index.js"
+    },
+    {
+      "source": "scripts_index_engine_main",
+      "target": "search_index_data",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/index-engine.js"
+    },
+    {
+      "source": "manifest_data",
+      "target": "foods_telangana_data",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "manifest.json"
+    },
+    {
+      "source": "docs_contributing",
+      "target": "docs_dataset_guidelines",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/CONTRIBUTING.md"
+    },
+    {
+      "source": "docs_contributing",
+      "target": "docs_contributors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/CONTRIBUTING.md"
+    },
+    {
+      "source": "docs_governance",
+      "target": "docs_review_process",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/GOVERNANCE.md"
+    },
+    {
+      "source": "docs_maintainers",
+      "target": "docs_data_quality_policy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/MAINTAINERS.md"
+    },
+    {
+      "source": "docs_multilingual_policy",
+      "target": "docs_review_process",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/MULTILINGUAL_POLICY.md"
+    },
+    {
+      "source": "docs_review_process",
+      "target": "docs_data_quality_policy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/REVIEW_PROCESS.md"
+    },
+    {
+      "source": "docs_source_policy",
+      "target": "rationale_source_reliability",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "docs/SOURCE_POLICY.md"
+    },
+    {
+      "source": "docs_dataset_guidelines",
+      "target": "rationale_source_reliability",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "docs/DATASET_GUIDELINES.md"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "food_data_files",
+      "label": "Food Data Files",
+      "nodes": [
+        "foods_telangana_data",
+        "foods_tripura_data",
+        "foods_uttar_pradesh_data",
+        "foods_uttarakhand_data",
+        "foods_west_bengal_data"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "manifest.json"
+    },
+    {
+      "id": "governance_ecosystem",
+      "label": "Governance & Quality Ecosystem",
+      "nodes": [
+        "docs_governance",
+        "docs_review_process",
+        "docs_data_quality_policy",
+        "docs_maintainers"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "docs/GOVERNANCE.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

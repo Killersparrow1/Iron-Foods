@@ -1,0 +1,4497 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "food_data_files",
+        "label": "Food Data Files",
+        "nodes": [
+          "foods_telangana_data",
+          "foods_tripura_data",
+          "foods_uttar_pradesh_data",
+          "foods_uttarakhand_data",
+          "foods_west_bengal_data"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "manifest.json"
+      },
+      {
+        "id": "governance_ecosystem",
+        "label": "Governance & Quality Ecosystem",
+        "nodes": [
+          "docs_governance",
+          "docs_review_process",
+          "docs_data_quality_policy",
+          "docs_maintainers"
+        ],
+        "relation": "participate_in",
+        "confidence": "INFERRED",
+        "confidence_score": 0.85,
+        "source_file": "docs/GOVERNANCE.md"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "settings.json",
+      "file_type": "code",
+      "source_file": ".gemini/settings.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "gemini_settings",
+      "community": 15,
+      "norm_label": "settings.json"
+    },
+    {
+      "label": "hooks",
+      "file_type": "code",
+      "source_file": ".gemini/settings.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "gemini_settings_hooks",
+      "community": 15,
+      "norm_label": "hooks"
+    },
+    {
+      "label": "BeforeTool",
+      "file_type": "code",
+      "source_file": ".gemini/settings.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "gemini_settings_hooks_beforetool",
+      "community": 15,
+      "norm_label": "beforetool"
+    },
+    {
+      "label": "barcode-map.json",
+      "file_type": "code",
+      "source_file": "barcode-map.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "barcode_map",
+      "community": 22,
+      "norm_label": "barcode-map.json"
+    },
+    {
+      "label": "beverages.json",
+      "file_type": "code",
+      "source_file": "common/beverages.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "common_beverages",
+      "community": 23,
+      "norm_label": "beverages.json"
+    },
+    {
+      "label": "fruits.json",
+      "file_type": "code",
+      "source_file": "common/fruits.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "common_fruits",
+      "community": 24,
+      "norm_label": "fruits.json"
+    },
+    {
+      "label": "grains-and-cereals.json",
+      "file_type": "code",
+      "source_file": "common/grains-and-cereals.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "common_grains_and_cereals",
+      "community": 25,
+      "norm_label": "grains-and-cereals.json"
+    },
+    {
+      "label": "gym-staples.json",
+      "file_type": "code",
+      "source_file": "common/gym-staples.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "common_gym_staples",
+      "community": 26,
+      "norm_label": "gym-staples.json"
+    },
+    {
+      "label": "vegetables.json",
+      "file_type": "code",
+      "source_file": "common/vegetables.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "common_vegetables",
+      "community": 13,
+      "norm_label": "vegetables.json"
+    },
+    {
+      "label": "andaman-nicobar.json",
+      "file_type": "code",
+      "source_file": "foods/andaman-nicobar.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_andaman_nicobar",
+      "community": 13,
+      "norm_label": "andaman-nicobar.json"
+    },
+    {
+      "label": "andhra-pradesh.json",
+      "file_type": "code",
+      "source_file": "foods/andhra-pradesh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_andhra_pradesh",
+      "community": 33,
+      "norm_label": "andhra-pradesh.json"
+    },
+    {
+      "label": "arunachal-pradesh.json",
+      "file_type": "code",
+      "source_file": "foods/arunachal-pradesh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_arunachal_pradesh",
+      "community": 34,
+      "norm_label": "arunachal-pradesh.json"
+    },
+    {
+      "label": "assam.json",
+      "file_type": "code",
+      "source_file": "foods/assam.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_assam",
+      "community": 35,
+      "norm_label": "assam.json"
+    },
+    {
+      "label": "bihar.json",
+      "file_type": "code",
+      "source_file": "foods/bihar.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_bihar",
+      "community": 36,
+      "norm_label": "bihar.json"
+    },
+    {
+      "label": "chandigarh.json",
+      "file_type": "code",
+      "source_file": "foods/chandigarh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_chandigarh",
+      "community": 37,
+      "norm_label": "chandigarh.json"
+    },
+    {
+      "label": "chhattisgarh.json",
+      "file_type": "code",
+      "source_file": "foods/chhattisgarh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_chhattisgarh",
+      "community": 38,
+      "norm_label": "chhattisgarh.json"
+    },
+    {
+      "label": "dadra-nagar-haveli-daman-diu.json",
+      "file_type": "code",
+      "source_file": "foods/dadra-nagar-haveli-daman-diu.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_dadra_nagar_haveli_daman_diu",
+      "community": 39,
+      "norm_label": "dadra-nagar-haveli-daman-diu.json"
+    },
+    {
+      "label": "delhi.json",
+      "file_type": "code",
+      "source_file": "foods/delhi.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_delhi",
+      "community": 40,
+      "norm_label": "delhi.json"
+    },
+    {
+      "label": "goa.json",
+      "file_type": "code",
+      "source_file": "foods/goa.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_goa",
+      "community": 41,
+      "norm_label": "goa.json"
+    },
+    {
+      "label": "gujarat.json",
+      "file_type": "code",
+      "source_file": "foods/gujarat.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_gujarat",
+      "community": 42,
+      "norm_label": "gujarat.json"
+    },
+    {
+      "label": "haryana.json",
+      "file_type": "code",
+      "source_file": "foods/haryana.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_haryana",
+      "community": 43,
+      "norm_label": "haryana.json"
+    },
+    {
+      "label": "himachal-pradesh.json",
+      "file_type": "code",
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_himachal_pradesh",
+      "community": 16,
+      "norm_label": "himachal-pradesh.json"
+    },
+    {
+      "label": "jammu-kashmir.json",
+      "file_type": "code",
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_jammu_kashmir",
+      "community": 17,
+      "norm_label": "jammu-kashmir.json"
+    },
+    {
+      "label": "jharkhand.json",
+      "file_type": "code",
+      "source_file": "foods/jharkhand.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_jharkhand",
+      "community": 18,
+      "norm_label": "jharkhand.json"
+    },
+    {
+      "label": "karnataka.json",
+      "file_type": "code",
+      "source_file": "foods/karnataka.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_karnataka",
+      "community": 19,
+      "norm_label": "karnataka.json"
+    },
+    {
+      "label": "kerala.json",
+      "file_type": "code",
+      "source_file": "foods/kerala.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_kerala",
+      "community": 20,
+      "norm_label": "kerala.json"
+    },
+    {
+      "label": "ladakh.json",
+      "file_type": "code",
+      "source_file": "foods/ladakh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_ladakh",
+      "community": 44,
+      "norm_label": "ladakh.json"
+    },
+    {
+      "label": "lakshadweep.json",
+      "file_type": "code",
+      "source_file": "foods/lakshadweep.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_lakshadweep",
+      "community": 45,
+      "norm_label": "lakshadweep.json"
+    },
+    {
+      "label": "madhya-pradesh.json",
+      "file_type": "code",
+      "source_file": "foods/madhya-pradesh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_madhya_pradesh",
+      "community": 46,
+      "norm_label": "madhya-pradesh.json"
+    },
+    {
+      "label": "maharashtra.json",
+      "file_type": "code",
+      "source_file": "foods/maharashtra.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_maharashtra",
+      "community": 47,
+      "norm_label": "maharashtra.json"
+    },
+    {
+      "label": "manipur.json",
+      "file_type": "code",
+      "source_file": "foods/manipur.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_manipur",
+      "community": 48,
+      "norm_label": "manipur.json"
+    },
+    {
+      "label": "meghalaya.json",
+      "file_type": "code",
+      "source_file": "foods/meghalaya.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_meghalaya",
+      "community": 49,
+      "norm_label": "meghalaya.json"
+    },
+    {
+      "label": "mizoram.json",
+      "file_type": "code",
+      "source_file": "foods/mizoram.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_mizoram",
+      "community": 50,
+      "norm_label": "mizoram.json"
+    },
+    {
+      "label": "nagaland.json",
+      "file_type": "code",
+      "source_file": "foods/nagaland.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_nagaland",
+      "community": 51,
+      "norm_label": "nagaland.json"
+    },
+    {
+      "label": "odisha.json",
+      "file_type": "code",
+      "source_file": "foods/odisha.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_odisha",
+      "community": 52,
+      "norm_label": "odisha.json"
+    },
+    {
+      "label": "puducherry.json",
+      "file_type": "code",
+      "source_file": "foods/puducherry.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_puducherry",
+      "community": 53,
+      "norm_label": "puducherry.json"
+    },
+    {
+      "label": "punjab.json",
+      "file_type": "code",
+      "source_file": "foods/punjab.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_punjab",
+      "community": 54,
+      "norm_label": "punjab.json"
+    },
+    {
+      "label": "rajasthan.json",
+      "file_type": "code",
+      "source_file": "foods/rajasthan.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_rajasthan",
+      "community": 55,
+      "norm_label": "rajasthan.json"
+    },
+    {
+      "label": "sikkim.json",
+      "file_type": "code",
+      "source_file": "foods/sikkim.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_sikkim",
+      "community": 56,
+      "norm_label": "sikkim.json"
+    },
+    {
+      "label": "tamil-nadu.json",
+      "file_type": "code",
+      "source_file": "foods/tamil-nadu.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_tamil_nadu",
+      "community": 57,
+      "norm_label": "tamil-nadu.json"
+    },
+    {
+      "label": "telangana.json",
+      "file_type": "code",
+      "source_file": "foods/telangana.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_telangana",
+      "community": 6,
+      "norm_label": "telangana.json"
+    },
+    {
+      "label": "tripura.json",
+      "file_type": "code",
+      "source_file": "foods/tripura.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_tripura",
+      "community": 58,
+      "norm_label": "tripura.json"
+    },
+    {
+      "label": "uttar-pradesh.json",
+      "file_type": "code",
+      "source_file": "foods/uttar-pradesh.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_uttar_pradesh",
+      "community": 59,
+      "norm_label": "uttar-pradesh.json"
+    },
+    {
+      "label": "uttarakhand.json",
+      "file_type": "code",
+      "source_file": "foods/uttarakhand.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_uttarakhand",
+      "community": 60,
+      "norm_label": "uttarakhand.json"
+    },
+    {
+      "label": "west-bengal.json",
+      "file_type": "code",
+      "source_file": "foods/west-bengal.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "foods_west_bengal",
+      "community": 61,
+      "norm_label": "west-bengal.json"
+    },
+    {
+      "label": "audit.js",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_audit",
+      "community": 8,
+      "norm_label": "audit.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_audit_fs",
+      "community": 8,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "scripts_audit_path",
+      "community": 8,
+      "norm_label": "path"
+    },
+    {
+      "label": "Ajv",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "scripts_audit_ajv",
+      "community": 8,
+      "norm_label": "ajv"
+    },
+    {
+      "label": "addFormats",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "scripts_audit_addformats",
+      "community": 8,
+      "norm_label": "addformats"
+    },
+    {
+      "label": "schema",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "scripts_audit_schema",
+      "community": 8,
+      "norm_label": "schema"
+    },
+    {
+      "label": "validate",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "scripts_audit_validate",
+      "community": 8,
+      "norm_label": "validate"
+    },
+    {
+      "label": "auditReport",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "scripts_audit_auditreport",
+      "community": 8,
+      "norm_label": "auditreport"
+    },
+    {
+      "label": "issues",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "scripts_audit_issues",
+      "community": 8,
+      "norm_label": "issues"
+    },
+    {
+      "label": "allFoods",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "scripts_audit_allfoods",
+      "community": 8,
+      "norm_label": "allfoods"
+    },
+    {
+      "label": "idMap",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "scripts_audit_idmap",
+      "community": 8,
+      "norm_label": "idmap"
+    },
+    {
+      "label": "aliasMap",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "scripts_audit_aliasmap",
+      "community": 8,
+      "norm_label": "aliasmap"
+    },
+    {
+      "label": "logIssue()",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "scripts_audit_logissue",
+      "community": 8,
+      "norm_label": "logissue()"
+    },
+    {
+      "label": "directories",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "scripts_audit_directories",
+      "community": 8,
+      "norm_label": "directories"
+    },
+    {
+      "label": "verify-all.js",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_verify_all",
+      "community": 6,
+      "norm_label": "verify-all.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_verify_all_fs",
+      "community": 6,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "scripts_verify_all_path",
+      "community": 6,
+      "norm_label": "path"
+    },
+    {
+      "label": "stateFiles",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "scripts_verify_all_statefiles",
+      "community": 6,
+      "norm_label": "statefiles"
+    },
+    {
+      "label": "commonFiles",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "scripts_verify_all_commonfiles",
+      "community": 6,
+      "norm_label": "commonfiles"
+    },
+    {
+      "label": "results",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "scripts_verify_all_results",
+      "community": 6,
+      "norm_label": "results"
+    },
+    {
+      "label": "processFile()",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "scripts_verify_all_processfile",
+      "community": 6,
+      "norm_label": "processfile()"
+    },
+    {
+      "label": "indexData",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L61",
+      "_origin": "ast",
+      "id": "scripts_verify_all_indexdata",
+      "community": 6,
+      "norm_label": "indexdata"
+    },
+    {
+      "label": "shuffledStates",
+      "file_type": "code",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L78",
+      "_origin": "ast",
+      "id": "scripts_verify_all_shuffledstates",
+      "community": 6,
+      "norm_label": "shuffledstates"
+    },
+    {
+      "label": "manifest.json",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "manifest",
+      "community": 6,
+      "norm_label": "manifest.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "manifest_name",
+      "community": 6,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "manifest_version",
+      "community": 6,
+      "norm_label": "version"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "manifest_description",
+      "community": 6,
+      "norm_label": "description"
+    },
+    {
+      "label": "license",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "manifest_license",
+      "community": 6,
+      "norm_label": "license"
+    },
+    {
+      "label": "last_updated",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "manifest_last_updated",
+      "community": 6,
+      "norm_label": "last_updated"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "package",
+      "community": 14,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "package_dependencies",
+      "community": 14,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "ajv",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "package_dependencies_ajv",
+      "community": 14,
+      "norm_label": "ajv"
+    },
+    {
+      "label": "ajv-formats",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "package_dependencies_ajv_formats",
+      "community": 14,
+      "norm_label": "ajv-formats"
+    },
+    {
+      "label": "barcode-map.schema.json",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema",
+      "community": 2,
+      "norm_label": "barcode-map.schema.json"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_schema",
+      "community": 2,
+      "norm_label": "$schema"
+    },
+    {
+      "label": "title",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_title",
+      "community": 2,
+      "norm_label": "title"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_description",
+      "community": 2,
+      "norm_label": "description"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_type",
+      "community": 2,
+      "norm_label": "type"
+    },
+    {
+      "label": "items",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_items",
+      "community": 2,
+      "norm_label": "items"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_items_type",
+      "community": 2,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_items_properties",
+      "community": 2,
+      "norm_label": "properties"
+    },
+    {
+      "label": "barcode",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_properties_barcode",
+      "community": 2,
+      "norm_label": "barcode"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_barcode_type",
+      "community": 2,
+      "norm_label": "type"
+    },
+    {
+      "label": "food_id",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_properties_food_id",
+      "community": 2,
+      "norm_label": "food_id"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_food_id_type",
+      "community": 2,
+      "norm_label": "type"
+    },
+    {
+      "label": "confidence",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_properties_confidence",
+      "community": 2,
+      "norm_label": "confidence"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_confidence_type",
+      "community": 2,
+      "norm_label": "type"
+    },
+    {
+      "label": "minimum",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_confidence_minimum",
+      "community": 2,
+      "norm_label": "minimum"
+    },
+    {
+      "label": "maximum",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_confidence_maximum",
+      "community": 2,
+      "norm_label": "maximum"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "schema_barcode_map_schema_items_required",
+      "community": 2,
+      "norm_label": "required"
+    },
+    {
+      "label": "food.schema.json",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schema_food_schema",
+      "community": 0,
+      "norm_label": "food.schema.json"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "schema_food_schema_schema",
+      "community": 0,
+      "norm_label": "$schema"
+    },
+    {
+      "label": "title",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "schema_food_schema_title",
+      "community": 0,
+      "norm_label": "title"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "schema_food_schema_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "schema_food_schema_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties",
+      "community": 0,
+      "norm_label": "properties"
+    },
+    {
+      "label": "id",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_id",
+      "community": 0,
+      "norm_label": "id"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_food_schema_id_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_food_schema_id_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "names",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_names",
+      "community": 1,
+      "norm_label": "names"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_food_schema_names_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_food_schema_names_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_food_schema_names_properties",
+      "community": 1,
+      "norm_label": "properties"
+    },
+    {
+      "label": "en",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_en",
+      "community": 1,
+      "norm_label": "en"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "schema_food_schema_en_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "schema_food_schema_en_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "ta",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_ta",
+      "community": 1,
+      "norm_label": "ta"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "schema_food_schema_ta_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "schema_food_schema_ta_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "ml",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_ml",
+      "community": 1,
+      "norm_label": "ml"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "schema_food_schema_ml_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "schema_food_schema_ml_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "kn",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_kn",
+      "community": 1,
+      "norm_label": "kn"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "schema_food_schema_kn_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "schema_food_schema_kn_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "te",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_te",
+      "community": 1,
+      "norm_label": "te"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "schema_food_schema_te_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "schema_food_schema_te_description",
+      "community": 1,
+      "norm_label": "description"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "schema_food_schema_names_required",
+      "community": 1,
+      "norm_label": "required"
+    },
+    {
+      "label": "aliases",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_aliases",
+      "community": 0,
+      "norm_label": "aliases"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "schema_food_schema_aliases_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "items",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "schema_food_schema_aliases_items",
+      "community": 0,
+      "norm_label": "items"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "schema_food_schema_items_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "schema_food_schema_aliases_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "states",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_states",
+      "community": 0,
+      "norm_label": "states"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "schema_food_schema_states_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "items",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "schema_food_schema_states_items",
+      "community": 0,
+      "norm_label": "items"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "schema_food_schema_states_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "category",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_category",
+      "community": 0,
+      "norm_label": "category"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "schema_food_schema_category_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "schema_food_schema_category_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "serving_g",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_serving_g",
+      "community": 0,
+      "norm_label": "serving_g"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "schema_food_schema_serving_g_type",
+      "community": 0,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "schema_food_schema_serving_g_description",
+      "community": 0,
+      "norm_label": "description"
+    },
+    {
+      "label": "nutrition",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_nutrition",
+      "community": 7,
+      "norm_label": "nutrition"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L25",
+      "_origin": "ast",
+      "id": "schema_food_schema_nutrition_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "schema_food_schema_nutrition_properties",
+      "community": 7,
+      "norm_label": "properties"
+    },
+    {
+      "label": "calories",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_calories",
+      "community": 7,
+      "norm_label": "calories"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "schema_food_schema_calories_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "protein",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_protein",
+      "community": 7,
+      "norm_label": "protein"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "schema_food_schema_protein_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "carbs",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_carbs",
+      "community": 7,
+      "norm_label": "carbs"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L29",
+      "_origin": "ast",
+      "id": "schema_food_schema_carbs_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "fat",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_fat",
+      "community": 7,
+      "norm_label": "fat"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "schema_food_schema_fat_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "fiber",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_fiber",
+      "community": 7,
+      "norm_label": "fiber"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "schema_food_schema_fiber_type",
+      "community": 7,
+      "norm_label": "type"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "schema_food_schema_nutrition_required",
+      "community": 7,
+      "norm_label": "required"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_metadata",
+      "community": 9,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "schema_food_schema_metadata_type",
+      "community": 9,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "schema_food_schema_metadata_properties",
+      "community": 9,
+      "norm_label": "properties"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_source",
+      "community": 9,
+      "norm_label": "source"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "schema_food_schema_source_type",
+      "community": 9,
+      "norm_label": "type"
+    },
+    {
+      "label": "source_reference",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L39",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_source_reference",
+      "community": 9,
+      "norm_label": "source_reference"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L39",
+      "_origin": "ast",
+      "id": "schema_food_schema_source_reference_type",
+      "community": 9,
+      "norm_label": "type"
+    },
+    {
+      "label": "source_reliability",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "schema_food_schema_properties_source_reliability",
+      "community": 9,
+      "norm_label": "source_reliability"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "schema_food_schema_source_reliability_type",
+      "community": 9,
+      "norm_label": "type"
+    },
+    {
+      "label": "enum",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "schema_food_schema_source_reliability_enum",
+      "community": 9,
+      "norm_label": "enum"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "schema_food_schema_metadata_required",
+      "community": 9,
+      "norm_label": "required"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "schema_food_schema_required",
+      "community": 0,
+      "norm_label": "required"
+    },
+    {
+      "label": "manifest.schema.json",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schema_manifest_schema",
+      "community": 3,
+      "norm_label": "manifest.schema.json"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_schema",
+      "community": 3,
+      "norm_label": "$schema"
+    },
+    {
+      "label": "title",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_title",
+      "community": 3,
+      "norm_label": "title"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_description",
+      "community": 3,
+      "norm_label": "description"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_type",
+      "community": 3,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_properties",
+      "community": 3,
+      "norm_label": "properties"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_properties_name",
+      "community": 3,
+      "norm_label": "name"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_name_type",
+      "community": 3,
+      "norm_label": "type"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_properties_version",
+      "community": 3,
+      "norm_label": "version"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_version_type",
+      "community": 3,
+      "norm_label": "type"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_version_description",
+      "community": 3,
+      "norm_label": "description"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_properties_description",
+      "community": 3,
+      "norm_label": "description"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_description_type",
+      "community": 3,
+      "norm_label": "type"
+    },
+    {
+      "label": "last_updated",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_properties_last_updated",
+      "community": 3,
+      "norm_label": "last_updated"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_last_updated_type",
+      "community": 3,
+      "norm_label": "type"
+    },
+    {
+      "label": "format",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_last_updated_format",
+      "community": 3,
+      "norm_label": "format"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "schema_manifest_schema_required",
+      "community": 3,
+      "norm_label": "required"
+    },
+    {
+      "label": "search-index.schema.json",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "schema_search_index_schema",
+      "community": 4,
+      "norm_label": "search-index.schema.json"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_schema",
+      "community": 4,
+      "norm_label": "$schema"
+    },
+    {
+      "label": "title",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_title",
+      "community": 4,
+      "norm_label": "title"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_description",
+      "community": 4,
+      "norm_label": "description"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_type",
+      "community": 4,
+      "norm_label": "type"
+    },
+    {
+      "label": "items",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_items",
+      "community": 4,
+      "norm_label": "items"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_items_type",
+      "community": 4,
+      "norm_label": "type"
+    },
+    {
+      "label": "properties",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_items_properties",
+      "community": 4,
+      "norm_label": "properties"
+    },
+    {
+      "label": "id",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_properties_id",
+      "community": 4,
+      "norm_label": "id"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_id_type",
+      "community": 4,
+      "norm_label": "type"
+    },
+    {
+      "label": "search_terms",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_properties_search_terms",
+      "community": 4,
+      "norm_label": "search_terms"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_search_terms_type",
+      "community": 4,
+      "norm_label": "type"
+    },
+    {
+      "label": "items",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_search_terms_items",
+      "community": 4,
+      "norm_label": "items"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_search_terms_description",
+      "community": 4,
+      "norm_label": "description"
+    },
+    {
+      "label": "category",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_properties_category",
+      "community": 4,
+      "norm_label": "category"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_category_type",
+      "community": 4,
+      "norm_label": "type"
+    },
+    {
+      "label": "required",
+      "file_type": "code",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "schema_search_index_schema_items_required",
+      "community": 4,
+      "norm_label": "required"
+    },
+    {
+      "label": "generate-index.js",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_generate_index",
+      "community": 5,
+      "norm_label": "generate-index.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_generate_index_fs",
+      "community": 5,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "scripts_generate_index_path",
+      "community": 5,
+      "norm_label": "path"
+    },
+    {
+      "label": "foodsDir",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "scripts_generate_index_foodsdir",
+      "community": 5,
+      "norm_label": "foodsdir"
+    },
+    {
+      "label": "commonDir",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "scripts_generate_index_commondir",
+      "community": 5,
+      "norm_label": "commondir"
+    },
+    {
+      "label": "outputFile",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "scripts_generate_index_outputfile",
+      "community": 5,
+      "norm_label": "outputfile"
+    },
+    {
+      "label": "allFoods",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "scripts_generate_index_allfoods",
+      "community": 5,
+      "norm_label": "allfoods"
+    },
+    {
+      "label": "loadDir()",
+      "file_type": "code",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "scripts_generate_index_loaddir",
+      "community": 5,
+      "norm_label": "loaddir()"
+    },
+    {
+      "label": "index-engine.js",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_index_engine",
+      "community": 5,
+      "norm_label": "index-engine.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_index_engine_fs",
+      "community": 5,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "scripts_index_engine_path",
+      "community": 5,
+      "norm_label": "path"
+    },
+    {
+      "label": "foodsDir",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "scripts_index_engine_foodsdir",
+      "community": 5,
+      "norm_label": "foodsdir"
+    },
+    {
+      "label": "commonDir",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "scripts_index_engine_commondir",
+      "community": 5,
+      "norm_label": "commondir"
+    },
+    {
+      "label": "outputFile",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "scripts_index_engine_outputfile",
+      "community": 5,
+      "norm_label": "outputfile"
+    },
+    {
+      "label": "normalize()",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "scripts_index_engine_normalize",
+      "community": 5,
+      "norm_label": "normalize()"
+    },
+    {
+      "label": "generateIndex()",
+      "file_type": "code",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "scripts_index_engine_generateindex",
+      "community": 5,
+      "norm_label": "generateindex()"
+    },
+    {
+      "label": "validate-data.js",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_validate_data",
+      "community": 10,
+      "norm_label": "validate-data.js"
+    },
+    {
+      "label": "fs",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "scripts_validate_data_fs",
+      "community": 10,
+      "norm_label": "fs"
+    },
+    {
+      "label": "path",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "scripts_validate_data_path",
+      "community": 10,
+      "norm_label": "path"
+    },
+    {
+      "label": "Ajv",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "scripts_validate_data_ajv",
+      "community": 10,
+      "norm_label": "ajv"
+    },
+    {
+      "label": "addFormats",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "scripts_validate_data_addformats",
+      "community": 10,
+      "norm_label": "addformats"
+    },
+    {
+      "label": "schema",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "scripts_validate_data_schema",
+      "community": 10,
+      "norm_label": "schema"
+    },
+    {
+      "label": "validate",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "scripts_validate_data_validate",
+      "community": 10,
+      "norm_label": "validate"
+    },
+    {
+      "label": "allFoods",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "scripts_validate_data_allfoods",
+      "community": 10,
+      "norm_label": "allfoods"
+    },
+    {
+      "label": "validateData()",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "scripts_validate_data_validatedata",
+      "community": 10,
+      "norm_label": "validatedata()"
+    },
+    {
+      "label": "checkDuplicates()",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L33",
+      "_origin": "ast",
+      "id": "scripts_validate_data_checkduplicates",
+      "community": 10,
+      "norm_label": "checkduplicates()"
+    },
+    {
+      "label": "directories",
+      "file_type": "code",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "scripts_validate_data_directories",
+      "community": 10,
+      "norm_label": "directories"
+    },
+    {
+      "label": "search-index.json",
+      "file_type": "code",
+      "source_file": "search-index.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "search_index",
+      "community": 5,
+      "norm_label": "search-index.json"
+    },
+    {
+      "label": "Potato",
+      "file_type": "concept",
+      "source_file": "common/vegetables.json",
+      "id": "common_vegetables_potato",
+      "community": 13,
+      "norm_label": "potato"
+    },
+    {
+      "label": "Andaman Fish Curry",
+      "file_type": "concept",
+      "source_file": "foods/andaman-nicobar.json",
+      "id": "foods_andaman_nicobar_fish_curry_ani",
+      "community": 13,
+      "norm_label": "andaman fish curry"
+    },
+    {
+      "label": "Siddu",
+      "file_type": "concept",
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "foods_himachal_pradesh_siddu",
+      "community": 16,
+      "norm_label": "siddu"
+    },
+    {
+      "label": "Rogan Josh",
+      "file_type": "concept",
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "foods_jammu_kashmir_rogan_josh",
+      "community": 17,
+      "norm_label": "rogan josh"
+    },
+    {
+      "label": "Dhuska",
+      "file_type": "concept",
+      "source_file": "foods/jharkhand.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "foods_jharkhand_dhuska",
+      "community": 18,
+      "norm_label": "dhuska"
+    },
+    {
+      "label": "Masala Dosa",
+      "file_type": "concept",
+      "source_file": "foods/karnataka.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "foods_karnataka_masala_dosa",
+      "community": 19,
+      "norm_label": "masala dosa"
+    },
+    {
+      "label": "Puttu",
+      "file_type": "concept",
+      "source_file": "foods/kerala.json",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "foods_kerala_puttu",
+      "community": 20,
+      "norm_label": "puttu"
+    },
+    {
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "id": "gemini_doc",
+      "community": 62,
+      "norm_label": "gemini.md"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "id": "readme_doc",
+      "community": 63,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Iron Foods API",
+      "file_type": "document",
+      "source_file": "api/openapi.yaml",
+      "id": "api_openapi",
+      "community": 21,
+      "norm_label": "iron foods api"
+    },
+    {
+      "label": "Changelog",
+      "file_type": "document",
+      "source_file": "docs/CHANGELOG.md",
+      "id": "docs_changelog",
+      "community": 27,
+      "norm_label": "changelog"
+    },
+    {
+      "label": "Code of Conduct",
+      "file_type": "document",
+      "source_file": "docs/CODE_OF_CONDUCT.md",
+      "id": "docs_code_of_conduct",
+      "community": 28,
+      "norm_label": "code of conduct"
+    },
+    {
+      "label": "Contributing Guide",
+      "file_type": "document",
+      "source_file": "docs/CONTRIBUTING.md",
+      "id": "docs_contributing",
+      "community": 11,
+      "norm_label": "contributing guide"
+    },
+    {
+      "label": "Contributors",
+      "file_type": "document",
+      "source_file": "docs/CONTRIBUTORS.md",
+      "id": "docs_contributors",
+      "community": 11,
+      "norm_label": "contributors"
+    },
+    {
+      "label": "Dataset Guidelines",
+      "file_type": "document",
+      "source_file": "docs/DATASET_GUIDELINES.md",
+      "id": "docs_dataset_guidelines",
+      "community": 11,
+      "norm_label": "dataset guidelines"
+    },
+    {
+      "label": "Data Quality Policy",
+      "file_type": "document",
+      "source_file": "docs/DATA_QUALITY_POLICY.md",
+      "id": "docs_data_quality_policy",
+      "community": 12,
+      "norm_label": "data quality policy"
+    },
+    {
+      "label": "Governance",
+      "file_type": "document",
+      "source_file": "docs/GOVERNANCE.md",
+      "id": "docs_governance",
+      "community": 12,
+      "norm_label": "governance"
+    },
+    {
+      "label": "Maintainers",
+      "file_type": "document",
+      "source_file": "docs/MAINTAINERS.md",
+      "id": "docs_maintainers",
+      "community": 12,
+      "norm_label": "maintainers"
+    },
+    {
+      "label": "Multilingual Policy",
+      "file_type": "document",
+      "source_file": "docs/MULTILINGUAL_POLICY.md",
+      "id": "docs_multilingual_policy",
+      "community": 12,
+      "norm_label": "multilingual policy"
+    },
+    {
+      "label": "Nutrition Methodology",
+      "file_type": "document",
+      "source_file": "docs/NUTRITION_METHODOLOGY.md",
+      "id": "docs_nutrition_methodology",
+      "community": 29,
+      "norm_label": "nutrition methodology"
+    },
+    {
+      "label": "Review Process",
+      "file_type": "document",
+      "source_file": "docs/REVIEW_PROCESS.md",
+      "id": "docs_review_process",
+      "community": 12,
+      "norm_label": "review process"
+    },
+    {
+      "label": "Roadmap",
+      "file_type": "document",
+      "source_file": "docs/ROADMAP.md",
+      "id": "docs_roadmap",
+      "community": 30,
+      "norm_label": "roadmap"
+    },
+    {
+      "label": "Schema Documentation",
+      "file_type": "document",
+      "source_file": "docs/SCHEMA_DOCUMENTATION.md",
+      "id": "docs_schema_documentation",
+      "community": 31,
+      "norm_label": "schema documentation"
+    },
+    {
+      "label": "Search Documentation",
+      "file_type": "document",
+      "source_file": "docs/SEARCH_DOCUMENTATION.md",
+      "id": "docs_search_documentation",
+      "community": 32,
+      "norm_label": "search documentation"
+    },
+    {
+      "label": "Source Policy",
+      "file_type": "document",
+      "source_file": "docs/SOURCE_POLICY.md",
+      "id": "docs_source_policy",
+      "community": 11,
+      "norm_label": "source policy"
+    },
+    {
+      "label": "Source Reliability Hierarchy",
+      "file_type": "rationale",
+      "source_file": "docs/SOURCE_POLICY.md",
+      "id": "rationale_source_reliability",
+      "community": 11,
+      "norm_label": "source reliability hierarchy"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".gemini/settings.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "gemini_settings",
+      "target": "gemini_settings_hooks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".gemini/settings.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "gemini_settings_hooks",
+      "target": "gemini_settings_hooks_beforetool",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "common/vegetables.json",
+      "weight": 1.0,
+      "source": "common_vegetables",
+      "target": "foods_andaman_nicobar"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "common/vegetables.json",
+      "weight": 1.0,
+      "source": "common_vegetables_potato",
+      "target": "common_vegetables"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/andaman-nicobar.json",
+      "weight": 1.0,
+      "source": "foods_andaman_nicobar_fish_curry_ani",
+      "target": "foods_andaman_nicobar"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/himachal-pradesh.json",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "foods_himachal_pradesh_siddu",
+      "target": "foods_himachal_pradesh"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/jammu-kashmir.json",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "foods_jammu_kashmir_rogan_josh",
+      "target": "foods_jammu_kashmir"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/jharkhand.json",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "foods_jharkhand_dhuska",
+      "target": "foods_jharkhand"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/karnataka.json",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "foods_karnataka_masala_dosa",
+      "target": "foods_karnataka"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "foods/kerala.json",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "foods_kerala_puttu",
+      "target": "foods_kerala"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "manifest.json",
+      "source": "manifest",
+      "target": "foods_telangana"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source": "scripts_verify_all",
+      "target": "foods_telangana"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_addformats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_ajv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_aliasmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_allfoods",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_auditreport",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_directories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_idmap",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_issues",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_logissue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/audit.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "scripts_audit",
+      "target": "scripts_audit_validate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "iron-foods/scripts/audit.js",
+      "source": "scripts_audit",
+      "target": "schema_food_schema"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_commonfiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_indexdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_processfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_results",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_shuffledstates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "iron-foods/scripts/verify-all.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_verify_all",
+      "target": "scripts_verify_all_statefiles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_last_updated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_ajv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package_dependencies",
+      "target": "package_dependencies_ajv_formats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema",
+      "target": "schema_barcode_map_schema_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema",
+      "target": "schema_barcode_map_schema_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema",
+      "target": "schema_barcode_map_schema_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema",
+      "target": "schema_barcode_map_schema_title",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema",
+      "target": "schema_barcode_map_schema_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items",
+      "target": "schema_barcode_map_schema_items_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items",
+      "target": "schema_barcode_map_schema_items_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items",
+      "target": "schema_barcode_map_schema_items_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items_properties",
+      "target": "schema_barcode_map_schema_properties_barcode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items_properties",
+      "target": "schema_barcode_map_schema_properties_confidence",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_items_properties",
+      "target": "schema_barcode_map_schema_properties_food_id",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_properties_barcode",
+      "target": "schema_barcode_map_schema_barcode_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_properties_food_id",
+      "target": "schema_barcode_map_schema_food_id_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_properties_confidence",
+      "target": "schema_barcode_map_schema_confidence_maximum",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_properties_confidence",
+      "target": "schema_barcode_map_schema_confidence_minimum",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/barcode-map.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_barcode_map_schema_properties_confidence",
+      "target": "schema_barcode_map_schema_confidence_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_title",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "schema_food_schema",
+      "target": "schema_food_schema_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_aliases",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_category",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_id",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_names",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_nutrition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_serving_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties",
+      "target": "schema_food_schema_properties_states",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_id",
+      "target": "schema_food_schema_id_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_id",
+      "target": "schema_food_schema_id_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_names",
+      "target": "schema_food_schema_names_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_names",
+      "target": "schema_food_schema_names_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_names",
+      "target": "schema_food_schema_names_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_names",
+      "target": "schema_food_schema_names_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "schema_food_schema_names_properties",
+      "target": "schema_food_schema_properties_en",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "schema_food_schema_names_properties",
+      "target": "schema_food_schema_properties_kn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "schema_food_schema_names_properties",
+      "target": "schema_food_schema_properties_ml",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "schema_food_schema_names_properties",
+      "target": "schema_food_schema_properties_ta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "schema_food_schema_names_properties",
+      "target": "schema_food_schema_properties_te",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_en",
+      "target": "schema_food_schema_en_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_en",
+      "target": "schema_food_schema_en_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_ta",
+      "target": "schema_food_schema_ta_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_ta",
+      "target": "schema_food_schema_ta_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_ml",
+      "target": "schema_food_schema_ml_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_ml",
+      "target": "schema_food_schema_ml_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_kn",
+      "target": "schema_food_schema_kn_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_kn",
+      "target": "schema_food_schema_kn_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_te",
+      "target": "schema_food_schema_te_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_te",
+      "target": "schema_food_schema_te_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_aliases",
+      "target": "schema_food_schema_aliases_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_aliases",
+      "target": "schema_food_schema_aliases_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_aliases",
+      "target": "schema_food_schema_aliases_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "schema_food_schema_aliases_items",
+      "target": "schema_food_schema_items_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "schema_food_schema_states_items",
+      "target": "schema_food_schema_items_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_states",
+      "target": "schema_food_schema_states_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_states",
+      "target": "schema_food_schema_states_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_states",
+      "target": "schema_food_schema_states_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_category",
+      "target": "schema_food_schema_category_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_category",
+      "target": "schema_food_schema_category_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_serving_g",
+      "target": "schema_food_schema_serving_g_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_serving_g",
+      "target": "schema_food_schema_serving_g_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_nutrition",
+      "target": "schema_food_schema_nutrition_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_nutrition",
+      "target": "schema_food_schema_nutrition_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_nutrition",
+      "target": "schema_food_schema_nutrition_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "schema_food_schema_nutrition_properties",
+      "target": "schema_food_schema_properties_calories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "schema_food_schema_nutrition_properties",
+      "target": "schema_food_schema_properties_carbs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "schema_food_schema_nutrition_properties",
+      "target": "schema_food_schema_properties_fat",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "schema_food_schema_nutrition_properties",
+      "target": "schema_food_schema_properties_fiber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "schema_food_schema_nutrition_properties",
+      "target": "schema_food_schema_properties_protein",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_calories",
+      "target": "schema_food_schema_calories_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_protein",
+      "target": "schema_food_schema_protein_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_carbs",
+      "target": "schema_food_schema_carbs_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_fat",
+      "target": "schema_food_schema_fat_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_fiber",
+      "target": "schema_food_schema_fiber_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_metadata",
+      "target": "schema_food_schema_metadata_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_metadata",
+      "target": "schema_food_schema_metadata_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_metadata",
+      "target": "schema_food_schema_metadata_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "schema_food_schema_metadata_properties",
+      "target": "schema_food_schema_properties_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "schema_food_schema_metadata_properties",
+      "target": "schema_food_schema_properties_source_reference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "schema_food_schema_metadata_properties",
+      "target": "schema_food_schema_properties_source_reliability",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_source",
+      "target": "schema_food_schema_source_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_source_reference",
+      "target": "schema_food_schema_source_reference_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_source_reliability",
+      "target": "schema_food_schema_source_reliability_enum",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/food.schema.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "schema_food_schema_properties_source_reliability",
+      "target": "schema_food_schema_source_reliability_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_title",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "schema_manifest_schema",
+      "target": "schema_manifest_schema_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties",
+      "target": "schema_manifest_schema_properties_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties",
+      "target": "schema_manifest_schema_properties_last_updated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties",
+      "target": "schema_manifest_schema_properties_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties",
+      "target": "schema_manifest_schema_properties_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_name",
+      "target": "schema_manifest_schema_name_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_version",
+      "target": "schema_manifest_schema_version_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_version",
+      "target": "schema_manifest_schema_version_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_description",
+      "target": "schema_manifest_schema_description_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_last_updated",
+      "target": "schema_manifest_schema_last_updated_format",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/manifest.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_manifest_schema_properties_last_updated",
+      "target": "schema_manifest_schema_last_updated_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "schema_search_index_schema",
+      "target": "schema_search_index_schema_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "schema_search_index_schema",
+      "target": "schema_search_index_schema_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "schema_search_index_schema",
+      "target": "schema_search_index_schema_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "schema_search_index_schema",
+      "target": "schema_search_index_schema_title",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "schema_search_index_schema",
+      "target": "schema_search_index_schema_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items",
+      "target": "schema_search_index_schema_items_properties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items",
+      "target": "schema_search_index_schema_items_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items",
+      "target": "schema_search_index_schema_items_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_search_terms_items",
+      "target": "schema_search_index_schema_items_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items_properties",
+      "target": "schema_search_index_schema_properties_category",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items_properties",
+      "target": "schema_search_index_schema_properties_id",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_items_properties",
+      "target": "schema_search_index_schema_properties_search_terms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_properties_id",
+      "target": "schema_search_index_schema_id_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_properties_search_terms",
+      "target": "schema_search_index_schema_search_terms_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_properties_search_terms",
+      "target": "schema_search_index_schema_search_terms_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_properties_search_terms",
+      "target": "schema_search_index_schema_search_terms_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schema/search-index.schema.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "schema_search_index_schema_properties_category",
+      "target": "schema_search_index_schema_category_type",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_allfoods",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_commondir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_foodsdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_loaddir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_outputfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/generate-index.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_generate_index",
+      "target": "scripts_generate_index_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/generate-index.js",
+      "source": "scripts_generate_index",
+      "target": "search_index"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_commondir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_foodsdir",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_generateindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_normalize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_outputfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/index-engine.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_index_engine",
+      "target": "scripts_index_engine_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/index-engine.js",
+      "source": "scripts_index_engine",
+      "target": "search_index"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_addformats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_ajv",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_allfoods",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_checkduplicates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_directories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_fs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_validate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/validate-data.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "scripts_validate_data",
+      "target": "scripts_validate_data_validatedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/CONTRIBUTING.md",
+      "source": "docs_contributing",
+      "target": "docs_contributors"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/CONTRIBUTING.md",
+      "source": "docs_contributing",
+      "target": "docs_dataset_guidelines"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "docs/DATASET_GUIDELINES.md",
+      "source": "docs_dataset_guidelines",
+      "target": "rationale_source_reliability"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/MAINTAINERS.md",
+      "source": "docs_maintainers",
+      "target": "docs_data_quality_policy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/REVIEW_PROCESS.md",
+      "source": "docs_review_process",
+      "target": "docs_data_quality_policy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/GOVERNANCE.md",
+      "source": "docs_governance",
+      "target": "docs_review_process"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/MULTILINGUAL_POLICY.md",
+      "source": "docs_multilingual_policy",
+      "target": "docs_review_process"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "docs/SOURCE_POLICY.md",
+      "source": "docs_source_policy",
+      "target": "rationale_source_reliability"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "food_data_files",
+      "label": "Food Data Files",
+      "nodes": [
+        "foods_telangana_data",
+        "foods_tripura_data",
+        "foods_uttar_pradesh_data",
+        "foods_uttarakhand_data",
+        "foods_west_bengal_data"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "manifest.json"
+    },
+    {
+      "id": "governance_ecosystem",
+      "label": "Governance & Quality Ecosystem",
+      "nodes": [
+        "docs_governance",
+        "docs_review_process",
+        "docs_data_quality_policy",
+        "docs_maintainers"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "docs/GOVERNANCE.md"
+    }
+  ],
+  "built_at_commit": "d2f1c561b22b9855b25a82f50ab93711f70d4a3e"
+}

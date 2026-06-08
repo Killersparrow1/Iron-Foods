@@ -1,0 +1,367 @@
+{
+  "/home/milas/Iron Foods/.gemini/settings.json": {
+    "mtime": 1780833329.6215599,
+    "ast_hash": "f080aabf772e803c9e24b9ad0acbf2b6",
+    "semantic_hash": "f080aabf772e803c9e24b9ad0acbf2b6"
+  },
+  "/home/milas/Iron Foods/barcode-map.json": {
+    "mtime": 1780737304.5398552,
+    "ast_hash": "58439464adf4c7e151b9a7d1c648eefb",
+    "semantic_hash": "58439464adf4c7e151b9a7d1c648eefb"
+  },
+  "/home/milas/Iron Foods/common/beverages.json": {
+    "mtime": 1780739832.846485,
+    "ast_hash": "d2714a01fd6b51dd85844563df6db410",
+    "semantic_hash": "d2714a01fd6b51dd85844563df6db410"
+  },
+  "/home/milas/Iron Foods/common/fruits.json": {
+    "mtime": 1780738918.9948962,
+    "ast_hash": "2aa02975b07481fc2544728205c4b32b",
+    "semantic_hash": "2aa02975b07481fc2544728205c4b32b"
+  },
+  "/home/milas/Iron Foods/common/grains-and-cereals.json": {
+    "mtime": 1780740713.6839247,
+    "ast_hash": "81daf85e3644a8ea0485852aad8c2ea4",
+    "semantic_hash": "81daf85e3644a8ea0485852aad8c2ea4"
+  },
+  "/home/milas/Iron Foods/common/gym-staples.json": {
+    "mtime": 1780740351.5321043,
+    "ast_hash": "b33150d85d6c1ea7a3cfd8201108f6c3",
+    "semantic_hash": "b33150d85d6c1ea7a3cfd8201108f6c3"
+  },
+  "/home/milas/Iron Foods/common/vegetables.json": {
+    "mtime": 1780739823.0834355,
+    "ast_hash": "ce751b1148160140367c94cd8ee5cfaa",
+    "semantic_hash": "ce751b1148160140367c94cd8ee5cfaa"
+  },
+  "/home/milas/Iron Foods/foods/andaman-nicobar.json": {
+    "mtime": 1780738685.566729,
+    "ast_hash": "7ccd5700e18ae523992ac22f3338b3b1",
+    "semantic_hash": "7ccd5700e18ae523992ac22f3338b3b1"
+  },
+  "/home/milas/Iron Foods/foods/andhra-pradesh.json": {
+    "mtime": 1780737731.7829776,
+    "ast_hash": "b7740779b2dfe9e4d1e9db9961f2453f",
+    "semantic_hash": "b7740779b2dfe9e4d1e9db9961f2453f"
+  },
+  "/home/milas/Iron Foods/foods/arunachal-pradesh.json": {
+    "mtime": 1780738091.7417681,
+    "ast_hash": "05c58266f246fc0b511152ceba4070f9",
+    "semantic_hash": "05c58266f246fc0b511152ceba4070f9"
+  },
+  "/home/milas/Iron Foods/foods/assam.json": {
+    "mtime": 1780738109.0778544,
+    "ast_hash": "ff37200fdc29f30f6959c152c883f753",
+    "semantic_hash": "ff37200fdc29f30f6959c152c883f753"
+  },
+  "/home/milas/Iron Foods/foods/bihar.json": {
+    "mtime": 1780738123.3899255,
+    "ast_hash": "de35276ab208fb46bdadf08a345e0e7a",
+    "semantic_hash": "de35276ab208fb46bdadf08a345e0e7a"
+  },
+  "/home/milas/Iron Foods/foods/chandigarh.json": {
+    "mtime": 1780739080.175702,
+    "ast_hash": "e9e3eb59cc8586ad09e4ff7ffb6ddc85",
+    "semantic_hash": "e9e3eb59cc8586ad09e4ff7ffb6ddc85"
+  },
+  "/home/milas/Iron Foods/foods/chhattisgarh.json": {
+    "mtime": 1780738148.4640503,
+    "ast_hash": "261e2458409e966224d876288edc07b2",
+    "semantic_hash": "261e2458409e966224d876288edc07b2"
+  },
+  "/home/milas/Iron Foods/foods/dadra-nagar-haveli-daman-diu.json": {
+    "mtime": 1780738722.4059134,
+    "ast_hash": "88eb03ca8ddf2331005c4da33eeae547",
+    "semantic_hash": "88eb03ca8ddf2331005c4da33eeae547"
+  },
+  "/home/milas/Iron Foods/foods/delhi.json": {
+    "mtime": 1780739229.520449,
+    "ast_hash": "51c790a7aa5a30a9b6dbf9499ab6eb05",
+    "semantic_hash": "51c790a7aa5a30a9b6dbf9499ab6eb05"
+  },
+  "/home/milas/Iron Foods/foods/goa.json": {
+    "mtime": 1780738164.6391306,
+    "ast_hash": "ba8ebe7a8fa38cfaa353f143b68feec9",
+    "semantic_hash": "ba8ebe7a8fa38cfaa353f143b68feec9"
+  },
+  "/home/milas/Iron Foods/foods/gujarat.json": {
+    "mtime": 1780737935.5369911,
+    "ast_hash": "9e3f443dd9c883fc4304d40868f3a456",
+    "semantic_hash": "9e3f443dd9c883fc4304d40868f3a456"
+  },
+  "/home/milas/Iron Foods/foods/haryana.json": {
+    "mtime": 1780738187.998247,
+    "ast_hash": "9b9a05e5bccf0e2eb14c1f431bd97a76",
+    "semantic_hash": "9b9a05e5bccf0e2eb14c1f431bd97a76"
+  },
+  "/home/milas/Iron Foods/foods/himachal-pradesh.json": {
+    "mtime": 1780738202.8543208,
+    "ast_hash": "4c7c3e104c450e2fdb35a35b9cc54dc8",
+    "semantic_hash": "4c7c3e104c450e2fdb35a35b9cc54dc8"
+  },
+  "/home/milas/Iron Foods/foods/jammu-kashmir.json": {
+    "mtime": 1780738764.0591216,
+    "ast_hash": "c19017bff80d2b48e2e93cc14f40a689",
+    "semantic_hash": "c19017bff80d2b48e2e93cc14f40a689"
+  },
+  "/home/milas/Iron Foods/foods/jharkhand.json": {
+    "mtime": 1780738268.4316468,
+    "ast_hash": "6ebd7104cfb8b34ba96657d7a578cc2e",
+    "semantic_hash": "6ebd7104cfb8b34ba96657d7a578cc2e"
+  },
+  "/home/milas/Iron Foods/foods/karnataka.json": {
+    "mtime": 1780737657.7836094,
+    "ast_hash": "5f87d4197a76775645c706c8f997669d",
+    "semantic_hash": "5f87d4197a76775645c706c8f997669d"
+  },
+  "/home/milas/Iron Foods/foods/kerala.json": {
+    "mtime": 1780737620.1904225,
+    "ast_hash": "9424aab3faa750a6635b8cfe80a50c94",
+    "semantic_hash": "9424aab3faa750a6635b8cfe80a50c94"
+  },
+  "/home/milas/Iron Foods/foods/ladakh.json": {
+    "mtime": 1780739305.75383,
+    "ast_hash": "128443967f737dc8037594408b433f38",
+    "semantic_hash": "128443967f737dc8037594408b433f38"
+  },
+  "/home/milas/Iron Foods/foods/lakshadweep.json": {
+    "mtime": 1780739105.968831,
+    "ast_hash": "f0fa10ddc1d452fb9a4febf8db01f0cf",
+    "semantic_hash": "f0fa10ddc1d452fb9a4febf8db01f0cf"
+  },
+  "/home/milas/Iron Foods/foods/madhya-pradesh.json": {
+    "mtime": 1780738282.926719,
+    "ast_hash": "a9f57c2f75c40cf2be8db92e536ce824",
+    "semantic_hash": "a9f57c2f75c40cf2be8db92e536ce824"
+  },
+  "/home/milas/Iron Foods/foods/maharashtra.json": {
+    "mtime": 1780737922.3183808,
+    "ast_hash": "7ad55039053003ad87c1993b14eec0b6",
+    "semantic_hash": "7ad55039053003ad87c1993b14eec0b6"
+  },
+  "/home/milas/Iron Foods/foods/manipur.json": {
+    "mtime": 1780738325.5755105,
+    "ast_hash": "0455dae924b0199d3c9604b6c456a2bb",
+    "semantic_hash": "0455dae924b0199d3c9604b6c456a2bb"
+  },
+  "/home/milas/Iron Foods/foods/meghalaya.json": {
+    "mtime": 1780738347.293511,
+    "ast_hash": "f2cb91ec7331f41618cdb1c3b29ce879",
+    "semantic_hash": "f2cb91ec7331f41618cdb1c3b29ce879"
+  },
+  "/home/milas/Iron Foods/foods/mizoram.json": {
+    "mtime": 1780738359.9801023,
+    "ast_hash": "169c064705024182ca76ef0b4acbb649",
+    "semantic_hash": "169c064705024182ca76ef0b4acbb649"
+  },
+  "/home/milas/Iron Foods/foods/nagaland.json": {
+    "mtime": 1780738380.6432052,
+    "ast_hash": "a63e702cbba68506530d2710dc61b6f6",
+    "semantic_hash": "a63e702cbba68506530d2710dc61b6f6"
+  },
+  "/home/milas/Iron Foods/foods/odisha.json": {
+    "mtime": 1780738400.339303,
+    "ast_hash": "a4a1e5b8fcbb6ac48fc240c8f2c7b5f7",
+    "semantic_hash": "a4a1e5b8fcbb6ac48fc240c8f2c7b5f7"
+  },
+  "/home/milas/Iron Foods/foods/puducherry.json": {
+    "mtime": 1780738836.7794852,
+    "ast_hash": "d294a9a08b77c5ca4cda5c7cee154c5c",
+    "semantic_hash": "d294a9a08b77c5ca4cda5c7cee154c5c"
+  },
+  "/home/milas/Iron Foods/foods/punjab.json": {
+    "mtime": 1780738421.9714112,
+    "ast_hash": "b67e41fd15ae6b8952ef1d5be807ad7e",
+    "semantic_hash": "b67e41fd15ae6b8952ef1d5be807ad7e"
+  },
+  "/home/milas/Iron Foods/foods/rajasthan.json": {
+    "mtime": 1780738441.5385091,
+    "ast_hash": "143fdacb025524ed57b544387c03cbaa",
+    "semantic_hash": "143fdacb025524ed57b544387c03cbaa"
+  },
+  "/home/milas/Iron Foods/foods/sikkim.json": {
+    "mtime": 1780738572.2441626,
+    "ast_hash": "838672b1e2184ca70e31e44069cae0b3",
+    "semantic_hash": "838672b1e2184ca70e31e44069cae0b3"
+  },
+  "/home/milas/Iron Foods/foods/tamil-nadu.json": {
+    "mtime": 1780737583.9662423,
+    "ast_hash": "f4e378d01b741e95d5105be5c60e5961",
+    "semantic_hash": "f4e378d01b741e95d5105be5c60e5961"
+  },
+  "/home/milas/Iron Foods/foods/telangana.json": {
+    "mtime": 1780740657.513643,
+    "ast_hash": "cad75b422953f5fe40300a5bca7639fa",
+    "semantic_hash": "cad75b422953f5fe40300a5bca7639fa"
+  },
+  "/home/milas/Iron Foods/foods/tripura.json": {
+    "mtime": 1780738593.8112705,
+    "ast_hash": "992156e4efd45ba39e6e4dd640277c89",
+    "semantic_hash": "992156e4efd45ba39e6e4dd640277c89"
+  },
+  "/home/milas/Iron Foods/foods/uttar-pradesh.json": {
+    "mtime": 1780738616.899386,
+    "ast_hash": "24336b989aadbb6f4f726b01f82a53c3",
+    "semantic_hash": "24336b989aadbb6f4f726b01f82a53c3"
+  },
+  "/home/milas/Iron Foods/foods/uttarakhand.json": {
+    "mtime": 1780738639.0274963,
+    "ast_hash": "e482286d3c97fd4dfb8b6efe32360e83",
+    "semantic_hash": "e482286d3c97fd4dfb8b6efe32360e83"
+  },
+  "/home/milas/Iron Foods/foods/west-bengal.json": {
+    "mtime": 1780738656.4075832,
+    "ast_hash": "bea59e5a685b20ae7d36c45e8ce309ab",
+    "semantic_hash": "bea59e5a685b20ae7d36c45e8ce309ab"
+  },
+  "/home/milas/Iron Foods/iron-foods/scripts/audit.js": {
+    "mtime": 1780741132.6890252,
+    "ast_hash": "fee4b65034d7c5ef4187cdd9eb28e780",
+    "semantic_hash": "fee4b65034d7c5ef4187cdd9eb28e780"
+  },
+  "/home/milas/Iron Foods/iron-foods/scripts/verify-all.js": {
+    "mtime": 1780741278.9967587,
+    "ast_hash": "824eb94417ea5c9f7124dd5c04ae9199",
+    "semantic_hash": "824eb94417ea5c9f7124dd5c04ae9199"
+  },
+  "/home/milas/Iron Foods/manifest.json": {
+    "mtime": 1780738852.3845632,
+    "ast_hash": "ba51fcfba9a70f7d35ac268600c8f87d",
+    "semantic_hash": "ba51fcfba9a70f7d35ac268600c8f87d"
+  },
+  "/home/milas/Iron Foods/package.json": {
+    "mtime": 1780738930.7900922,
+    "ast_hash": "277e1ceb3efe9c710436cb5edde34f63",
+    "semantic_hash": "277e1ceb3efe9c710436cb5edde34f63"
+  },
+  "/home/milas/Iron Foods/schema/barcode-map.schema.json": {
+    "mtime": 1780737242.7905512,
+    "ast_hash": "89d3fbade2f8664904a7a0278324939a",
+    "semantic_hash": "89d3fbade2f8664904a7a0278324939a"
+  },
+  "/home/milas/Iron Foods/schema/food.schema.json": {
+    "mtime": 1780737219.361436,
+    "ast_hash": "6d15acffca53c9a968702848f13b49f0",
+    "semantic_hash": "6d15acffca53c9a968702848f13b49f0"
+  },
+  "/home/milas/Iron Foods/schema/manifest.schema.json": {
+    "mtime": 1780737224.6544619,
+    "ast_hash": "1b0203ab35bc5fcb469c1c1f7186c20e",
+    "semantic_hash": "1b0203ab35bc5fcb469c1c1f7186c20e"
+  },
+  "/home/milas/Iron Foods/schema/search-index.schema.json": {
+    "mtime": 1780737230.5034907,
+    "ast_hash": "afb223c26f94575acd37f9e0c5992636",
+    "semantic_hash": "afb223c26f94575acd37f9e0c5992636"
+  },
+  "/home/milas/Iron Foods/scripts/generate-index.js": {
+    "mtime": 1780736971.1382139,
+    "ast_hash": "e62e52ab72a8aeff867db539680bcd61",
+    "semantic_hash": "e62e52ab72a8aeff867db539680bcd61"
+  },
+  "/home/milas/Iron Foods/scripts/index-engine.js": {
+    "mtime": 1780737249.042582,
+    "ast_hash": "0d7cc0acd81a594089729cac079d4249",
+    "semantic_hash": "0d7cc0acd81a594089729cac079d4249"
+  },
+  "/home/milas/Iron Foods/scripts/validate-data.js": {
+    "mtime": 1780740531.3590105,
+    "ast_hash": "1f7c7b3eab34beed37a291cbbcc13005",
+    "semantic_hash": "1f7c7b3eab34beed37a291cbbcc13005"
+  },
+  "/home/milas/Iron Foods/search-index.json": {
+    "mtime": 1780740744.0970771,
+    "ast_hash": "2422a57f8413cc077487f478b05fbca5",
+    "semantic_hash": "2422a57f8413cc077487f478b05fbca5"
+  },
+  "/home/milas/Iron Foods/GEMINI.md": {
+    "mtime": 1780833329.621293,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "/home/milas/Iron Foods/README.md": {
+    "mtime": 1780743145.9009774,
+    "ast_hash": "c8a3ba705802909d0769f068fd011ad8",
+    "semantic_hash": "c8a3ba705802909d0769f068fd011ad8"
+  },
+  "/home/milas/Iron Foods/api/openapi.yaml": {
+    "mtime": 1780737353.259095,
+    "ast_hash": "aaf3d2db682467332c881a22a1d2c44b",
+    "semantic_hash": "aaf3d2db682467332c881a22a1d2c44b"
+  },
+  "/home/milas/Iron Foods/docs/CHANGELOG.md": {
+    "mtime": 1780740122.173946,
+    "ast_hash": "cbdc0c0c44f2fce7d9c94460b19f6df5",
+    "semantic_hash": "cbdc0c0c44f2fce7d9c94460b19f6df5"
+  },
+  "/home/milas/Iron Foods/docs/CODE_OF_CONDUCT.md": {
+    "mtime": 1780740076.8504133,
+    "ast_hash": "1bc2cc6642724c909939cdc84b2b00d9",
+    "semantic_hash": "1bc2cc6642724c909939cdc84b2b00d9"
+  },
+  "/home/milas/Iron Foods/docs/CONTRIBUTING.md": {
+    "mtime": 1780739956.6511903,
+    "ast_hash": "09ecd91323fd5dd9f7aad78267deaf16",
+    "semantic_hash": "09ecd91323fd5dd9f7aad78267deaf16"
+  },
+  "/home/milas/Iron Foods/docs/CONTRIBUTORS.md": {
+    "mtime": 1780740111.7578933,
+    "ast_hash": "d8749708ca16bb6b6823704044761263",
+    "semantic_hash": "d8749708ca16bb6b6823704044761263"
+  },
+  "/home/milas/Iron Foods/docs/DATASET_GUIDELINES.md": {
+    "mtime": 1780740144.2585938,
+    "ast_hash": "83862cf80882a254bafce1083670ca7a",
+    "semantic_hash": "83862cf80882a254bafce1083670ca7a"
+  },
+  "/home/milas/Iron Foods/docs/DATA_QUALITY_POLICY.md": {
+    "mtime": 1780740001.8983998,
+    "ast_hash": "00b4ada4ad57185f0bcb87391beaa45c",
+    "semantic_hash": "00b4ada4ad57185f0bcb87391beaa45c"
+  },
+  "/home/milas/Iron Foods/docs/GOVERNANCE.md": {
+    "mtime": 1780739983.951248,
+    "ast_hash": "3839c928d2871a1ce2c191ea8231b32a",
+    "semantic_hash": "3839c928d2871a1ce2c191ea8231b32a"
+  },
+  "/home/milas/Iron Foods/docs/MAINTAINERS.md": {
+    "mtime": 1780740234.349632,
+    "ast_hash": "5e38ea406230257f645a861ae4ba0c65",
+    "semantic_hash": "5e38ea406230257f645a861ae4ba0c65"
+  },
+  "/home/milas/Iron Foods/docs/MULTILINGUAL_POLICY.md": {
+    "mtime": 1780740058.1746228,
+    "ast_hash": "0835edaa75522647d40cfd0fb6dfe8bc",
+    "semantic_hash": "0835edaa75522647d40cfd0fb6dfe8bc"
+  },
+  "/home/milas/Iron Foods/docs/NUTRITION_METHODOLOGY.md": {
+    "mtime": 1780740011.108385,
+    "ast_hash": "f8c5b9d6acfdff908211e84bb7cbd4fd",
+    "semantic_hash": "f8c5b9d6acfdff908211e84bb7cbd4fd"
+  },
+  "/home/milas/Iron Foods/docs/REVIEW_PROCESS.md": {
+    "mtime": 1780740256.1736226,
+    "ast_hash": "0b5a913f89596732bdaa43207628baad",
+    "semantic_hash": "0b5a913f89596732bdaa43207628baad"
+  },
+  "/home/milas/Iron Foods/docs/ROADMAP.md": {
+    "mtime": 1780740019.9063778,
+    "ast_hash": "d367db5b7f90165e4ba13943a59bca25",
+    "semantic_hash": "d367db5b7f90165e4ba13943a59bca25"
+  },
+  "/home/milas/Iron Foods/docs/SCHEMA_DOCUMENTATION.md": {
+    "mtime": 1780740151.2460928,
+    "ast_hash": "7be56090b4b754a622458eb29e12ea5d",
+    "semantic_hash": "7be56090b4b754a622458eb29e12ea5d"
+  },
+  "/home/milas/Iron Foods/docs/SEARCH_DOCUMENTATION.md": {
+    "mtime": 1780740157.3555977,
+    "ast_hash": "fb663e7b23fbfbbeba678621ef16d35d",
+    "semantic_hash": "fb663e7b23fbfbbeba678621ef16d35d"
+  },
+  "/home/milas/Iron Foods/docs/SOURCE_POLICY.md": {
+    "mtime": 1780740272.7442791,
+    "ast_hash": "4db856dc2fa03f20caf7d3de5ecd6c5b",
+    "semantic_hash": "4db856dc2fa03f20caf7d3de5ecd6c5b"
+  }
+}
